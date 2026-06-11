@@ -1,0 +1,55 @@
+name: Catalog scan
+
+on:
+  schedule:
+    - cron: "25 0 * * *"
+    - cron: "25 12 * * *"
+  workflow_dispatch:
+    inputs:
+      discover:
+        description: Run league discovery against the ESPN core API
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Shared with live.yml so publishes never race each other.
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  catalog:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Scan all leagues
+        env:
+          DISCOVER: ${{ inputs.discover == true && 'true' || 'false' }}
+        run: node scripts/catalog.mjs
+
+      - name: Commit state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if ! git diff --cached --quiet; then
+            git commit -m "catalog $(date -u +%FT%TZ)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4

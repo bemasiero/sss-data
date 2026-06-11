@@ -1,0 +1,55 @@
+name: Live poll
+
+on:
+  schedule:
+    # Offset from :00/:15/:30/:45 — on-the-hour crons are the most delayed.
+    - cron: "4,19,34,49 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Shared with catalog.yml so publishes never race each other.
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Poll live leagues
+        id: poll
+        env:
+          PAGES_URL: https://bemasiero.github.io/sss-data
+        run: node scripts/live.mjs
+
+      - name: Commit state
+        if: steps.poll.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if ! git diff --cached --quiet; then
+            git commit -m "live $(date -u +%FT%TZ)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+        if: steps.poll.outputs.changed == 'true'
+
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.poll.outputs.changed == 'true'
+        with:
+          path: site
+
+      - id: deploy
+        if: steps.poll.outputs.changed == 'true'
+        uses: actions/deploy-pages@v4

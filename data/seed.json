@@ -1,0 +1,1567 @@
+{
+  "sports": [
+    "football",
+    "basketball",
+    "baseball",
+    "hockey",
+    "soccer",
+    "mma",
+    "racing",
+    "golf",
+    "tennis",
+    "cricket",
+    "rugby",
+    "australian-football",
+    "lacrosse",
+    "volleyball",
+    "water-polo",
+    "field-hockey",
+    "rugby-league"
+  ],
+  "leagues": [
+    {
+      "sport": "football",
+      "slug": "cfl"
+    },
+    {
+      "sport": "football",
+      "slug": "college-football"
+    },
+    {
+      "sport": "football",
+      "slug": "nfl"
+    },
+    {
+      "sport": "football",
+      "slug": "ufl"
+    },
+    {
+      "sport": "football",
+      "slug": "xfl"
+    },
+    {
+      "sport": "basketball",
+      "slug": "fiba"
+    },
+    {
+      "sport": "basketball",
+      "slug": "mens-college-basketball"
+    },
+    {
+      "sport": "basketball",
+      "slug": "mens-olympics-basketball"
+    },
+    {
+      "sport": "basketball",
+      "slug": "nba"
+    },
+    {
+      "sport": "basketball",
+      "slug": "nba-development"
+    },
+    {
+      "sport": "basketball",
+      "slug": "nba-summer-california"
+    },
+    {
+      "sport": "basketball",
+      "slug": "nba-summer-golden-state"
+    },
+    {
+      "sport": "basketball",
+      "slug": "nba-summer-las-vegas"
+    },
+    {
+      "sport": "basketball",
+      "slug": "nba-summer-orlando"
+    },
+    {
+      "sport": "basketball",
+      "slug": "nba-summer-sacramento"
+    },
+    {
+      "sport": "basketball",
+      "slug": "nba-summer-utah"
+    },
+    {
+      "sport": "basketball",
+      "slug": "nbl"
+    },
+    {
+      "sport": "basketball",
+      "slug": "wnba"
+    },
+    {
+      "sport": "basketball",
+      "slug": "womens-college-basketball"
+    },
+    {
+      "sport": "basketball",
+      "slug": "womens-olympics-basketball"
+    },
+    {
+      "sport": "baseball",
+      "slug": "caribbean-series"
+    },
+    {
+      "sport": "baseball",
+      "slug": "college-baseball"
+    },
+    {
+      "sport": "baseball",
+      "slug": "college-softball"
+    },
+    {
+      "sport": "baseball",
+      "slug": "dominican-winter-league"
+    },
+    {
+      "sport": "baseball",
+      "slug": "llb"
+    },
+    {
+      "sport": "baseball",
+      "slug": "lls"
+    },
+    {
+      "sport": "baseball",
+      "slug": "mexican-winter-league"
+    },
+    {
+      "sport": "baseball",
+      "slug": "mlb"
+    },
+    {
+      "sport": "baseball",
+      "slug": "olympics-baseball"
+    },
+    {
+      "sport": "baseball",
+      "slug": "puerto-rican-winter-league"
+    },
+    {
+      "sport": "baseball",
+      "slug": "venezuelan-winter-league"
+    },
+    {
+      "sport": "baseball",
+      "slug": "world-baseball-classic"
+    },
+    {
+      "sport": "hockey",
+      "slug": "hockey-world-cup"
+    },
+    {
+      "sport": "hockey",
+      "slug": "mens-college-hockey"
+    },
+    {
+      "sport": "hockey",
+      "slug": "nhl"
+    },
+    {
+      "sport": "hockey",
+      "slug": "olympics-mens-ice-hockey"
+    },
+    {
+      "sport": "hockey",
+      "slug": "olympics-womens-ice-hockey"
+    },
+    {
+      "sport": "hockey",
+      "slug": "womens-college-hockey"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.world"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.wwc"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uefa.champions"
+    },
+    {
+      "sport": "soccer",
+      "slug": "eng.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "eng.fa"
+    },
+    {
+      "sport": "soccer",
+      "slug": "eng.league_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "esp.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "esp.super_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "esp.copa_del_rey"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ger.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ger.playoff.relegation"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ger.dfb_pokal"
+    },
+    {
+      "sport": "soccer",
+      "slug": "usa.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "concacaf.leagues.cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "campeones.cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.shebelieves"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.w.champions_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uefa.wchampions"
+    },
+    {
+      "sport": "soccer",
+      "slug": "usa.nwsl"
+    },
+    {
+      "sport": "soccer",
+      "slug": "usa.nwsl.cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uefa.europa"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uefa.europa.conf"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.friendly"
+    },
+    {
+      "sport": "soccer",
+      "slug": "mex.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ita.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ita.coppa_italia"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fra.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fra.super_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ita.super_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ger.super_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "eng.w.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "eng.2"
+    },
+    {
+      "sport": "soccer",
+      "slug": "eng.w.promotion.relegation"
+    },
+    {
+      "sport": "soccer",
+      "slug": "eng.charity"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ned.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "por.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fra.coupe_de_france"
+    },
+    {
+      "sport": "soccer",
+      "slug": "usa.open"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ksa.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "conmebol.libertadores"
+    },
+    {
+      "sport": "soccer",
+      "slug": "concacaf.champions"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.worldq.uefa"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.wcq.ply"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.worldq.concacaf"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.worldq.afc"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.worldq.caf"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.worldq.conmebol"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.worldq.afc.conmebol"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.worldq.ofc"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.worldq.concacaf.ofc"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uefa.nations"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.friendly.w"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.wworldq.uefa"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.wwcq.ply"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uefa.w.nations"
+    },
+    {
+      "sport": "soccer",
+      "slug": "eng.w.fa"
+    },
+    {
+      "sport": "soccer",
+      "slug": "eng.w.league_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "esp.w.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "esp.copa_de_la_reina"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fra.w.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "usa.nwsl.summer.cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "usa.w.usl.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ned.cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "sco.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "sco.tennents"
+    },
+    {
+      "sport": "soccer",
+      "slug": "sco.cis"
+    },
+    {
+      "sport": "soccer",
+      "slug": "aus.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "aus.w.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ksa.kings.cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "por.taca.portugal"
+    },
+    {
+      "sport": "soccer",
+      "slug": "tur.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "caf.nations"
+    },
+    {
+      "sport": "soccer",
+      "slug": "afc.champions"
+    },
+    {
+      "sport": "soccer",
+      "slug": "afc.cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.cwc"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.olympics"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.w.olympics"
+    },
+    {
+      "sport": "soccer",
+      "slug": "concacaf.gold"
+    },
+    {
+      "sport": "soccer",
+      "slug": "concacaf.gold_qual"
+    },
+    {
+      "sport": "soccer",
+      "slug": "concacaf.w.gold"
+    },
+    {
+      "sport": "soccer",
+      "slug": "concacaf.nations.league"
+    },
+    {
+      "sport": "soccer",
+      "slug": "concacaf.confederations_playoff"
+    },
+    {
+      "sport": "soccer",
+      "slug": "concacaf.w.champions_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "concacaf.womens.championship"
+    },
+    {
+      "sport": "soccer",
+      "slug": "global.champs_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "global.wchamps_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uefa.euro"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uefa.euroq"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uefa.weuro"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uefa.euro_u21"
+    },
+    {
+      "sport": "soccer",
+      "slug": "global.finalissima"
+    },
+    {
+      "sport": "soccer",
+      "slug": "global.u20.intercontinental_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "global.w.finalissima"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.world.u20"
+    },
+    {
+      "sport": "soccer",
+      "slug": "conmebol.america"
+    },
+    {
+      "sport": "soccer",
+      "slug": "conmebol.america.femenina"
+    },
+    {
+      "sport": "soccer",
+      "slug": "afc.asian.cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "afc.w.asian.cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "afc.cupq"
+    },
+    {
+      "sport": "soccer",
+      "slug": "aff.championship"
+    },
+    {
+      "sport": "soccer",
+      "slug": "caf.nations_qual"
+    },
+    {
+      "sport": "soccer",
+      "slug": "caf.w.nations"
+    },
+    {
+      "sport": "soccer",
+      "slug": "caf.championship"
+    },
+    {
+      "sport": "soccer",
+      "slug": "caf.championship_qual"
+    },
+    {
+      "sport": "soccer",
+      "slug": "usa.usl.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "usa.usl.l1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "usa.usl.l1.cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "mex.2"
+    },
+    {
+      "sport": "soccer",
+      "slug": "can.w.nsl"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uefa.champions_qual"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uefa.europa_qual"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uefa.europa.conf_qual"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uefa.w.europa"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uefa.super_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.intercontinental_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "nonfifa"
+    },
+    {
+      "sport": "soccer",
+      "slug": "rus.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "rus.1.promotion.relegation"
+    },
+    {
+      "sport": "soccer",
+      "slug": "bel.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "bel.promotion.relegation"
+    },
+    {
+      "sport": "soccer",
+      "slug": "esp.2"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ger.2"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ita.2"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fra.1.promotion.relegation"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fra.2"
+    },
+    {
+      "sport": "soccer",
+      "slug": "por.1.promotion.relegation"
+    },
+    {
+      "sport": "soccer",
+      "slug": "aut.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "gre.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "chn.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "global.club_challenge"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ned.supercup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "club.friendly"
+    },
+    {
+      "sport": "soccer",
+      "slug": "global.pinatar_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "friendly.emirates_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "esp.joan_gamper"
+    },
+    {
+      "sport": "soccer",
+      "slug": "jpn.world_challenge"
+    },
+    {
+      "sport": "soccer",
+      "slug": "euroamericana.supercopa"
+    },
+    {
+      "sport": "soccer",
+      "slug": "global.arnold.clark_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.conmebol.olympicsq"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.concacaf.olympicsq"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.w.concacaf.olympicsq"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.world.u17"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.wworld.u17"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uefa.euro_u21_qual"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uefa.euro.u19"
+    },
+    {
+      "sport": "soccer",
+      "slug": "global.toulon"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.friendly_u21"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ger.2.promotion.relegation"
+    },
+    {
+      "sport": "soccer",
+      "slug": "eng.trophy"
+    },
+    {
+      "sport": "soccer",
+      "slug": "eng.3"
+    },
+    {
+      "sport": "soccer",
+      "slug": "eng.4"
+    },
+    {
+      "sport": "soccer",
+      "slug": "eng.5"
+    },
+    {
+      "sport": "soccer",
+      "slug": "sco.1.promotion.relegation"
+    },
+    {
+      "sport": "soccer",
+      "slug": "sco.2"
+    },
+    {
+      "sport": "soccer",
+      "slug": "sco.2.promotion.relegation"
+    },
+    {
+      "sport": "soccer",
+      "slug": "sco.challenge"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ned.w.eredivisie_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ned.playoff.relegation"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ned.2"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ned.3"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ned.3.promotion.relegation"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ned.w.knvb_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ned.w.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "swe.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "swe.1.promotion.relegation"
+    },
+    {
+      "sport": "soccer",
+      "slug": "den.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "nor.1.promotion.relegation"
+    },
+    {
+      "sport": "soccer",
+      "slug": "nor.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "cyp.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "irl.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "conmebol.sudamericana"
+    },
+    {
+      "sport": "soccer",
+      "slug": "conmebol.recopa"
+    },
+    {
+      "sport": "soccer",
+      "slug": "arg.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "arg.copa"
+    },
+    {
+      "sport": "soccer",
+      "slug": "arg.copa_de_la_superliga"
+    },
+    {
+      "sport": "soccer",
+      "slug": "arg.trofeo_de_la_campeones"
+    },
+    {
+      "sport": "soccer",
+      "slug": "arg.2"
+    },
+    {
+      "sport": "soccer",
+      "slug": "arg.supercopa"
+    },
+    {
+      "sport": "soccer",
+      "slug": "arg.supercopa.internacional"
+    },
+    {
+      "sport": "soccer",
+      "slug": "arg.3"
+    },
+    {
+      "sport": "soccer",
+      "slug": "arg.4"
+    },
+    {
+      "sport": "soccer",
+      "slug": "bra.supercopa_do_brazil"
+    },
+    {
+      "sport": "soccer",
+      "slug": "bra.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "bra.2"
+    },
+    {
+      "sport": "soccer",
+      "slug": "bra.3"
+    },
+    {
+      "sport": "soccer",
+      "slug": "bra.copa_do_brazil"
+    },
+    {
+      "sport": "soccer",
+      "slug": "bra.copa_do_nordeste"
+    },
+    {
+      "sport": "soccer",
+      "slug": "bra.camp.carioca"
+    },
+    {
+      "sport": "soccer",
+      "slug": "bra.camp.paulista"
+    },
+    {
+      "sport": "soccer",
+      "slug": "bra.camp.gaucho"
+    },
+    {
+      "sport": "soccer",
+      "slug": "bra.camp.mineiro"
+    },
+    {
+      "sport": "soccer",
+      "slug": "chi.super_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "chi.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "chi.1.promotion.relegation"
+    },
+    {
+      "sport": "soccer",
+      "slug": "chi.copa_chi"
+    },
+    {
+      "sport": "soccer",
+      "slug": "chi.2"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uru.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uru.2"
+    },
+    {
+      "sport": "soccer",
+      "slug": "col.superliga"
+    },
+    {
+      "sport": "soccer",
+      "slug": "col.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "col.copa"
+    },
+    {
+      "sport": "soccer",
+      "slug": "col.2"
+    },
+    {
+      "sport": "soccer",
+      "slug": "per.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "par.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "par.1.supercopa"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ecu.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ven.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "bol.ply.rel"
+    },
+    {
+      "sport": "soccer",
+      "slug": "bol.copa"
+    },
+    {
+      "sport": "soccer",
+      "slug": "bol.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "jpn.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "mex.campeon"
+    },
+    {
+      "sport": "soccer",
+      "slug": "concacaf.central.american.cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "concacaf.champions_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "concacaf.u23"
+    },
+    {
+      "sport": "soccer",
+      "slug": "hon.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "crc.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "gua.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "slv.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "fifa.intercontinental.cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "afc.saff.championship"
+    },
+    {
+      "sport": "soccer",
+      "slug": "chn.1.promotion.relegation"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ind.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "idn.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ind.2"
+    },
+    {
+      "sport": "soccer",
+      "slug": "mys.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "sgp.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "global.gulf_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "tha.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "bangabandhu.cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "caf.cosafa"
+    },
+    {
+      "sport": "soccer",
+      "slug": "caf.champions"
+    },
+    {
+      "sport": "soccer",
+      "slug": "rsa.1.promotion.relegation"
+    },
+    {
+      "sport": "soccer",
+      "slug": "caf.confed"
+    },
+    {
+      "sport": "soccer",
+      "slug": "rsa.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "rsa.2"
+    },
+    {
+      "sport": "soccer",
+      "slug": "rsa.mtn8"
+    },
+    {
+      "sport": "soccer",
+      "slug": "nga.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "gha.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "uga.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "usa.ncaa.m.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "usa.ncaa.w.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ken.1"
+    },
+    {
+      "sport": "soccer",
+      "slug": "afc.challenge_cup"
+    },
+    {
+      "sport": "soccer",
+      "slug": "ger.a.bayernliganorth"
+    },
+    {
+      "sport": "soccer",
+      "slug": "bra.carioca.groupa"
+    },
+    {
+      "sport": "soccer",
+      "slug": "bra.carioca.groupb"
+    },
+    {
+      "sport": "soccer",
+      "slug": "copasulsudeste"
+    },
+    {
+      "sport": "mma",
+      "slug": "absolute"
+    },
+    {
+      "sport": "mma",
+      "slug": "affliction"
+    },
+    {
+      "sport": "mma",
+      "slug": "bang-fighting"
+    },
+    {
+      "sport": "mma",
+      "slug": "banni-fight"
+    },
+    {
+      "sport": "mma",
+      "slug": "banzay"
+    },
+    {
+      "sport": "mma",
+      "slug": "barracao"
+    },
+    {
+      "sport": "mma",
+      "slug": "battlezone"
+    },
+    {
+      "sport": "mma",
+      "slug": "bellator"
+    },
+    {
+      "sport": "mma",
+      "slug": "benevides"
+    },
+    {
+      "sport": "mma",
+      "slug": "big-fight"
+    },
+    {
+      "sport": "mma",
+      "slug": "blackout"
+    },
+    {
+      "sport": "mma",
+      "slug": "bosnia"
+    },
+    {
+      "sport": "mma",
+      "slug": "boxe"
+    },
+    {
+      "sport": "mma",
+      "slug": "brazilian-freestyle"
+    },
+    {
+      "sport": "mma",
+      "slug": "budo"
+    },
+    {
+      "sport": "mma",
+      "slug": "cage-warriors"
+    },
+    {
+      "sport": "mma",
+      "slug": "dream"
+    },
+    {
+      "sport": "mma",
+      "slug": "fng"
+    },
+    {
+      "sport": "mma",
+      "slug": "ifc"
+    },
+    {
+      "sport": "mma",
+      "slug": "ifl"
+    },
+    {
+      "sport": "mma",
+      "slug": "k1"
+    },
+    {
+      "sport": "mma",
+      "slug": "ksw"
+    },
+    {
+      "sport": "mma",
+      "slug": "lfa"
+    },
+    {
+      "sport": "mma",
+      "slug": "lfc"
+    },
+    {
+      "sport": "mma",
+      "slug": "m1"
+    },
+    {
+      "sport": "mma",
+      "slug": "mfc"
+    },
+    {
+      "sport": "mma",
+      "slug": "mvp"
+    },
+    {
+      "sport": "mma",
+      "slug": "ofc"
+    },
+    {
+      "sport": "mma",
+      "slug": "other"
+    },
+    {
+      "sport": "mma",
+      "slug": "pancrase"
+    },
+    {
+      "sport": "mma",
+      "slug": "pfl"
+    },
+    {
+      "sport": "mma",
+      "slug": "pride"
+    },
+    {
+      "sport": "mma",
+      "slug": "proelite"
+    },
+    {
+      "sport": "mma",
+      "slug": "rfa"
+    },
+    {
+      "sport": "mma",
+      "slug": "rizin"
+    },
+    {
+      "sport": "mma",
+      "slug": "roc"
+    },
+    {
+      "sport": "mma",
+      "slug": "sfl"
+    },
+    {
+      "sport": "mma",
+      "slug": "shark-fights"
+    },
+    {
+      "sport": "mma",
+      "slug": "shooto-brazil"
+    },
+    {
+      "sport": "mma",
+      "slug": "shooto-japan"
+    },
+    {
+      "sport": "mma",
+      "slug": "shoxc"
+    },
+    {
+      "sport": "mma",
+      "slug": "strikeforce"
+    },
+    {
+      "sport": "mma",
+      "slug": "tfc"
+    },
+    {
+      "sport": "mma",
+      "slug": "tpf"
+    },
+    {
+      "sport": "mma",
+      "slug": "ufc"
+    },
+    {
+      "sport": "mma",
+      "slug": "vfc"
+    },
+    {
+      "sport": "mma",
+      "slug": "wec"
+    },
+    {
+      "sport": "mma",
+      "slug": "xfc"
+    },
+    {
+      "sport": "racing",
+      "slug": "f1"
+    },
+    {
+      "sport": "racing",
+      "slug": "irl"
+    },
+    {
+      "sport": "racing",
+      "slug": "nascar-premier"
+    },
+    {
+      "sport": "racing",
+      "slug": "nascar-secondary"
+    },
+    {
+      "sport": "racing",
+      "slug": "nascar-truck"
+    },
+    {
+      "sport": "golf",
+      "slug": "champions-tour"
+    },
+    {
+      "sport": "golf",
+      "slug": "eur"
+    },
+    {
+      "sport": "golf",
+      "slug": "liv"
+    },
+    {
+      "sport": "golf",
+      "slug": "lpga"
+    },
+    {
+      "sport": "golf",
+      "slug": "mens-olympics-golf"
+    },
+    {
+      "sport": "golf",
+      "slug": "ntw"
+    },
+    {
+      "sport": "golf",
+      "slug": "pga"
+    },
+    {
+      "sport": "golf",
+      "slug": "tgl"
+    },
+    {
+      "sport": "golf",
+      "slug": "womens-olympics-golf"
+    },
+    {
+      "sport": "tennis",
+      "slug": "atp"
+    },
+    {
+      "sport": "tennis",
+      "slug": "wta"
+    },
+    {
+      "sport": "rugby",
+      "slug": "268565"
+    },
+    {
+      "sport": "rugby",
+      "slug": "164205"
+    },
+    {
+      "sport": "rugby",
+      "slug": "180659"
+    },
+    {
+      "sport": "rugby",
+      "slug": "244293"
+    },
+    {
+      "sport": "rugby",
+      "slug": "271937"
+    },
+    {
+      "sport": "rugby",
+      "slug": "272073"
+    },
+    {
+      "sport": "rugby",
+      "slug": "267979"
+    },
+    {
+      "sport": "rugby",
+      "slug": "270557"
+    },
+    {
+      "sport": "rugby",
+      "slug": "270559"
+    },
+    {
+      "sport": "rugby",
+      "slug": "2009"
+    },
+    {
+      "sport": "rugby",
+      "slug": "17567"
+    },
+    {
+      "sport": "rugby",
+      "slug": "242041"
+    },
+    {
+      "sport": "rugby",
+      "slug": "289271"
+    },
+    {
+      "sport": "rugby",
+      "slug": "289272"
+    },
+    {
+      "sport": "rugby",
+      "slug": "289277"
+    },
+    {
+      "sport": "rugby",
+      "slug": "289279"
+    },
+    {
+      "sport": "rugby",
+      "slug": "270555"
+    },
+    {
+      "sport": "rugby",
+      "slug": "270563"
+    },
+    {
+      "sport": "rugby",
+      "slug": "236461"
+    },
+    {
+      "sport": "rugby",
+      "slug": "289274"
+    },
+    {
+      "sport": "rugby",
+      "slug": "282"
+    },
+    {
+      "sport": "rugby",
+      "slug": "283"
+    },
+    {
+      "sport": "rugby",
+      "slug": "289237"
+    },
+    {
+      "sport": "rugby",
+      "slug": "289262"
+    },
+    {
+      "sport": "rugby",
+      "slug": "289234"
+    },
+    {
+      "sport": "australian-football",
+      "slug": "afl"
+    },
+    {
+      "sport": "lacrosse",
+      "slug": "mens-college-lacrosse"
+    },
+    {
+      "sport": "lacrosse",
+      "slug": "nll"
+    },
+    {
+      "sport": "lacrosse",
+      "slug": "pll"
+    },
+    {
+      "sport": "lacrosse",
+      "slug": "womens-college-lacrosse"
+    },
+    {
+      "sport": "volleyball",
+      "slug": "mens-college-volleyball"
+    },
+    {
+      "sport": "volleyball",
+      "slug": "womens-college-volleyball"
+    },
+    {
+      "sport": "water-polo",
+      "slug": "mens-college-water-polo"
+    },
+    {
+      "sport": "water-polo",
+      "slug": "womens-college-water-polo"
+    },
+    {
+      "sport": "field-hockey",
+      "slug": "womens-college-field-hockey"
+    },
+    {
+      "sport": "rugby-league",
+      "slug": "3"
+    }
+  ]
+}
