@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T16:40:14.443Z",
+  "generatedAt": "2026-06-11T16:41:30.437Z",
   "window": [
     "2026-06-10",
     "2026-06-11",
@@ -15,23 +15,6 @@
           "id": "401859966",
           "start": "2026-06-11T00:30:00.000Z",
           "state": "post"
-        }
-      ]
-    },
-    "baseball/college-baseball": {
-      "sport": "baseball",
-      "slug": "college-baseball",
-      "name": "NCAA Baseball",
-      "events": [
-        {
-          "id": "401874397",
-          "start": "2026-06-12T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401874398",
-          "start": "2026-06-12T23:00:00.000Z",
-          "state": "pre"
         }
       ]
     },
@@ -78,33 +61,6 @@
         {
           "id": "401856985",
           "start": "2026-06-13T02:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/fifa.world": {
-      "sport": "soccer",
-      "slug": "fifa.world",
-      "name": "FIFA World Cup",
-      "events": [
-        {
-          "id": "760415",
-          "start": "2026-06-11T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "760414",
-          "start": "2026-06-12T02:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "760416",
-          "start": "2026-06-12T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "760417",
-          "start": "2026-06-13T01:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -306,6 +262,23 @@
         }
       ]
     },
+    "baseball/college-baseball": {
+      "sport": "baseball",
+      "slug": "college-baseball",
+      "name": "NCAA Baseball",
+      "events": [
+        {
+          "id": "401874397",
+          "start": "2026-06-12T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401874398",
+          "start": "2026-06-12T23:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "hockey/nhl": {
       "sport": "hockey",
       "slug": "nhl",
@@ -314,6 +287,33 @@
         {
           "id": "401874175",
           "start": "2026-06-12T00:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/fifa.world": {
+      "sport": "soccer",
+      "slug": "fifa.world",
+      "name": "FIFA World Cup",
+      "events": [
+        {
+          "id": "760415",
+          "start": "2026-06-11T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "760414",
+          "start": "2026-06-12T02:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "760416",
+          "start": "2026-06-12T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "760417",
+          "start": "2026-06-13T01:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -521,6 +521,18 @@
         }
       ]
     },
+    "soccer/arg.4": {
+      "sport": "soccer",
+      "slug": "arg.4",
+      "name": "Argentine Primera C",
+      "events": [
+        {
+          "id": "401844464",
+          "start": "2026-06-12T21:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/bra.2": {
       "sport": "soccer",
       "slug": "bra.2",
@@ -544,18 +556,6 @@
         {
           "id": "401860189",
           "start": "2026-06-12T22:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/arg.4": {
-      "sport": "soccer",
-      "slug": "arg.4",
-      "name": "Argentine Primera C",
-      "events": [
-        {
-          "id": "401844464",
-          "start": "2026-06-12T21:30:00.000Z",
           "state": "pre"
         }
       ]
@@ -606,15 +606,15 @@
         }
       ]
     },
-    "golf/pga": {
+    "golf/champions-tour": {
       "sport": "golf",
-      "slug": "pga",
-      "name": "PGA TOUR",
+      "slug": "champions-tour",
+      "name": "PGA TOUR Champions",
       "events": [
         {
-          "id": "401811951",
-          "start": "2026-06-11T04:00:00.000Z",
-          "state": "in"
+          "id": "401832058",
+          "start": "2026-06-12T04:00:00.000Z",
+          "state": "pre"
         }
       ]
     },
@@ -630,6 +630,18 @@
         }
       ]
     },
+    "golf/pga": {
+      "sport": "golf",
+      "slug": "pga",
+      "name": "PGA TOUR",
+      "events": [
+        {
+          "id": "401811951",
+          "start": "2026-06-11T04:00:00.000Z",
+          "state": "in"
+        }
+      ]
+    },
     "golf/ntw": {
       "sport": "golf",
       "slug": "ntw",
@@ -642,14 +654,14 @@
         }
       ]
     },
-    "golf/champions-tour": {
-      "sport": "golf",
-      "slug": "champions-tour",
-      "name": "PGA TOUR Champions",
+    "rugby/267979": {
+      "sport": "rugby",
+      "slug": "267979",
+      "name": "Gallagher Prem",
       "events": [
         {
-          "id": "401832058",
-          "start": "2026-06-12T04:00:00.000Z",
+          "id": "603070",
+          "start": "2026-06-12T18:45:00.000Z",
           "state": "pre"
         }
       ]
@@ -662,18 +674,6 @@
         {
           "id": "603212",
           "start": "2026-06-12T07:05:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "rugby/267979": {
-      "sport": "rugby",
-      "slug": "267979",
-      "name": "Gallagher Prem",
-      "events": [
-        {
-          "id": "603070",
-          "start": "2026-06-12T18:45:00.000Z",
           "state": "pre"
         }
       ]
