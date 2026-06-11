@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T16:41:30.437Z",
+  "generatedAt": "2026-06-11T18:19:44.985Z",
   "window": [
     "2026-06-10",
     "2026-06-11",
@@ -61,6 +61,23 @@
         {
           "id": "401856985",
           "start": "2026-06-13T02:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "baseball/college-baseball": {
+      "sport": "baseball",
+      "slug": "college-baseball",
+      "name": "NCAA Baseball",
+      "events": [
+        {
+          "id": "401874397",
+          "start": "2026-06-12T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401874398",
+          "start": "2026-06-12T23:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -148,22 +165,22 @@
         {
           "id": "401815711",
           "start": "2026-06-11T17:10:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401815713",
           "start": "2026-06-11T17:10:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401815715",
           "start": "2026-06-11T17:10:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401815717",
           "start": "2026-06-11T18:10:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401815718",
@@ -258,23 +275,6 @@
         {
           "id": "401815731",
           "start": "2026-06-13T02:15:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "baseball/college-baseball": {
-      "sport": "baseball",
-      "slug": "college-baseball",
-      "name": "NCAA Baseball",
-      "events": [
-        {
-          "id": "401874397",
-          "start": "2026-06-12T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401874398",
-          "start": "2026-06-12T23:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -456,7 +456,7 @@
         {
           "id": "401867652",
           "start": "2026-06-11T17:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         }
       ]
     },
@@ -618,15 +618,15 @@
         }
       ]
     },
-    "golf/lpga": {
+    "golf/ntw": {
       "sport": "golf",
-      "slug": "lpga",
-      "name": "Ladies Pro Golf Association",
+      "slug": "ntw",
+      "name": "Korn Ferry Tour",
       "events": [
         {
-          "id": "401835159",
+          "id": "401837440",
           "start": "2026-06-11T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         }
       ]
     },
@@ -642,15 +642,15 @@
         }
       ]
     },
-    "golf/ntw": {
+    "golf/lpga": {
       "sport": "golf",
-      "slug": "ntw",
-      "name": "Korn Ferry Tour",
+      "slug": "lpga",
+      "name": "Ladies Pro Golf Association",
       "events": [
         {
-          "id": "401837440",
+          "id": "401835159",
           "start": "2026-06-11T04:00:00.000Z",
-          "state": "in"
+          "state": "pre"
         }
       ]
     },
