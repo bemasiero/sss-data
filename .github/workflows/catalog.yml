@@ -35,6 +35,9 @@ jobs:
           DISCOVER: ${{ inputs.discover == true && 'true' || 'false' }}
         run: node scripts/catalog.mjs
 
+      - name: EPG broadcast enrichment
+        run: node scripts/epg.mjs
+
       - name: Commit state
         run: |
           git config user.name "github-actions[bot]"

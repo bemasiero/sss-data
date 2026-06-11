@@ -1,0 +1,21 @@
+{
+  "comment": "EPG feeds matched against manifest events by team aliases + kickoff window. lang drives CLDR alias generation for national teams. Sources are best-effort: failures are logged and skipped.",
+  "sources": [
+    { "country": "US", "lang": "en", "url": "https://iptv-epg.org/files/epg-us.xml.gz" },
+    { "country": "GB", "lang": "en", "url": "https://iptv-epg.org/files/epg-gb.xml.gz" },
+    { "country": "CA", "lang": "en", "url": "https://iptv-epg.org/files/epg-ca.xml.gz" },
+    { "country": "BR", "lang": "pt", "url": "https://iptv-epg.org/files/epg-br.xml.gz" },
+    { "country": "MX", "lang": "es", "url": "https://iptv-epg.org/files/epg-mx.xml.gz" },
+    { "country": "AR", "lang": "es", "url": "https://iptv-epg.org/files/epg-ar.xml.gz" },
+    { "country": "ES", "lang": "es", "url": "https://iptv-epg.org/files/epg-es.xml.gz" },
+    { "country": "FR", "lang": "fr", "url": "https://iptv-epg.org/files/epg-fr.xml.gz" },
+    { "country": "DE", "lang": "de", "url": "https://iptv-epg.org/files/epg-de.xml.gz" },
+    { "country": "IT", "lang": "it", "url": "https://iptv-epg.org/files/epg-it.xml.gz" },
+    { "country": "PT", "lang": "pt", "url": "https://iptv-epg.org/files/epg-pt.xml.gz" },
+    { "country": "NL", "lang": "nl", "url": "https://iptv-epg.org/files/epg-nl.xml.gz" },
+    { "country": "BE", "lang": "fr", "url": "https://iptv-epg.org/files/epg-be.xml.gz" },
+    { "country": "IE", "lang": "en", "url": "https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz" },
+    { "country": "FR", "lang": "fr", "url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz" },
+    { "country": "AU", "lang": "en", "url": "https://iptv-epg.org/files/epg-au.xml.gz" }
+  ]
+}

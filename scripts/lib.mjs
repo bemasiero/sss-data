@@ -91,9 +91,15 @@ export function extractName(data, fallback) {
 // ─── Manifest assembly ────────────────────────────────────────────────────────
 
 // Insert/replace events by id, keeping the array date-sorted.
+// EPG enrichment (_broadcasts, added by epg.mjs at catalog time) is carried
+// over so live polls don't strip it from refreshed events.
 export function upsertEvents(payload, freshEvents) {
   const byId = new Map((payload.events ?? []).map(ev => [String(ev.id), ev]))
-  for (const ev of freshEvents ?? []) byId.set(String(ev.id), ev)
+  for (const ev of freshEvents ?? []) {
+    const old = byId.get(String(ev.id))
+    if (old?._broadcasts && !ev._broadcasts) ev._broadcasts = old._broadcasts
+    byId.set(String(ev.id), ev)
+  }
   payload.events = [...byId.values()].sort((a, b) => (a.date ?? "").localeCompare(b.date ?? ""))
 }
 
