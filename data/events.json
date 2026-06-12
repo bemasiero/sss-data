@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T05:10:28.165Z",
+  "generatedAt": "2026-06-12T15:43:49.885Z",
   "window": [
     "2026-06-11",
     "2026-06-12",
@@ -71,6 +71,33 @@
         {
           "id": "401856989",
           "start": "2026-06-14T02:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "baseball/college-baseball": {
+      "sport": "baseball",
+      "slug": "college-baseball",
+      "name": "NCAA Baseball",
+      "events": [
+        {
+          "id": "401874397",
+          "start": "2026-06-12T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401874398",
+          "start": "2026-06-12T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401874399",
+          "start": "2026-06-13T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401874400",
+          "start": "2026-06-14T00:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -268,33 +295,6 @@
         {
           "id": "401815748",
           "start": "2026-06-14T02:07:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "baseball/college-baseball": {
-      "sport": "baseball",
-      "slug": "college-baseball",
-      "name": "NCAA Baseball",
-      "events": [
-        {
-          "id": "401874397",
-          "start": "2026-06-12T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401874398",
-          "start": "2026-06-12T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401874399",
-          "start": "2026-06-13T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401874400",
-          "start": "2026-06-14T00:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -562,6 +562,38 @@
         }
       ]
     },
+    "soccer/arg.4": {
+      "sport": "soccer",
+      "slug": "arg.4",
+      "name": "Argentine Primera C",
+      "events": [
+        {
+          "id": "401844464",
+          "start": "2026-06-12T21:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844462",
+          "start": "2026-06-13T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844465",
+          "start": "2026-06-13T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844472",
+          "start": "2026-06-13T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844468",
+          "start": "2026-06-13T18:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/arg.2": {
       "sport": "soccer",
       "slug": "arg.2",
@@ -605,35 +637,6 @@
         {
           "id": "401843929",
           "start": "2026-06-13T23:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/bra.2": {
-      "sport": "soccer",
-      "slug": "bra.2",
-      "name": "Brazilian Serie B",
-      "events": [
-        {
-          "id": "401860189",
-          "start": "2026-06-12T22:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/bra.3": {
-      "sport": "soccer",
-      "slug": "bra.3",
-      "name": "Brazilian Serie C",
-      "events": [
-        {
-          "id": "401862495",
-          "start": "2026-06-13T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401862489",
-          "start": "2026-06-13T19:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -685,34 +688,31 @@
         }
       ]
     },
-    "soccer/arg.4": {
+    "soccer/bra.2": {
       "sport": "soccer",
-      "slug": "arg.4",
-      "name": "Argentine Primera C",
+      "slug": "bra.2",
+      "name": "Brazilian Serie B",
       "events": [
         {
-          "id": "401844464",
-          "start": "2026-06-12T21:30:00.000Z",
+          "id": "401860189",
+          "start": "2026-06-12T22:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/bra.3": {
+      "sport": "soccer",
+      "slug": "bra.3",
+      "name": "Brazilian Serie C",
+      "events": [
+        {
+          "id": "401862495",
+          "start": "2026-06-13T14:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401844462",
-          "start": "2026-06-13T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844465",
-          "start": "2026-06-13T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844472",
-          "start": "2026-06-13T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844468",
-          "start": "2026-06-13T18:30:00.000Z",
+          "id": "401862489",
+          "start": "2026-06-13T19:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -810,15 +810,27 @@
         }
       ]
     },
-    "golf/lpga": {
-      "sport": "golf",
-      "slug": "lpga",
-      "name": "Ladies Pro Golf Association",
+    "racing/f1": {
+      "sport": "racing",
+      "slug": "f1",
+      "name": "Formula 1",
       "events": [
         {
-          "id": "401835159",
-          "start": "2026-06-11T04:00:00.000Z",
-          "state": "pre"
+          "id": "600057435",
+          "start": "2026-06-12T11:30:00.000Z",
+          "state": "in"
+        }
+      ]
+    },
+    "golf/champions-tour": {
+      "sport": "golf",
+      "slug": "champions-tour",
+      "name": "PGA TOUR Champions",
+      "events": [
+        {
+          "id": "401832058",
+          "start": "2026-06-12T04:00:00.000Z",
+          "state": "in"
         }
       ]
     },
@@ -834,26 +846,14 @@
         }
       ]
     },
-    "racing/f1": {
-      "sport": "racing",
-      "slug": "f1",
-      "name": "Formula 1",
-      "events": [
-        {
-          "id": "600057435",
-          "start": "2026-06-12T11:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "golf/champions-tour": {
+    "golf/lpga": {
       "sport": "golf",
-      "slug": "champions-tour",
-      "name": "PGA TOUR Champions",
+      "slug": "lpga",
+      "name": "Ladies Pro Golf Association",
       "events": [
         {
-          "id": "401832058",
-          "start": "2026-06-12T04:00:00.000Z",
+          "id": "401835159",
+          "start": "2026-06-11T04:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -866,23 +866,62 @@
         {
           "id": "401837440",
           "start": "2026-06-11T04:00:00.000Z",
-          "state": "post"
+          "state": "in"
         }
       ]
     },
-    "rugby/267979": {
-      "sport": "rugby",
-      "slug": "267979",
-      "name": "Gallagher Prem",
+    "golf/pga": {
+      "sport": "golf",
+      "slug": "pga",
+      "name": "PGA TOUR",
       "events": [
         {
-          "id": "603070",
-          "start": "2026-06-12T18:45:00.000Z",
+          "id": "401811951",
+          "start": "2026-06-11T04:00:00.000Z",
+          "state": "in"
+        }
+      ]
+    },
+    "tennis/wta": {
+      "sport": "tennis",
+      "slug": "wta",
+      "name": "WTA",
+      "events": [
+        {
+          "id": "415-2026",
+          "start": "2026-06-06T04:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "603071",
-          "start": "2026-06-13T14:00:00.000Z",
+          "id": "997-2026",
+          "start": "2026-06-07T04:00:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "1015-2026",
+          "start": "2026-06-07T04:00:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "1066-2026",
+          "start": "2026-06-07T04:00:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "635-2026",
+          "start": "2026-06-13T04:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "rugby/270559": {
+      "sport": "rugby",
+      "slug": "270559",
+      "name": "French Top 14",
+      "events": [
+        {
+          "id": "602861",
+          "start": "2026-06-13T19:05:00.000Z",
           "state": "pre"
         }
       ]
@@ -904,26 +943,19 @@
         }
       ]
     },
-    "golf/pga": {
-      "sport": "golf",
-      "slug": "pga",
-      "name": "PGA TOUR",
-      "events": [
-        {
-          "id": "401811951",
-          "start": "2026-06-11T04:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
-    "rugby/270559": {
+    "rugby/267979": {
       "sport": "rugby",
-      "slug": "270559",
-      "name": "French Top 14",
+      "slug": "267979",
+      "name": "Gallagher Prem",
       "events": [
         {
-          "id": "602861",
-          "start": "2026-06-13T19:05:00.000Z",
+          "id": "603070",
+          "start": "2026-06-12T18:45:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "603071",
+          "start": "2026-06-13T14:00:00.000Z",
           "state": "pre"
         }
       ]
