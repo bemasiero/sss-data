@@ -1,0 +1,866 @@
+{
+  "AR": [
+    {
+      "canonical": "El Trece",
+      "aliases": ["Canal 13", "Canal 13 Argentina", "El Trece HD", "El Trece Argentina"]
+    },
+    {
+      "canonical": "Telefe",
+      "aliases": [
+        "Canal 11", "Telefe HD", "Telefe Argentina", "Telefe Córdoba", "Telefe Rosario",
+        "Telefe Mendoza", "Telefe Santa Fe", "Telefe Tucumán", "Telefe Bahía Blanca",
+        "Telefe Mar del Plata", "Telefe Neuquén", "Telefe Salta", "Telefe Jujuy"
+      ]
+    },
+    {
+      "canonical": "TV Pública",
+      "aliases": ["Canal 7", "Canal 7 Argentina", "RTA", "TV Pública Argentina"]
+    },
+    {
+      "canonical": "América TV",
+      "aliases": ["Canal 2", "América 2", "América TV Argentina"]
+    },
+    {
+      "canonical": "TyC Sports",
+      "aliases": [
+        "TyC Sports Argentina", "TyC Sports 2", "TyC Sports 3", "TyC Sports 4",
+        "TyC Sports Play", "TyC Sports HD"
+      ]
+    },
+    {
+      "canonical": "ESPN",
+      "aliases": [
+        "ESPN Argentina", "ESPN HD", "ESPN Premium", "ESPN 2", "ESPN 2 Argentina",
+        "ESPN 3", "ESPN 3 Argentina", "ESPN Extra", "ESPN Extra Argentina"
+      ]
+    },
+    {
+      "canonical": "TNT Sports",
+      "aliases": [
+        "TNT Sports Argentina", "TNT Sports HD",
+        "Fox Sports Argentina", "Fox Sports Premium", "Fox Sports 2 Argentina",
+        "Fox Sports 3 Argentina"
+      ]
+    },
+    {
+      "canonical": "DSports",
+      "aliases": [
+        "DIRECTV Sports", "DIRECTV Sports Argentina", "DIRECTV Sports 2",
+        "DSports 2", "DSports HD"
+      ]
+    }
+  ],
+
+  "AU": [
+    {
+      "canonical": "Seven",
+      "aliases": [
+        "7", "Seven Network", "Seven HD", "ATN7", "HSV7", "BTQ7", "SAS7", "TVW7",
+        "7 Melbourne", "7 Sydney", "7 Brisbane", "7 Adelaide", "7 Perth",
+        "Seven Queensland", "Seven Regional WA", "Seven Regional",
+        "NEN7 Northern NSW", "CBN7 Southern NSW", "AMV7 Regional Victoria"
+      ]
+    },
+    {
+      "canonical": "7mate",
+      "aliases": ["7 Mate", "Seven Mate", "7mate HD"]
+    },
+    {
+      "canonical": "7two",
+      "aliases": ["Seven Two", "7 Two", "7two HD"]
+    },
+    {
+      "canonical": "Nine",
+      "aliases": [
+        "9", "Nine Network", "Nine HD", "TCN9", "GTV9", "QTQ9", "NWS9", "STW9",
+        "9 Sydney", "9 Melbourne", "9 Brisbane", "9 Adelaide", "9 Perth",
+        "WIN9", "WIN Television", "NBN9 Northern NSW", "Nine Regional",
+        "Southern Cross Nine", "Imparja"
+      ]
+    },
+    {
+      "canonical": "9Gem",
+      "aliases": ["9 Gem", "Nine Gem", "9Gem HD", "GEM"]
+    },
+    {
+      "canonical": "9Go!",
+      "aliases": ["9 Go", "Nine Go", "GO!", "9Go HD"]
+    },
+    {
+      "canonical": "Ten",
+      "aliases": [
+        "Network 10", "Channel Ten", "10", "TEN HD", "10 HD",
+        "Ten Sydney", "Ten Melbourne", "Ten Brisbane", "Ten Adelaide", "Ten Perth",
+        "Southern Cross Ten", "WIN Ten"
+      ]
+    },
+    {
+      "canonical": "10 Bold",
+      "aliases": ["ONE", "10 Bold HD"]
+    },
+    {
+      "canonical": "Fox Sports",
+      "aliases": [
+        "Fox Sports Australia", "Fox Sports 1", "Fox Sports 2", "Fox Sports 3",
+        "Fox Sports 503", "Fox Sports 505", "Fox Sports 506", "Fox Sports More+"
+      ]
+    },
+    {
+      "canonical": "Fox Footy",
+      "aliases": ["Fox Footy Channel", "Fox AFL"]
+    },
+    {
+      "canonical": "Fox League",
+      "aliases": ["Fox NRL"]
+    },
+    {
+      "canonical": "beIN Sports",
+      "aliases": [
+        "beIN Sports Australia", "beIN Sports 1", "beIN Sports 2", "beIN Sports 3"
+      ]
+    }
+  ],
+
+  "BE": [
+    {
+      "canonical": "Play Sports",
+      "aliases": [
+        "Play Sports 1", "Play Sports 2", "Play Sports 3", "Play Sports 4",
+        "Play Sports HD", "Telenet Play Sports"
+      ]
+    },
+    {
+      "canonical": "DAZN",
+      "aliases": [
+        "DAZN Belgium", "DAZN 1", "DAZN 2", "DAZN 3",
+        "DAZN Pro League 1", "DAZN Pro League 2", "DAZN Pro League 3",
+        "Eleven Sports", "Eleven Sports 1", "Eleven Sports 2", "Eleven Sports 3",
+        "Eleven Sports Belgium"
+      ]
+    },
+    {
+      "canonical": "Sporza",
+      "aliases": ["Sporza VRT", "VRT Sporza"]
+    },
+    {
+      "canonical": "Eurosport",
+      "aliases": [
+        "Eurosport 1", "Eurosport 2", "Eurosport Belgium",
+        "Eurosport 1 HD", "Eurosport 2 HD"
+      ]
+    },
+    {
+      "canonical": "RTBF La Une",
+      "aliases": ["La Une", "RTBF 1"]
+    },
+    {
+      "canonical": "RTBF La Deux",
+      "aliases": ["La Deux", "RTBF 2"]
+    }
+  ],
+
+  "BR": [
+    {
+      "canonical": "Globo",
+      "aliases": [
+        "TV Globo", "Rede Globo", "Globo HD", "Globo SP", "Globo RJ",
+        "Globo MG", "Globo DF", "Globo RS", "Globo PR", "Globo BA",
+        "TV Globo São Paulo", "TV Globo Rio", "TV Globo Rio de Janeiro",
+        "TV Globo Brasília", "TV Globo Belo Horizonte",
+        "EPTV", "EPTV Campinas", "EPTV Ribeirão Preto", "EPTV São Carlos",
+        "EPTV Sul de Minas", "EPTV Varginha",
+        "TV Anhanguera", "TV Anhanguera Goiânia", "TV Anhanguera Anápolis",
+        "TV Anhanguera Araguaína", "TV Anhanguera Palmas", "TV Anhanguera Gurupi",
+        "RBS TV", "RBS TV Porto Alegre", "RBS TV Caxias do Sul",
+        "NSC TV", "NSC TV Florianópolis", "NSC TV Centro-Oeste",
+        "RPC", "RPC Curitiba", "RPC Cascavel", "RPC Londrina", "RPC Ponta Grossa",
+        "TV TEM", "TV TEM Sorocaba", "TV TEM Bauru",
+        "TV Vanguarda", "TV Vanguarda São José dos Campos", "TV Vanguarda Taubaté",
+        "TV Morena", "TV Morena Campo Grande",
+        "TV Centro América", "TV Centro América Cuiabá",
+        "TV Gazeta ES", "TV Gazeta Vitória",
+        "Rede Bahia", "TV Bahia", "TV Bahia Salvador",
+        "TV Sergipe", "TV Asa Branca", "TV Grande Rio",
+        "TV Verdes Mares", "TV Cabo Branco",
+        "TV Mirante", "TV Mirante São Luís",
+        "TV Liberal", "TV Liberal Belém",
+        "TV Tapajós", "TV Tapajós Santarém",
+        "Rede Amazônica", "Rede Amazônica Manaus", "Rede Amazônica Belém",
+        "Rede Amazônica Porto Velho", "Rede Amazônica Rio Branco",
+        "InterTV", "InterTV Grande Minas", "InterTV dos Vales",
+        "InterTV Serra Mar", "InterTV Alto Litoral", "InterTV Planície",
+        "TV Integração", "TV Rio Sul", "TV Clube PI", "TV Alvorada PI",
+        "TV Bonito",
+        "Globo Anhanguera", "Globo Brasil", "Globo Internacional",
+        "Globo News", "GloboNews"
+      ]
+    },
+    {
+      "canonical": "SporTV",
+      "aliases": [
+        "SporTV 2", "SporTV 3", "SporTV 4",
+        "Sportv", "Sportv 2", "Sportv 3",
+        "SporTV HD", "SporTV 2 HD", "SporTV 3 HD"
+      ]
+    },
+    {
+      "canonical": "Premiere",
+      "aliases": [
+        "Premiere FC", "Premiere 2", "Premiere 3", "Premiere 4",
+        "Premiere 5", "Premiere 6", "Premiere 7", "Premiere 8",
+        "Premiere Esportes", "Premiere HD"
+      ]
+    },
+    {
+      "canonical": "ESPN Brasil",
+      "aliases": [
+        "ESPN Brazil", "ESPN BR", "ESPN Brasil HD",
+        "ESPN 2 Brasil", "ESPN 2 Brazil",
+        "ESPN 3 Brasil", "ESPN 3 Brazil",
+        "ESPN 4 Brasil"
+      ]
+    },
+    {
+      "canonical": "Band",
+      "aliases": [
+        "Rede Bandeirantes", "BandSports", "Band Sports",
+        "TV Band", "Band SP", "Band Rio",
+        "TV Bandeirantes", "Band HD"
+      ]
+    },
+    {
+      "canonical": "SBT",
+      "aliases": [
+        "SBT Brasil", "SBT HD", "SBT RJ", "SBT SP", "SBT MG", "SBT RS",
+        "SBT Minas", "SBT São Paulo"
+      ]
+    },
+    {
+      "canonical": "Record TV",
+      "aliases": ["Rede Record", "Record TV HD", "Record News"]
+    },
+    {
+      "canonical": "Combate",
+      "aliases": ["Combate BR"]
+    }
+  ],
+
+  "CA": [
+    {
+      "canonical": "TSN",
+      "aliases": [
+        "TSN1", "TSN 1", "TSN HD", "The Sports Network",
+        "TSN2", "TSN 2", "TSN3", "TSN 3",
+        "TSN4", "TSN 4", "TSN5", "TSN 5",
+        "TSN Direct", "TSN East", "TSN West",
+        "TSN+", "TSN+ 01", "TSN+ 02", "TSN+ 03", "TSN+ 04", "TSN+ 05",
+        "TSN+ 06", "TSN+ 07", "TSN+ 08", "TSN+ 09", "TSN+ 10"
+      ]
+    },
+    {
+      "canonical": "Sportsnet",
+      "aliases": [
+        "Sportsnet Ontario", "Sportsnet East", "Sportsnet West", "Sportsnet Pacific",
+        "SN", "SN Ontario", "SN East", "SN West", "SN Pacific",
+        "Sportsnet ONE", "Sportsnet One", "SN1",
+        "Sportsnet 360", "SN360", "Sportsnet World",
+        "Rogers Sportsnet", "Rogers Sportsnet East", "Rogers Sportsnet Ontario",
+        "Rogers Sportsnet West", "Rogers Sportsnet Pacific",
+        "Rogers Super Sports 431", "Rogers Super Sports 432", "Rogers Super Sports 433",
+        "Rogers Super Sports 434", "Rogers Super Sports 435", "Rogers Super Sports 436",
+        "Rogers Super Sports 437", "Rogers Super Sports 438", "Rogers Super Sports 439",
+        "Rogers Super Sports 440", "Rogers Super Sports 441", "Rogers Super Sports 442",
+        "Rogers Super Sports 443", "Rogers Super Sports 444", "Rogers Super Sports 445",
+        "Rogers Super Sports 446", "Rogers Super Sports 447", "Rogers Super Sports 448",
+        "SN+", "SN+ 1", "SN+ 2", "SN+ 3"
+      ]
+    },
+    {
+      "canonical": "CBC",
+      "aliases": ["CBC TV", "CBC HD", "CBC Sports", "Hockey Night in Canada", "CBC Television"]
+    },
+    {
+      "canonical": "RDS",
+      "aliases": ["RDS Canada", "RDS 2", "RDS Info", "RDS HD"]
+    },
+    {
+      "canonical": "DAZN",
+      "aliases": ["DAZN Canada", "DAZN CA"]
+    },
+    {
+      "canonical": "beIN Sports",
+      "aliases": ["beIN Sports Canada"]
+    }
+  ],
+
+  "DE": [
+    {
+      "canonical": "Sky Sport",
+      "aliases": [
+        "Sky Sport 1", "Sky Sport 2", "Sky Sport 3", "Sky Sport 4",
+        "Sky Sport 5", "Sky Sport 6", "Sky Sport 7", "Sky Sport 8",
+        "Sky Sport 9", "Sky Sport 10",
+        "Sky Sport Bundesliga", "Sky Sport Bundesliga 1", "Sky Sport Bundesliga 2",
+        "Sky Sport Bundesliga 3", "Sky Sport Bundesliga 4", "Sky Sport Bundesliga 5",
+        "Sky Sport Bundesliga 6", "Sky Sport Bundesliga 7", "Sky Sport Bundesliga 8",
+        "Sky Sport Bundesliga 9", "Sky Sport Bundesliga 10",
+        "Sky Sport Bundesliga UHD", "Sky Sport UHD",
+        "Sky Sport Top Event", "Sky Sport News", "Sky Sport News HD",
+        "Sky Sport F1", "Sky Sport Golf"
+      ]
+    },
+    {
+      "canonical": "DAZN",
+      "aliases": ["DAZN Germany", "DAZN Deutschland", "DAZN 1 Germany", "DAZN 2 Germany"]
+    },
+    {
+      "canonical": "Sport1",
+      "aliases": ["Sport 1", "Sport1 HD", "Sport1+", "Sport1+ HD", "SPORT1+"]
+    },
+    {
+      "canonical": "ARD",
+      "aliases": [
+        "Das Erste", "ARD HD", "ARD Das Erste",
+        "WDR", "BR Fernsehen", "NDR", "MDR Fernsehen", "SWR", "RBB", "SR", "HR Fernsehen"
+      ]
+    },
+    {
+      "canonical": "ZDF",
+      "aliases": ["ZDF HD", "ZDF Sport"]
+    },
+    {
+      "canonical": "Eurosport",
+      "aliases": [
+        "Eurosport 1", "Eurosport 2", "Eurosport Deutschland",
+        "Eurosport 1 HD", "Eurosport 2 HD"
+      ]
+    },
+    {
+      "canonical": "Sportdigital",
+      "aliases": ["Sportdigital Fussball", "Sportdigital FUSSBALL HD"]
+    }
+  ],
+
+  "ES": [
+    {
+      "canonical": "Movistar+",
+      "aliases": [
+        "Movistar Plus", "Movistar Plus+", "M+ LaLiga", "M+ LaLiga TV",
+        "M+ Deportes", "M+ Deportes 1", "M+ Deportes 2", "M+ Deportes 3",
+        "M+ Deportes 4", "M+ Deportes 5", "M+ Deportes 6", "M+ Deportes 7",
+        "M+ Liga de Campeones", "M+ HyperMotion",
+        "Movistar Deportes", "Movistar LaLiga",
+        "Canal+ Liga", "Canal+ Sport", "Canal+ Deportes",
+        "Vamos", "Canal+ Vamos"
+      ]
+    },
+    {
+      "canonical": "DAZN",
+      "aliases": ["DAZN Spain", "DAZN España", "DAZN LaLiga", "DAZN 1", "DAZN 2", "DAZN F1"]
+    },
+    {
+      "canonical": "Eurosport",
+      "aliases": ["Eurosport 1", "Eurosport 2", "Eurosport España"]
+    },
+    {
+      "canonical": "La 1",
+      "aliases": ["La Primera", "TVE 1", "TVE La 1", "TVE HD", "LA 1"]
+    },
+    {
+      "canonical": "Gol",
+      "aliases": ["Gol TV", "Gol Televisión", "Gol HD"]
+    }
+  ],
+
+  "FR": [
+    {
+      "canonical": "Canal+",
+      "aliases": [
+        "Canal Plus", "Canal+ HD", "Canal+ France",
+        "Canal+ Sport", "Canal+ Sport 2", "Canal+ Sport 3", "Canal+ Sport 4",
+        "Canal+ Sport 5", "Canal+ Sport 6", "Canal+ Foot", "Canal+ Football"
+      ]
+    },
+    {
+      "canonical": "beIN Sports",
+      "aliases": [
+        "beIN Sports France", "beIN SPORTS 1", "beIN SPORTS 2", "beIN SPORTS 3",
+        "beIN Sports 4", "beIN Sports 5", "beIN Sports 6",
+        "beIN Sports 7", "beIN Sports 8", "beIN Sports 9", "beIN Sports 10",
+        "beIN Sports Max 4", "beIN Sports Max 5", "beIN Sports Max 6",
+        "beIN SPORTS MAX 4", "beIN SPORTS MAX 5", "beIN SPORTS MAX 6"
+      ]
+    },
+    {
+      "canonical": "RMC Sport",
+      "aliases": [
+        "RMC Sport 1", "RMC Sport 2", "RMC Sport 3", "RMC Sport 4",
+        "RMC Sport HD", "RMC Sport News"
+      ]
+    },
+    {
+      "canonical": "L'Équipe",
+      "aliases": ["L'Equipe TV", "L'Equipe 21", "L'Équipe TV"]
+    },
+    {
+      "canonical": "Eurosport",
+      "aliases": [
+        "Eurosport 1", "Eurosport 2", "Eurosport France",
+        "Eurosport 1 HD", "Eurosport 2 HD", "Discovery+ Sport"
+      ]
+    },
+    {
+      "canonical": "TF1",
+      "aliases": ["TF1 HD"]
+    },
+    {
+      "canonical": "France 2",
+      "aliases": ["France Deux", "France 2 HD"]
+    },
+    {
+      "canonical": "France 3",
+      "aliases": [
+        "France Trois", "France 3 HD",
+        "France 3 Alsace", "France 3 Alpes", "France 3 Auvergne",
+        "France 3 Bourgogne", "France 3 Bretagne", "France 3 Centre-Val de Loire",
+        "France 3 Corse Via Stella", "France 3 Côte d'Azur",
+        "France 3 Grand Est", "France 3 Hauts-de-France",
+        "France 3 Limousin", "France 3 Lorraine",
+        "France 3 Normandie", "France 3 Nouvelle-Aquitaine",
+        "France 3 Occitanie", "France 3 Paris Île-de-France",
+        "France 3 Pays de la Loire", "France 3 Picardie",
+        "France 3 Poitou-Charentes", "France 3 Provence-Alpes",
+        "France 3 Rhône-Alpes"
+      ]
+    },
+    {
+      "canonical": "M6",
+      "aliases": ["M6 HD"]
+    },
+    {
+      "canonical": "DAZN",
+      "aliases": ["DAZN France"]
+    }
+  ],
+
+  "GB": [
+    {
+      "canonical": "Sky Sports",
+      "aliases": [
+        "Sky Sports Main Event", "Sky Sports 1",
+        "Sky Sports Premier League", "Sky Sports 2",
+        "Sky Sports Football", "Sky Sports 3",
+        "Sky Sports Cricket", "Sky Sports 4",
+        "Sky Sports Golf", "Sky Sports 5",
+        "Sky Sports F1", "Sky Sports F1 HD",
+        "Sky Sports Action", "Sky Sports Arena",
+        "Sky Sports NFL", "Sky Sports Tennis",
+        "Sky Sports Mix", "Sky Sports News", "Sky Sports Racing",
+        "Sky Sports Main Event HD", "Sky Sports Premier League HD",
+        "Sky Sports Football HD", "Sky Sports Cricket HD",
+        "Sky Sports 1 HD", "Sky Sports 2 HD", "Sky Sports 3 HD",
+        "Sky Sports 4 HD", "Sky Sports 5 HD"
+      ]
+    },
+    {
+      "canonical": "TNT Sports",
+      "aliases": [
+        "TNT Sports 1", "TNT Sports 2", "TNT Sports 3", "TNT Sports 4",
+        "TNT Sports 5", "TNT Sports 6", "TNT Sports 7", "TNT Sports 8",
+        "TNT Sports 9", "TNT Sports 10",
+        "TNT Sports Ultimate", "TNT Sports Box Office",
+        "BT Sport", "BT Sport 1", "BT Sport 2", "BT Sport 3", "BT Sport 4",
+        "BT Sport ESPN", "BT Sport Box Office"
+      ]
+    },
+    {
+      "canonical": "BBC",
+      "aliases": [
+        "BBC One", "BBC Two", "BBC Sport", "BBC One HD", "BBC Two HD",
+        "BBC One North West", "BBC One Scotland", "BBC One Wales",
+        "BBC One Northern Ireland", "BBC One East",
+        "BBC One South", "BBC One South East", "BBC One South West",
+        "BBC One Yorkshire", "BBC One West"
+      ]
+    },
+    {
+      "canonical": "ITV",
+      "aliases": [
+        "ITV1", "ITV HD", "ITV Sport", "ITV1 HD",
+        "ITV Yorkshire", "ITV Granada", "ITV Meridian", "ITV Anglia",
+        "ITV West", "ITV West Country", "ITV London", "ITV Central",
+        "ITV Wales", "ITV Border", "ITV Tyne Tees"
+      ]
+    },
+    {
+      "canonical": "Channel 4",
+      "aliases": ["C4", "Channel 4 HD", "Channel Four", "4Sports"]
+    },
+    {
+      "canonical": "Premier Sports",
+      "aliases": ["Premier Sports 1", "Premier Sports 2"]
+    },
+    {
+      "canonical": "Eurosport",
+      "aliases": [
+        "Eurosport 1", "Eurosport 2", "Eurosport UK",
+        "Eurosport 1 HD", "Eurosport 2 HD"
+      ]
+    },
+    {
+      "canonical": "DAZN",
+      "aliases": ["DAZN UK"]
+    }
+  ],
+
+  "IE": [
+    {
+      "canonical": "RTÉ",
+      "aliases": [
+        "RTE", "RTÉ One", "RTE One", "RTÉ 1", "RTE 1",
+        "RTÉ2", "RTE Two", "RTÉ Two", "RTE 2",
+        "RTÉ Sport", "RTE Sport"
+      ]
+    },
+    {
+      "canonical": "TG4",
+      "aliases": ["TG 4", "Teilifís na Gaeilge"]
+    },
+    {
+      "canonical": "Virgin Media Sport",
+      "aliases": [
+        "VM Sport", "Virgin Media Sport Ireland",
+        "Virgin Media One", "VM One",
+        "Virgin Media Two", "VM Two",
+        "Virgin Media Three", "VM Three"
+      ]
+    },
+    {
+      "canonical": "Sky Sports",
+      "aliases": [
+        "Sky Sports Main Event", "Sky Sports Premier League", "Sky Sports Football",
+        "Sky Sports Action", "Sky Sports Arena", "Sky Sports F1",
+        "Sky Sports News", "Sky Sports Cricket", "Sky Sports Golf"
+      ]
+    },
+    {
+      "canonical": "TNT Sports",
+      "aliases": [
+        "TNT Sports 1", "TNT Sports 2", "TNT Sports 3", "TNT Sports 4",
+        "BT Sport", "BT Sport 1", "BT Sport 2", "BT Sport 3"
+      ]
+    },
+    {
+      "canonical": "Premier Sports",
+      "aliases": ["Premier Sports 1", "Premier Sports 2"]
+    },
+    {
+      "canonical": "Eurosport",
+      "aliases": ["Eurosport 1", "Eurosport 2", "Eurosport Ireland"]
+    }
+  ],
+
+  "IT": [
+    {
+      "canonical": "Sky Sport",
+      "aliases": [
+        "Sky Sport Uno", "Sky Sport 1", "Sky Sport 1 HD",
+        "Sky Sport 2 HD", "Sky Sport 3 HD",
+        "Sky Sport Calcio", "Sky Sport Serie A", "Sky Sport Football",
+        "Sky Sport MotoGP", "Sky Sport F1",
+        "Sky Sport Arena", "Sky Sport NBA",
+        "Sky Sport 24", "Sky Sport 24 HD",
+        "Sky Sport Max", "Sky Sport Tennis"
+      ]
+    },
+    {
+      "canonical": "DAZN",
+      "aliases": ["DAZN Italia", "DAZN Italy", "DAZN 1 Italia", "DAZN 2 Italia"]
+    },
+    {
+      "canonical": "Rai Sport",
+      "aliases": [
+        "Rai Sport HD", "Rai Sport +HD", "Rai Sport + HD",
+        "Rai Sport 2", "Rai Sport K2"
+      ]
+    },
+    {
+      "canonical": "Rai 1",
+      "aliases": ["Rai Uno", "Rai 1 HD"]
+    },
+    {
+      "canonical": "Rai 2",
+      "aliases": ["Rai Due", "Rai 2 HD"]
+    },
+    {
+      "canonical": "Italia 1",
+      "aliases": ["Italia Uno"]
+    },
+    {
+      "canonical": "Eurosport",
+      "aliases": [
+        "Eurosport 1", "Eurosport 2", "Eurosport Italia",
+        "Eurosport 1 HD", "Eurosport 2 HD"
+      ]
+    }
+  ],
+
+  "MX": [
+    {
+      "canonical": "Las Estrellas",
+      "aliases": [
+        "Canal de las Estrellas", "Televisa Canal 2", "El Canal de las Estrellas",
+        "Las Estrellas HD", "Canal 2 Mexico", "Televisa"
+      ]
+    },
+    {
+      "canonical": "Canal 5",
+      "aliases": ["Canal Cinco", "Canal 5 Televisa", "XHGC"]
+    },
+    {
+      "canonical": "TUDN",
+      "aliases": ["TUDN Mexico", "TUDN HD", "Univision Deportes", "TDN"]
+    },
+    {
+      "canonical": "Azteca Uno",
+      "aliases": ["Canal 13 Mexico", "TV Azteca Uno", "Azteca 1", "Canal Uno Azteca"]
+    },
+    {
+      "canonical": "Azteca 7",
+      "aliases": ["Canal 7 Mexico", "TV Azteca 7", "Azteca Siete"]
+    },
+    {
+      "canonical": "ESPN Mexico",
+      "aliases": [
+        "ESPN México", "ESPN MX", "ESPN 2 Mexico", "ESPN 2 México",
+        "ESPN 3 Mexico", "ESPN 3 México", "ESPN 4 Mexico",
+        "Star+ Mexico", "Star Plus México"
+      ]
+    },
+    {
+      "canonical": "Fox Sports Mexico",
+      "aliases": [
+        "Fox Sports México", "Fox Sports MX", "Fox Sports 2 Mexico",
+        "Fox Sports 3 Mexico"
+      ]
+    },
+    {
+      "canonical": "El 9",
+      "aliases": ["El Nu9ve", "Canal 9 Mexico", "Canal Nueve", "El Nueve"]
+    },
+    {
+      "canonical": "Claro Sports",
+      "aliases": ["Claro Sports Mexico"]
+    },
+    {
+      "canonical": "TNT Sports",
+      "aliases": ["TNT Sports Mexico", "TNT Mexico"]
+    }
+  ],
+
+  "NL": [
+    {
+      "canonical": "ESPN",
+      "aliases": [
+        "ESPN NL", "ESPN Netherlands", "ESPN 1", "ESPN 2", "ESPN 3",
+        "ESPN 1 HD", "ESPN 2 HD", "ESPN 3 HD",
+        "ESPN Eredivisie",
+        "Fox Sports Eredivisie", "Fox Sports 1 NL", "Fox Sports 2 NL", "Fox Sports 3 NL"
+      ]
+    },
+    {
+      "canonical": "Ziggo Sport",
+      "aliases": [
+        "Ziggo Sport 1", "Ziggo Sport 2", "Ziggo Sport 3", "Ziggo Sport 4",
+        "Ziggo Sport Totaal", "Ziggo Sport Racing", "Ziggo Sport Select"
+      ]
+    },
+    {
+      "canonical": "RTL",
+      "aliases": ["RTL 4", "RTL 5", "RTL 7", "RTL 8", "RTL Z", "RTL 4 HD", "RTL Nederland"]
+    },
+    {
+      "canonical": "NPO",
+      "aliases": ["NPO 1", "NPO 2", "NPO 3", "NPO Sport"]
+    },
+    {
+      "canonical": "Eurosport",
+      "aliases": ["Eurosport 1 NL", "Eurosport 2 NL", "Eurosport Netherlands"]
+    }
+  ],
+
+  "PT": [
+    {
+      "canonical": "Sport TV",
+      "aliases": [
+        "Sport TV 1", "Sport TV 2", "Sport TV 3", "Sport TV 4", "Sport TV 5",
+        "Sport TV 6", "Sport TV+", "Sport TV Plus", "Sport TV HD", "Sport TV 1 HD"
+      ]
+    },
+    {
+      "canonical": "Eleven Sports",
+      "aliases": [
+        "Eleven Sports Portugal", "Eleven Sports 1", "Eleven Sports 2",
+        "Eleven Sports 3", "Eleven Sports 4", "Eleven Sports 5", "Eleven Sports 6"
+      ]
+    },
+    {
+      "canonical": "Benfica TV",
+      "aliases": ["BTV", "Benfica TV HD", "Sport Lisboa e Benfica TV"]
+    },
+    {
+      "canonical": "Porto Canal",
+      "aliases": ["FC Porto TV"]
+    },
+    {
+      "canonical": "Sporting TV",
+      "aliases": ["Sporting CP TV"]
+    },
+    {
+      "canonical": "RTP",
+      "aliases": [
+        "RTP 1", "RTP 2", "RTP Desporto", "RTP Sport",
+        "RTP1", "RTP2", "RTP International", "RTP Internacional",
+        "RTP Madeira", "RTP Açores"
+      ]
+    },
+    {
+      "canonical": "SIC",
+      "aliases": ["SIC Portugal", "SIC HD", "SIC Notícias", "SIC Radical"]
+    },
+    {
+      "canonical": "Eurosport",
+      "aliases": ["Eurosport 1 PT", "Eurosport 2 PT", "Eurosport Portugal"]
+    }
+  ],
+
+  "US": [
+    {
+      "canonical": "ESPN",
+      "aliases": ["ESPN US", "ESPN HD", "ESPN America", "ESPN Classic"]
+    },
+    {
+      "canonical": "ESPN2",
+      "aliases": ["ESPN 2", "ESPN 2 HD"]
+    },
+    {
+      "canonical": "ESPNU",
+      "aliases": ["ESPN U", "ESPNU HD"]
+    },
+    {
+      "canonical": "ESPNews",
+      "aliases": ["ESPN News", "ESPNEWS"]
+    },
+    {
+      "canonical": "ESPN Deportes",
+      "aliases": ["ESPN Deportes US"]
+    },
+    {
+      "canonical": "ABC",
+      "aliases": ["ABC HD", "ABC Sports", "ESPN on ABC", "KABC", "WLS", "WABC", "KGO", "WJLA"]
+    },
+    {
+      "canonical": "NBC Sports",
+      "aliases": [
+        "NBC", "NBC HD", "NBCSN", "NBC Sports Network", "Peacock Sports",
+        "KNBC", "WNBC", "WRC", "WMAQ"
+      ]
+    },
+    {
+      "canonical": "NBC Sports Regional",
+      "aliases": [
+        "NBC Sports Boston", "NBC Sports Philadelphia",
+        "NBC Sports Washington", "NBC Sports Bay Area",
+        "NBC Sports Chicago", "NBC Sports Northwest", "NBC Sports California"
+      ]
+    },
+    {
+      "canonical": "CBS Sports",
+      "aliases": [
+        "CBS", "CBS HD", "CBS Sports Network", "CBSSN", "WCBS", "WBBM"
+      ]
+    },
+    {
+      "canonical": "Fox",
+      "aliases": ["FOX", "Fox HD", "Fox Network", "KTTV", "WNYW", "WTTG"]
+    },
+    {
+      "canonical": "FS1",
+      "aliases": ["Fox Sports 1", "Fox Sports One", "FS1 HD"]
+    },
+    {
+      "canonical": "FS2",
+      "aliases": ["Fox Sports 2", "Fox Sports Two", "FS2 HD"]
+    },
+    {
+      "canonical": "FanDuel Sports Network",
+      "aliases": [
+        "Bally Sports", "FanDuel Sports Network Arizona", "Bally Sports Arizona",
+        "FanDuel Sports Network Detroit", "Bally Sports Detroit",
+        "FanDuel Sports Network Florida", "Bally Sports Florida",
+        "FanDuel Sports Network Great Lakes", "Bally Sports Great Lakes",
+        "FanDuel Sports Network Indiana", "Bally Sports Indiana",
+        "FanDuel Sports Network Kansas City", "Bally Sports Kansas City",
+        "FanDuel Sports Network Midwest", "Bally Sports Midwest",
+        "FanDuel Sports Network New Orleans", "Bally Sports New Orleans",
+        "FanDuel Sports Network North", "Bally Sports North",
+        "FanDuel Sports Network Ohio", "Bally Sports Ohio",
+        "FanDuel Sports Network Oklahoma", "Bally Sports Oklahoma",
+        "FanDuel Sports Network San Diego", "Bally Sports San Diego",
+        "FanDuel Sports Network SoCal", "Bally Sports SoCal",
+        "FanDuel Sports Network South", "Bally Sports South",
+        "FanDuel Sports Network Southeast", "Bally Sports Southeast",
+        "FanDuel Sports Network Southwest", "Bally Sports Southwest",
+        "FanDuel Sports Network Sun", "Bally Sports Sun",
+        "FanDuel Sports Network West", "Bally Sports West",
+        "FanDuel Sports Network Wisconsin", "Bally Sports Wisconsin",
+        "Fox Sports Arizona", "Fox Sports Detroit", "Fox Sports Florida",
+        "Fox Sports Midwest", "Fox Sports North", "Fox Sports Ohio",
+        "Fox Sports Oklahoma", "Fox Sports South", "Fox Sports Southeast",
+        "Fox Sports Southwest", "Fox Sports Sun", "Fox Sports West",
+        "Fox Sports Wisconsin", "Sun Sports", "SportSouth",
+        "SportsTime Ohio", "Prime Ticket"
+      ]
+    },
+    {
+      "canonical": "MSG",
+      "aliases": ["MSG Network", "MSG Sports", "MSG+", "MSG Plus", "MSG Sportsnet", "MSG2"]
+    },
+    {
+      "canonical": "DAZN",
+      "aliases": ["DAZN US", "DAZN USA"]
+    },
+    {
+      "canonical": "beIN Sports",
+      "aliases": ["beIN Sports US", "beIN Sports USA", "beIN Sports 1 US", "beIN Sports 2 US"]
+    },
+    {
+      "canonical": "TBS",
+      "aliases": ["TBS Sports"]
+    },
+    {
+      "canonical": "TNT",
+      "aliases": ["TNT Sports US"]
+    },
+    {
+      "canonical": "NFL Network",
+      "aliases": ["NFL Network US", "NFL RedZone"]
+    },
+    {
+      "canonical": "MLB Network",
+      "aliases": ["MLB Network US"]
+    },
+    {
+      "canonical": "NBA TV",
+      "aliases": ["NBA TV US"]
+    },
+    {
+      "canonical": "Golf Channel",
+      "aliases": ["Golf Channel US", "NBC Golf"]
+    },
+    {
+      "canonical": "Tennis Channel",
+      "aliases": ["Tennis Channel US"]
+    }
+  ]
+}

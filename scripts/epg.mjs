@@ -197,18 +197,37 @@ async function processSource(src, results) {
 
 // ─── Regional-feed canonicalization ──────────────────────────────────────────
 //
-// When several channels in one country air the same event at the same time and
-// share a leading name, they're regional feeds of one network (Globo RJ /
-// Globo SP / Globo Anhanguera → Globo). Collapse them to the common prefix.
+// Two-pass: first apply a static alias table (data/channel_aliases.json) that
+// maps known regional affiliates and rebrands to a canonical name (e.g.
+// "EPTV Ribeirão Preto" → "Globo", "BT Sport 1" → "TNT Sports"). Then run an
+// LCP collapse for any remaining variants that share a common word prefix.
 // Generic first words ("Canal 5" vs "Canal Once") are never collapsed alone.
+
+const _aliasData = readJSON("data/channel_aliases.json") ?? {}
+const channelAliasMap = new Map() // country → Map<normAlias, canonicalName>
+for (const [country, networks] of Object.entries(_aliasData)) {
+  const m = new Map()
+  for (const { canonical, aliases } of networks) {
+    for (const alias of aliases) m.set(norm(alias), canonical)
+  }
+  channelAliasMap.set(country, m)
+}
 
 const GENERIC_FIRST_WORDS = new Set([
   "canal", "channel", "tv", "la", "el", "sport", "sports", "cadena", "radio", "cine",
 ])
 
 function canonicalizeBroadcasts(broadcasts) {
+  // Pass 1: strip stale trailing separators, then resolve known aliases
+  const resolved = broadcasts.map(b => {
+    const channel = b.channel.replace(/[\s\-–|:]+$/, "").trim()
+    if (!channel) return null
+    const canonical = channelAliasMap.get(b.country)?.get(norm(channel))
+    return { country: b.country, channel: canonical ?? channel }
+  }).filter(Boolean)
+
   const byCountry = new Map()
-  for (const b of broadcasts) {
+  for (const b of resolved) {
     if (!byCountry.has(b.country)) byCountry.set(b.country, [])
     byCountry.get(b.country).push(b)
   }
@@ -242,9 +261,11 @@ function canonicalizeBroadcasts(broadcasts) {
 
       if (!collapse) { out.push(...group); continue }
 
-      // Preserve original casing: cut the prefix from the shortest member
+      // Preserve original casing: cut the prefix from the shortest member,
+      // then strip any trailing separator tokens (-, –, |, :) the LCP ended on.
       const shortest = group.reduce((a, b) => (a.channel.length <= b.channel.length ? a : b))
-      out.push({ country, channel: shortest.channel.split(/\s+/).slice(0, lcp.length).join(" ") })
+      const collapsed = shortest.channel.split(/\s+/).slice(0, lcp.length).join(" ").replace(/[\s\-–|:]+$/, "").trim()
+      if (collapsed) out.push({ country, channel: collapsed })
     }
   }
 
@@ -275,10 +296,23 @@ for (const src of sources) {
 
 let enriched = 0
 for (const [ref, broadcasts] of results) {
-  ref._broadcasts = canonicalizeBroadcasts(broadcasts).sort((a, b) =>
-    a.country === b.country ? a.channel.localeCompare(b.channel) : a.country.localeCompare(b.country))
+  ref._broadcasts = broadcasts  // raw; canonical pass runs below
   enriched++
 }
 
+// Apply alias canonicalization to ALL events that have _broadcasts — both
+// newly enriched ones and stale entries written before the alias table existed.
+const sort = (a, b) =>
+  a.country === b.country ? a.channel.localeCompare(b.channel) : a.country.localeCompare(b.country)
+let canonicalized = 0
+for (const league of manifest.leagues) {
+  for (const ev of league.events ?? []) {
+    if (ev._broadcasts) {
+      ev._broadcasts = canonicalizeBroadcasts(ev._broadcasts).sort(sort)
+      canonicalized++
+    }
+  }
+}
+
 writeJSON("site/manifest.json", manifest)
-console.log(`enriched ${enriched}/${events.length} events with broadcasts`)
+console.log(`enriched ${enriched}/${events.length} events with broadcasts; canonicalized ${canonicalized} total`)
