@@ -195,6 +195,69 @@ async function processSource(src, results) {
   return { programmes, matches }
 }
 
+// ─── Regional-feed canonicalization ──────────────────────────────────────────
+//
+// When several channels in one country air the same event at the same time and
+// share a leading name, they're regional feeds of one network (Globo RJ /
+// Globo SP / Globo Anhanguera → Globo). Collapse them to the common prefix.
+// Generic first words ("Canal 5" vs "Canal Once") are never collapsed alone.
+
+const GENERIC_FIRST_WORDS = new Set([
+  "canal", "channel", "tv", "la", "el", "sport", "sports", "cadena", "radio", "cine",
+])
+
+function canonicalizeBroadcasts(broadcasts) {
+  const byCountry = new Map()
+  for (const b of broadcasts) {
+    if (!byCountry.has(b.country)) byCountry.set(b.country, [])
+    byCountry.get(b.country).push(b)
+  }
+
+  const out = []
+  for (const [country, items] of byCountry) {
+    // Group by normalized first display-word
+    const groups = new Map()
+    for (const item of items) {
+      const key = norm(item.channel.split(/\s+/)[0] ?? "")
+      if (!groups.has(key)) groups.set(key, [])
+      groups.get(key).push(item)
+    }
+
+    for (const group of groups.values()) {
+      if (group.length === 1) { out.push(group[0]); continue }
+
+      // Longest common word-prefix across the group (compared normalized)
+      let lcp = group[0].channel.split(/\s+/)
+      for (const member of group.slice(1)) {
+        const words = member.channel.split(/\s+/)
+        let i = 0
+        while (i < lcp.length && i < words.length && norm(lcp[i]) === norm(words[i])) i++
+        lcp = lcp.slice(0, i)
+      }
+
+      const first = norm(lcp[0] ?? "")
+      const collapse =
+        lcp.length >= 2 ||
+        (lcp.length === 1 && first.length >= 3 && !GENERIC_FIRST_WORDS.has(first))
+
+      if (!collapse) { out.push(...group); continue }
+
+      // Preserve original casing: cut the prefix from the shortest member
+      const shortest = group.reduce((a, b) => (a.channel.length <= b.channel.length ? a : b))
+      out.push({ country, channel: shortest.channel.split(/\s+/).slice(0, lcp.length).join(" ") })
+    }
+  }
+
+  // Dedupe (collapse can produce identical entries)
+  const seen = new Set()
+  return out.filter(b => {
+    const key = `${b.country}|${b.channel}`
+    if (seen.has(key)) return false
+    seen.add(key)
+    return true
+  })
+}
+
 // ─── Run all sources ──────────────────────────────────────────────────────────
 
 const { sources } = readJSON("data/epg_sources.json")
@@ -212,7 +275,7 @@ for (const src of sources) {
 
 let enriched = 0
 for (const [ref, broadcasts] of results) {
-  ref._broadcasts = broadcasts.sort((a, b) =>
+  ref._broadcasts = canonicalizeBroadcasts(broadcasts).sort((a, b) =>
     a.country === b.country ? a.channel.localeCompare(b.channel) : a.country.localeCompare(b.country))
   enriched++
 }
