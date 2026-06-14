@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T05:13:03.622Z",
+  "generatedAt": "2026-06-14T14:34:09.352Z",
   "window": [
     "2026-06-13",
     "2026-06-14",
@@ -14,6 +14,18 @@
         {
           "id": "401859967",
           "start": "2026-06-14T00:30:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "football/ufl": {
+      "sport": "football",
+      "slug": "ufl",
+      "name": "United Football League",
+      "events": [
+        {
+          "id": "401857566",
+          "start": "2026-06-13T19:00:00.000Z",
           "state": "post"
         }
       ]
@@ -70,15 +82,40 @@
         }
       ]
     },
-    "football/ufl": {
-      "sport": "football",
-      "slug": "ufl",
-      "name": "United Football League",
+    "baseball/college-baseball": {
+      "sport": "baseball",
+      "slug": "college-baseball",
+      "name": "NCAA Baseball",
       "events": [
         {
-          "id": "401857566",
+          "id": "401874399",
           "start": "2026-06-13T19:00:00.000Z",
           "state": "post"
+        },
+        {
+          "id": "401874400",
+          "start": "2026-06-14T00:45:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401874401",
+          "start": "2026-06-14T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401874442",
+          "start": "2026-06-14T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401874443",
+          "start": "2026-06-15T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401874444",
+          "start": "2026-06-15T23:00:00.000Z",
+          "state": "pre"
         }
       ]
     },
@@ -289,39 +326,14 @@
         }
       ]
     },
-    "baseball/college-baseball": {
-      "sport": "baseball",
-      "slug": "college-baseball",
-      "name": "NCAA Baseball",
+    "hockey/nhl": {
+      "sport": "hockey",
+      "slug": "nhl",
+      "name": "National Hockey League",
       "events": [
         {
-          "id": "401874399",
-          "start": "2026-06-13T19:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401874400",
-          "start": "2026-06-14T00:45:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401874401",
-          "start": "2026-06-14T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401874442",
-          "start": "2026-06-14T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401874443",
-          "start": "2026-06-15T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401874444",
-          "start": "2026-06-15T23:00:00.000Z",
+          "id": "401874176",
+          "start": "2026-06-15T00:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -393,14 +405,49 @@
         }
       ]
     },
-    "hockey/nhl": {
-      "sport": "hockey",
-      "slug": "nhl",
-      "name": "National Hockey League",
+    "soccer/usa.usl.l1": {
+      "sport": "soccer",
+      "slug": "usa.usl.l1",
+      "name": "USL League One",
       "events": [
         {
-          "id": "401874176",
-          "start": "2026-06-15T00:00:00.000Z",
+          "id": "401841852",
+          "start": "2026-06-13T22:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401841862",
+          "start": "2026-06-13T23:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401841854",
+          "start": "2026-06-13T23:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401841866",
+          "start": "2026-06-13T23:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401841856",
+          "start": "2026-06-14T00:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401841860",
+          "start": "2026-06-14T00:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401841864",
+          "start": "2026-06-14T03:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401841868",
+          "start": "2026-06-14T23:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -472,65 +519,6 @@
         }
       ]
     },
-    "soccer/usa.usl.l1": {
-      "sport": "soccer",
-      "slug": "usa.usl.l1",
-      "name": "USL League One",
-      "events": [
-        {
-          "id": "401841852",
-          "start": "2026-06-13T22:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401841862",
-          "start": "2026-06-13T23:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401841854",
-          "start": "2026-06-13T23:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401841866",
-          "start": "2026-06-13T23:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401841856",
-          "start": "2026-06-14T00:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401841860",
-          "start": "2026-06-14T00:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401841864",
-          "start": "2026-06-14T03:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401841868",
-          "start": "2026-06-14T23:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/esp.2": {
-      "sport": "soccer",
-      "slug": "esp.2",
-      "name": "Spanish LALIGA 2",
-      "events": [
-        {
-          "id": "401875797",
-          "start": "2026-06-14T19:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/can.w.nsl": {
       "sport": "soccer",
       "slug": "can.w.nsl",
@@ -553,15 +541,15 @@
         }
       ]
     },
-    "soccer/ned.3.promotion.relegation": {
+    "soccer/esp.2": {
       "sport": "soccer",
-      "slug": "ned.3.promotion.relegation",
-      "name": "Dutch Tweede Divisie Promotion/Relegation Playoffs",
+      "slug": "esp.2",
+      "name": "Spanish LALIGA 2",
       "events": [
         {
-          "id": "401874912",
-          "start": "2026-06-13T13:00:00.000Z",
-          "state": "post"
+          "id": "401875797",
+          "start": "2026-06-14T19:00:00.000Z",
+          "state": "pre"
         }
       ]
     },
@@ -578,6 +566,18 @@
         {
           "id": "401875799",
           "start": "2026-06-13T17:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "soccer/ned.3.promotion.relegation": {
+      "sport": "soccer",
+      "slug": "ned.3.promotion.relegation",
+      "name": "Dutch Tweede Divisie Promotion/Relegation Playoffs",
+      "events": [
+        {
+          "id": "401874912",
+          "start": "2026-06-13T13:00:00.000Z",
           "state": "post"
         }
       ]
@@ -635,6 +635,83 @@
         {
           "id": "401844926",
           "start": "2026-06-14T22:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/arg.4": {
+      "sport": "soccer",
+      "slug": "arg.4",
+      "name": "Argentine Primera C",
+      "events": [
+        {
+          "id": "401844462",
+          "start": "2026-06-13T18:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401844465",
+          "start": "2026-06-13T18:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401844472",
+          "start": "2026-06-13T18:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401844468",
+          "start": "2026-06-13T18:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401844461",
+          "start": "2026-06-14T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844463",
+          "start": "2026-06-14T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844467",
+          "start": "2026-06-14T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844460",
+          "start": "2026-06-14T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844469",
+          "start": "2026-06-14T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844470",
+          "start": "2026-06-14T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844464",
+          "start": "2026-06-15T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844696",
+          "start": "2026-06-15T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844471",
+          "start": "2026-06-15T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844466",
+          "start": "2026-06-15T18:30:00.000Z",
           "state": "pre"
         }
       ]
@@ -736,83 +813,6 @@
         }
       ]
     },
-    "soccer/arg.4": {
-      "sport": "soccer",
-      "slug": "arg.4",
-      "name": "Argentine Primera C",
-      "events": [
-        {
-          "id": "401844462",
-          "start": "2026-06-13T18:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401844465",
-          "start": "2026-06-13T18:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401844472",
-          "start": "2026-06-13T18:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401844468",
-          "start": "2026-06-13T18:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401844461",
-          "start": "2026-06-14T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844463",
-          "start": "2026-06-14T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844467",
-          "start": "2026-06-14T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844460",
-          "start": "2026-06-14T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844469",
-          "start": "2026-06-14T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844470",
-          "start": "2026-06-14T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844464",
-          "start": "2026-06-15T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844696",
-          "start": "2026-06-15T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844471",
-          "start": "2026-06-15T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844466",
-          "start": "2026-06-15T18:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/bra.2": {
       "sport": "soccer",
       "slug": "bra.2",
@@ -856,48 +856,6 @@
         {
           "id": "401873964",
           "start": "2026-06-16T00:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/chi.1": {
-      "sport": "soccer",
-      "slug": "chi.1",
-      "name": "Chilean Primera División",
-      "events": [
-        {
-          "id": "401850590",
-          "start": "2026-06-13T16:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401850592",
-          "start": "2026-06-13T19:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401850589",
-          "start": "2026-06-13T21:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401850591",
-          "start": "2026-06-14T00:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401850595",
-          "start": "2026-06-14T16:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401850594",
-          "start": "2026-06-14T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401850593",
-          "start": "2026-06-14T21:30:00.000Z",
           "state": "pre"
         }
       ]
@@ -955,6 +913,48 @@
         {
           "id": "401862490",
           "start": "2026-06-15T23:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/chi.1": {
+      "sport": "soccer",
+      "slug": "chi.1",
+      "name": "Chilean Primera División",
+      "events": [
+        {
+          "id": "401850590",
+          "start": "2026-06-13T16:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401850592",
+          "start": "2026-06-13T19:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401850589",
+          "start": "2026-06-13T21:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401850591",
+          "start": "2026-06-14T00:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401850595",
+          "start": "2026-06-14T16:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401850594",
+          "start": "2026-06-14T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401850593",
+          "start": "2026-06-14T21:30:00.000Z",
           "state": "pre"
         }
       ]
@@ -1074,12 +1074,12 @@
         {
           "id": "49-2026",
           "start": "2026-06-06T04:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "415-2026",
           "start": "2026-06-06T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "27-2026",
@@ -1106,7 +1106,7 @@
         {
           "id": "997-2026",
           "start": "2026-06-07T04:00:00.000Z",
-          "state": "in"
+          "state": "pre"
         },
         {
           "id": "1015-2026",
@@ -1140,18 +1140,6 @@
         }
       ]
     },
-    "rugby/267979": {
-      "sport": "rugby",
-      "slug": "267979",
-      "name": "Gallagher Prem",
-      "events": [
-        {
-          "id": "603071",
-          "start": "2026-06-13T14:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "rugby/270559": {
       "sport": "rugby",
       "slug": "270559",
@@ -1166,6 +1154,18 @@
           "id": "602862",
           "start": "2026-06-14T19:05:00.000Z",
           "state": "pre"
+        }
+      ]
+    },
+    "rugby/267979": {
+      "sport": "rugby",
+      "slug": "267979",
+      "name": "Gallagher Prem",
+      "events": [
+        {
+          "id": "603071",
+          "start": "2026-06-13T14:00:00.000Z",
+          "state": "post"
         }
       ]
     },
