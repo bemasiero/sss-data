@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T05:31:54.888Z",
+  "generatedAt": "2026-06-15T17:28:34.230Z",
   "window": [
     "2026-06-14",
     "2026-06-15",
@@ -77,6 +77,18 @@
           "id": "401874446",
           "start": "2026-06-17T00:00:00.000Z",
           "state": "pre"
+        }
+      ]
+    },
+    "hockey/nhl": {
+      "sport": "hockey",
+      "slug": "nhl",
+      "name": "National Hockey League",
+      "events": [
+        {
+          "id": "401874176",
+          "start": "2026-06-15T00:00:00.000Z",
+          "state": "post"
         }
       ]
     },
@@ -287,18 +299,6 @@
         }
       ]
     },
-    "hockey/nhl": {
-      "sport": "hockey",
-      "slug": "nhl",
-      "name": "National Hockey League",
-      "events": [
-        {
-          "id": "401874176",
-          "start": "2026-06-15T00:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "soccer/fifa.world": {
       "sport": "soccer",
       "slug": "fifa.world",
@@ -378,18 +378,6 @@
         }
       ]
     },
-    "soccer/esp.2": {
-      "sport": "soccer",
-      "slug": "esp.2",
-      "name": "Spanish LALIGA 2",
-      "events": [
-        {
-          "id": "401875797",
-          "start": "2026-06-14T19:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "soccer/can.w.nsl": {
       "sport": "soccer",
       "slug": "can.w.nsl",
@@ -398,6 +386,18 @@
         {
           "id": "401859905",
           "start": "2026-06-14T21:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "soccer/esp.2": {
+      "sport": "soccer",
+      "slug": "esp.2",
+      "name": "Spanish LALIGA 2",
+      "events": [
+        {
+          "id": "401875797",
+          "start": "2026-06-14T19:00:00.000Z",
           "state": "post"
         }
       ]
@@ -459,60 +459,25 @@
         }
       ]
     },
-    "soccer/arg.4": {
+    "soccer/arg.3": {
       "sport": "soccer",
-      "slug": "arg.4",
-      "name": "Argentine Primera C",
+      "slug": "arg.3",
+      "name": "Argentine Primera B",
       "events": [
         {
-          "id": "401844461",
+          "id": "401844922",
+          "start": "2026-06-14T17:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401844929",
           "start": "2026-06-14T18:30:00.000Z",
           "state": "post"
         },
         {
-          "id": "401844463",
-          "start": "2026-06-14T18:30:00.000Z",
+          "id": "401844926",
+          "start": "2026-06-14T22:00:00.000Z",
           "state": "post"
-        },
-        {
-          "id": "401844467",
-          "start": "2026-06-14T18:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401844460",
-          "start": "2026-06-14T18:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401844469",
-          "start": "2026-06-14T18:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401844470",
-          "start": "2026-06-14T18:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401844464",
-          "start": "2026-06-15T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844696",
-          "start": "2026-06-15T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844471",
-          "start": "2026-06-15T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844466",
-          "start": "2026-06-15T18:30:00.000Z",
-          "state": "pre"
         }
       ]
     },
@@ -568,25 +533,60 @@
         }
       ]
     },
-    "soccer/arg.3": {
+    "soccer/arg.4": {
       "sport": "soccer",
-      "slug": "arg.3",
-      "name": "Argentine Primera B",
+      "slug": "arg.4",
+      "name": "Argentine Primera C",
       "events": [
         {
-          "id": "401844922",
-          "start": "2026-06-14T17:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401844929",
+          "id": "401844461",
           "start": "2026-06-14T18:30:00.000Z",
           "state": "post"
         },
         {
-          "id": "401844926",
-          "start": "2026-06-14T22:00:00.000Z",
+          "id": "401844463",
+          "start": "2026-06-14T18:30:00.000Z",
           "state": "post"
+        },
+        {
+          "id": "401844467",
+          "start": "2026-06-14T18:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401844460",
+          "start": "2026-06-14T18:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401844469",
+          "start": "2026-06-14T18:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401844470",
+          "start": "2026-06-14T18:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401844464",
+          "start": "2026-06-15T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844696",
+          "start": "2026-06-15T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844471",
+          "start": "2026-06-15T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844466",
+          "start": "2026-06-15T18:30:00.000Z",
+          "state": "pre"
         }
       ]
     },
@@ -748,22 +748,22 @@
         {
           "id": "635-2026",
           "start": "2026-06-13T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "866-2026",
           "start": "2026-06-13T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "1065-2026",
           "start": "2026-06-14T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "1070-2026",
           "start": "2026-06-14T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         }
       ]
     },
@@ -792,7 +792,7 @@
         {
           "id": "603496",
           "start": "2026-06-15T02:30:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "603495",
