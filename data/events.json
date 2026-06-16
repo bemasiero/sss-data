@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T05:39:52.635Z",
+  "generatedAt": "2026-06-16T17:25:11.530Z",
   "window": [
     "2026-06-15",
     "2026-06-16",
@@ -403,33 +403,6 @@
         }
       ]
     },
-    "soccer/arg.4": {
-      "sport": "soccer",
-      "slug": "arg.4",
-      "name": "Argentine Primera C",
-      "events": [
-        {
-          "id": "401844464",
-          "start": "2026-06-15T18:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401844696",
-          "start": "2026-06-15T18:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401844471",
-          "start": "2026-06-15T18:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401844466",
-          "start": "2026-06-15T18:30:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "soccer/bra.2": {
       "sport": "soccer",
       "slug": "bra.2",
@@ -470,6 +443,33 @@
         {
           "id": "401862490",
           "start": "2026-06-15T23:30:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "soccer/arg.4": {
+      "sport": "soccer",
+      "slug": "arg.4",
+      "name": "Argentine Primera C",
+      "events": [
+        {
+          "id": "401844464",
+          "start": "2026-06-15T18:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401844696",
+          "start": "2026-06-15T18:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401844471",
+          "start": "2026-06-15T18:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401844466",
+          "start": "2026-06-15T18:30:00.000Z",
           "state": "post"
         }
       ]
