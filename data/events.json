@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T05:20:36.902Z",
+  "generatedAt": "2026-06-17T16:08:12.254Z",
   "window": [
     "2026-06-16",
     "2026-06-17",
@@ -354,6 +354,18 @@
         }
       ]
     },
+    "soccer/can.w.nsl": {
+      "sport": "soccer",
+      "slug": "can.w.nsl",
+      "name": "Northern Super League",
+      "events": [
+        {
+          "id": "401859906",
+          "start": "2026-06-18T14:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/usa.usl.1": {
       "sport": "soccer",
       "slug": "usa.usl.1",
@@ -388,30 +400,6 @@
         }
       ]
     },
-    "soccer/can.w.nsl": {
-      "sport": "soccer",
-      "slug": "can.w.nsl",
-      "name": "Northern Super League",
-      "events": [
-        {
-          "id": "401859906",
-          "start": "2026-06-18T14:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/arg.2": {
-      "sport": "soccer",
-      "slug": "arg.2",
-      "name": "Argentine Nacional B",
-      "events": [
-        {
-          "id": "401873898",
-          "start": "2026-06-17T18:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/bra.2": {
       "sport": "soccer",
       "slug": "bra.2",
@@ -425,6 +413,18 @@
         {
           "id": "401873945",
           "start": "2026-06-19T00:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/arg.2": {
+      "sport": "soccer",
+      "slug": "arg.2",
+      "name": "Argentine Nacional B",
+      "events": [
+        {
+          "id": "401873898",
+          "start": "2026-06-17T18:00:00.000Z",
           "state": "pre"
         }
       ]
