@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T05:09:49.762Z",
+  "generatedAt": "2026-06-18T15:55:47.659Z",
   "window": [
     "2026-06-17",
     "2026-06-18",
@@ -60,23 +60,6 @@
           "id": "401857005",
           "start": "2026-06-20T02:00:00.000Z",
           "state": "pre"
-        }
-      ]
-    },
-    "baseball/college-baseball": {
-      "sport": "baseball",
-      "slug": "college-baseball",
-      "name": "NCAA Baseball",
-      "events": [
-        {
-          "id": "401874447",
-          "start": "2026-06-17T18:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401874448",
-          "start": "2026-06-17T23:00:00.000Z",
-          "state": "post"
         }
       ]
     },
@@ -277,6 +260,23 @@
         }
       ]
     },
+    "baseball/college-baseball": {
+      "sport": "baseball",
+      "slug": "college-baseball",
+      "name": "NCAA Baseball",
+      "events": [
+        {
+          "id": "401874447",
+          "start": "2026-06-17T18:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401874448",
+          "start": "2026-06-17T23:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
     "soccer/fifa.world": {
       "sport": "soccer",
       "slug": "fifa.world",
@@ -432,18 +432,6 @@
         }
       ]
     },
-    "soccer/arg.2": {
-      "sport": "soccer",
-      "slug": "arg.2",
-      "name": "Argentine Nacional B",
-      "events": [
-        {
-          "id": "401873898",
-          "start": "2026-06-17T18:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "soccer/arg.3": {
       "sport": "soccer",
       "slug": "arg.3",
@@ -453,6 +441,18 @@
           "id": "401844939",
           "start": "2026-06-19T22:00:00.000Z",
           "state": "pre"
+        }
+      ]
+    },
+    "soccer/arg.2": {
+      "sport": "soccer",
+      "slug": "arg.2",
+      "name": "Argentine Nacional B",
+      "events": [
+        {
+          "id": "401873898",
+          "start": "2026-06-17T18:00:00.000Z",
+          "state": "post"
         }
       ]
     },
@@ -546,7 +546,7 @@
         {
           "id": "401811952",
           "start": "2026-06-18T04:00:00.000Z",
-          "state": "post"
+          "state": "in"
         }
       ]
     },
