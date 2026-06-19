@@ -63,9 +63,12 @@ let fetched = 0, errors = 0
 
 await pool(leagues, 12, async entry => {
   const payloads = []
+  let inWindowByPayload = false
   for (const d of dates) {
     try {
-      payloads.push(await fetchScoreboard(entry.sport, entry.slug, d))
+      const p = await fetchScoreboard(entry.sport, entry.slug, d)
+      payloads.push(p)
+      if (p?.events?.length) inWindowByPayload = true
       fetched++
     } catch {
       errors++
@@ -82,7 +85,10 @@ await pool(leagues, 12, async entry => {
   const maxDate = events.reduce((m, ev) => ((ev.start ?? "") > m ? ev.start : m), "")
   if (maxDate) entry.maxEventDate = maxDate.slice(0, 10)
 
-  const inWindow = events.some(ev => {
+  // For multi-day tournaments (e.g. tennis) the event's start date is the
+  // tournament's opening day, which may predate D-1. Fall back to checking
+  // whether ESPN actually returned events for any of D-1/D/D+1.
+  const inWindow = inWindowByPayload || events.some(ev => {
     const d = (ev.start ?? "").slice(0, 10)
     return d >= dates[0] && d <= dates[2]
   })
