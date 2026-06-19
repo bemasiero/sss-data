@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T05:29:36.606Z",
+  "generatedAt": "2026-06-19T15:44:52.431Z",
   "window": [
     "2026-06-18",
     "2026-06-19",
@@ -366,6 +366,23 @@
         }
       ]
     },
+    "soccer/usa.usl.l1.cup": {
+      "sport": "soccer",
+      "slug": "usa.usl.l1.cup",
+      "name": "USL Cup",
+      "events": [
+        {
+          "id": "401841411",
+          "start": "2026-06-20T21:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401841410",
+          "start": "2026-06-20T23:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/can.w.nsl": {
       "sport": "soccer",
       "slug": "can.w.nsl",
@@ -425,23 +442,6 @@
         }
       ]
     },
-    "soccer/usa.usl.l1.cup": {
-      "sport": "soccer",
-      "slug": "usa.usl.l1.cup",
-      "name": "USL Cup",
-      "events": [
-        {
-          "id": "401841411",
-          "start": "2026-06-20T21:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401841410",
-          "start": "2026-06-20T23:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/esp.2": {
       "sport": "soccer",
       "slug": "esp.2",
@@ -450,38 +450,6 @@
         {
           "id": "401876811",
           "start": "2026-06-20T19:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/irl.1": {
-      "sport": "soccer",
-      "slug": "irl.1",
-      "name": "Irish Premier Division",
-      "events": [
-        {
-          "id": "763138",
-          "start": "2026-06-19T18:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "763137",
-          "start": "2026-06-19T18:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "763140",
-          "start": "2026-06-19T18:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "763141",
-          "start": "2026-06-19T18:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "763139",
-          "start": "2026-06-19T19:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -533,34 +501,34 @@
         }
       ]
     },
-    "soccer/bra.3": {
+    "soccer/irl.1": {
       "sport": "soccer",
-      "slug": "bra.3",
-      "name": "Brazilian Serie C",
+      "slug": "irl.1",
+      "name": "Irish Premier Division",
       "events": [
         {
-          "id": "401862498",
-          "start": "2026-06-20T19:30:00.000Z",
+          "id": "763138",
+          "start": "2026-06-19T18:45:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401862497",
-          "start": "2026-06-20T20:00:00.000Z",
+          "id": "763137",
+          "start": "2026-06-19T18:45:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401862500",
-          "start": "2026-06-20T22:00:00.000Z",
+          "id": "763140",
+          "start": "2026-06-19T18:45:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401862502",
-          "start": "2026-06-20T23:30:00.000Z",
+          "id": "763141",
+          "start": "2026-06-19T18:45:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401862501",
-          "start": "2026-06-21T00:00:00.000Z",
+          "id": "763139",
+          "start": "2026-06-19T19:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -612,15 +580,35 @@
         }
       ]
     },
-    "soccer/chi.1": {
+    "soccer/bra.3": {
       "sport": "soccer",
-      "slug": "chi.1",
-      "name": "Chilean Primera División",
+      "slug": "bra.3",
+      "name": "Brazilian Serie C",
       "events": [
         {
-          "id": "401850578",
-          "start": "2026-06-19T00:00:00.000Z",
-          "state": "post"
+          "id": "401862498",
+          "start": "2026-06-20T19:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401862497",
+          "start": "2026-06-20T20:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401862500",
+          "start": "2026-06-20T22:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401862502",
+          "start": "2026-06-20T23:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401862501",
+          "start": "2026-06-21T00:00:00.000Z",
+          "state": "pre"
         }
       ]
     },
@@ -648,6 +636,18 @@
           "id": "401873974",
           "start": "2026-06-20T22:00:00.000Z",
           "state": "pre"
+        }
+      ]
+    },
+    "soccer/chi.1": {
+      "sport": "soccer",
+      "slug": "chi.1",
+      "name": "Chilean Primera División",
+      "events": [
+        {
+          "id": "401850578",
+          "start": "2026-06-19T00:00:00.000Z",
+          "state": "post"
         }
       ]
     },
@@ -747,6 +747,18 @@
         }
       ]
     },
+    "racing/nascar-secondary": {
+      "sport": "racing",
+      "slug": "nascar-secondary",
+      "name": "NASCAR O'Reilly Auto Parts Series",
+      "events": [
+        {
+          "id": "202606205828",
+          "start": "2026-06-20T21:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "racing/nascar-truck": {
       "sport": "racing",
       "slug": "nascar-truck",
@@ -767,19 +779,7 @@
         {
           "id": "401835160",
           "start": "2026-06-18T04:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
-    "racing/nascar-secondary": {
-      "sport": "racing",
-      "slug": "nascar-secondary",
-      "name": "NASCAR O'Reilly Auto Parts Series",
-      "events": [
-        {
-          "id": "202606205828",
-          "start": "2026-06-20T21:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         }
       ]
     },
@@ -791,7 +791,24 @@
         {
           "id": "401811952",
           "start": "2026-06-18T04:00:00.000Z",
-          "state": "post"
+          "state": "in"
+        }
+      ]
+    },
+    "tennis/atp": {
+      "sport": "tennis",
+      "slug": "atp",
+      "name": "ATP",
+      "events": [
+        {
+          "id": "27-2026",
+          "start": "2026-06-13T04:00:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "129-2026",
+          "start": "2026-06-13T04:00:00.000Z",
+          "state": "in"
         }
       ]
     },
@@ -803,12 +820,12 @@
         {
           "id": "635-2026",
           "start": "2026-06-13T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "866-2026",
           "start": "2026-06-13T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "1065-2026",
@@ -818,6 +835,11 @@
         {
           "id": "1070-2026",
           "start": "2026-06-14T04:00:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "636-2026",
+          "start": "2026-06-20T04:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -834,36 +856,14 @@
         }
       ]
     },
-    "tennis/atp": {
-      "sport": "tennis",
-      "slug": "atp",
-      "name": "ATP",
-      "events": [
-        {
-          "id": "27-2026",
-          "start": "2026-06-13T04:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "129-2026",
-          "start": "2026-06-13T04:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "rugby/270559": {
+    "rugby/242041": {
       "sport": "rugby",
-      "slug": "270559",
-      "name": "French Top 14",
+      "slug": "242041",
+      "name": "Super Rugby Pacific",
       "events": [
         {
-          "id": "602863",
-          "start": "2026-06-19T19:05:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "602864",
-          "start": "2026-06-20T19:05:00.000Z",
+          "id": "603213",
+          "start": "2026-06-20T07:05:00.000Z",
           "state": "pre"
         }
       ]
@@ -900,14 +900,19 @@
         }
       ]
     },
-    "rugby/242041": {
+    "rugby/270559": {
       "sport": "rugby",
-      "slug": "242041",
-      "name": "Super Rugby Pacific",
+      "slug": "270559",
+      "name": "French Top 14",
       "events": [
         {
-          "id": "603213",
-          "start": "2026-06-20T07:05:00.000Z",
+          "id": "602863",
+          "start": "2026-06-19T19:05:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "602864",
+          "start": "2026-06-20T19:05:00.000Z",
           "state": "pre"
         }
       ]
