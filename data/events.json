@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T05:35:48.098Z",
+  "generatedAt": "2026-06-22T17:14:15.878Z",
   "window": [
     "2026-06-21",
     "2026-06-22",
@@ -381,23 +381,6 @@
         }
       ]
     },
-    "soccer/irl.1": {
-      "sport": "soccer",
-      "slug": "irl.1",
-      "name": "Irish Premier Division",
-      "events": [
-        {
-          "id": "763142",
-          "start": "2026-06-22T18:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "763143",
-          "start": "2026-06-22T19:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/arg.2": {
       "sport": "soccer",
       "slug": "arg.2",
@@ -451,6 +434,23 @@
         {
           "id": "401843672",
           "start": "2026-06-23T21:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/irl.1": {
+      "sport": "soccer",
+      "slug": "irl.1",
+      "name": "Irish Premier Division",
+      "events": [
+        {
+          "id": "763142",
+          "start": "2026-06-22T18:45:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "763143",
+          "start": "2026-06-22T19:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -510,6 +510,38 @@
         {
           "id": "401873969",
           "start": "2026-06-23T23:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/bra.3": {
+      "sport": "soccer",
+      "slug": "bra.3",
+      "name": "Brazilian Serie C",
+      "events": [
+        {
+          "id": "401862499",
+          "start": "2026-06-21T14:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401862496",
+          "start": "2026-06-21T19:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401862596",
+          "start": "2026-06-21T21:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401862503",
+          "start": "2026-06-21T21:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401862504",
+          "start": "2026-06-22T22:30:00.000Z",
           "state": "pre"
         }
       ]
@@ -593,38 +625,6 @@
         }
       ]
     },
-    "soccer/bra.3": {
-      "sport": "soccer",
-      "slug": "bra.3",
-      "name": "Brazilian Serie C",
-      "events": [
-        {
-          "id": "401862499",
-          "start": "2026-06-21T14:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401862496",
-          "start": "2026-06-21T19:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401862596",
-          "start": "2026-06-21T21:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401862503",
-          "start": "2026-06-21T21:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401862504",
-          "start": "2026-06-22T22:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "racing/irl": {
       "sport": "racing",
       "slug": "irl",
@@ -673,38 +673,6 @@
         }
       ]
     },
-    "tennis/atp": {
-      "sport": "tennis",
-      "slug": "atp",
-      "name": "ATP",
-      "events": [
-        {
-          "id": "27-2026",
-          "start": "2026-06-13T04:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "129-2026",
-          "start": "2026-06-13T04:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "444-2026",
-          "start": "2026-06-20T04:00:00.000Z",
-          "state": "in"
-        },
-        {
-          "id": "637-2026",
-          "start": "2026-06-20T04:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "188-2026",
-          "start": "2026-06-22T04:00:00.000Z",
-          "state": "in"
-        }
-      ]
-    },
     "tennis/wta": {
       "sport": "tennis",
       "slug": "wta",
@@ -747,20 +715,35 @@
         }
       ]
     },
-    "australian-football/afl": {
-      "sport": "australian-football",
-      "slug": "afl",
-      "name": "AFL",
+    "tennis/atp": {
+      "sport": "tennis",
+      "slug": "atp",
+      "name": "ATP",
       "events": [
         {
-          "id": "1133609",
-          "start": "2026-06-21T03:10:00.000Z",
+          "id": "27-2026",
+          "start": "2026-06-13T04:00:00.000Z",
           "state": "post"
         },
         {
-          "id": "1133610",
-          "start": "2026-06-21T05:15:00.000Z",
+          "id": "129-2026",
+          "start": "2026-06-13T04:00:00.000Z",
           "state": "post"
+        },
+        {
+          "id": "444-2026",
+          "start": "2026-06-20T04:00:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "637-2026",
+          "start": "2026-06-20T04:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "188-2026",
+          "start": "2026-06-22T04:00:00.000Z",
+          "state": "in"
         }
       ]
     },
@@ -777,6 +760,23 @@
         {
           "id": "603497",
           "start": "2026-06-22T00:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "australian-football/afl": {
+      "sport": "australian-football",
+      "slug": "afl",
+      "name": "AFL",
+      "events": [
+        {
+          "id": "1133609",
+          "start": "2026-06-21T03:10:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "1133610",
+          "start": "2026-06-21T05:15:00.000Z",
           "state": "post"
         }
       ]
