@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T04:34:49.822Z",
+  "generatedAt": "2026-06-23T15:27:06.680Z",
   "window": [
     "2026-06-22",
     "2026-06-23",
@@ -138,7 +138,7 @@
         {
           "id": "401815865",
           "start": "2026-06-23T02:00:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401815868",
@@ -320,7 +320,7 @@
         {
           "id": "760455",
           "start": "2026-06-23T03:00:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "760461",
@@ -396,18 +396,6 @@
         }
       ]
     },
-    "soccer/usa.usl.l1.cup": {
-      "sport": "soccer",
-      "slug": "usa.usl.l1.cup",
-      "name": "USL Cup",
-      "events": [
-        {
-          "id": "401841412",
-          "start": "2026-06-24T23:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/usa.usl.l1": {
       "sport": "soccer",
       "slug": "usa.usl.l1",
@@ -426,6 +414,18 @@
         {
           "id": "401841896",
           "start": "2026-06-25T01:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/usa.usl.l1.cup": {
+      "sport": "soccer",
+      "slug": "usa.usl.l1.cup",
+      "name": "USL Cup",
+      "events": [
+        {
+          "id": "401841412",
+          "start": "2026-06-24T23:30:00.000Z",
           "state": "pre"
         }
       ]
@@ -525,30 +525,15 @@
         }
       ]
     },
-    "tennis/wta": {
-      "sport": "tennis",
-      "slug": "wta",
-      "name": "WTA",
+    "golf/lpga": {
+      "sport": "golf",
+      "slug": "lpga",
+      "name": "Ladies Pro Golf Association",
       "events": [
         {
-          "id": "635-2026",
-          "start": "2026-06-13T04:00:00.000Z",
+          "id": "401835160",
+          "start": "2026-06-18T04:00:00.000Z",
           "state": "post"
-        },
-        {
-          "id": "444-2026",
-          "start": "2026-06-20T04:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "636-2026",
-          "start": "2026-06-20T04:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "188-2026",
-          "start": "2026-06-22T04:00:00.000Z",
-          "state": "pre"
         }
       ]
     },
@@ -572,29 +557,44 @@
         {
           "id": "444-2026",
           "start": "2026-06-20T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "637-2026",
+          "start": "2026-06-20T04:00:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "188-2026",
+          "start": "2026-06-22T04:00:00.000Z",
+          "state": "in"
+        }
+      ]
+    },
+    "tennis/wta": {
+      "sport": "tennis",
+      "slug": "wta",
+      "name": "WTA",
+      "events": [
+        {
+          "id": "635-2026",
+          "start": "2026-06-13T04:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "444-2026",
+          "start": "2026-06-20T04:00:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "636-2026",
           "start": "2026-06-20T04:00:00.000Z",
           "state": "pre"
         },
         {
           "id": "188-2026",
           "start": "2026-06-22T04:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "golf/lpga": {
-      "sport": "golf",
-      "slug": "lpga",
-      "name": "Ladies Pro Golf Association",
-      "events": [
-        {
-          "id": "401835160",
-          "start": "2026-06-18T04:00:00.000Z",
-          "state": "post"
+          "state": "in"
         }
       ]
     }
