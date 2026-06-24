@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T04:42:51.181Z",
+  "generatedAt": "2026-06-24T15:12:17.033Z",
   "window": [
     "2026-06-23",
     "2026-06-24",
@@ -126,7 +126,7 @@
         {
           "id": "401815880",
           "start": "2026-06-24T01:40:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401815879",
@@ -347,6 +347,40 @@
         }
       ]
     },
+    "soccer/usa.usl.1": {
+      "sport": "soccer",
+      "slug": "usa.usl.1",
+      "name": "USL Championship",
+      "events": [
+        {
+          "id": "401841948",
+          "start": "2026-06-24T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401841950",
+          "start": "2026-06-24T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401841946",
+          "start": "2026-06-25T00:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/usa.usl.l1.cup": {
+      "sport": "soccer",
+      "slug": "usa.usl.l1.cup",
+      "name": "USL Cup",
+      "events": [
+        {
+          "id": "401841412",
+          "start": "2026-06-24T23:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/usa.usl.l1": {
       "sport": "soccer",
       "slug": "usa.usl.l1",
@@ -369,18 +403,6 @@
         }
       ]
     },
-    "soccer/usa.usl.l1.cup": {
-      "sport": "soccer",
-      "slug": "usa.usl.l1.cup",
-      "name": "USL Cup",
-      "events": [
-        {
-          "id": "401841412",
-          "start": "2026-06-24T23:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/can.w.nsl": {
       "sport": "soccer",
       "slug": "can.w.nsl",
@@ -389,28 +411,6 @@
         {
           "id": "401859909",
           "start": "2026-06-25T23:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/usa.usl.1": {
-      "sport": "soccer",
-      "slug": "usa.usl.1",
-      "name": "USL Championship",
-      "events": [
-        {
-          "id": "401841948",
-          "start": "2026-06-24T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401841950",
-          "start": "2026-06-24T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401841946",
-          "start": "2026-06-25T00:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -515,6 +515,52 @@
         }
       ]
     },
+    "golf/liv": {
+      "sport": "golf",
+      "slug": "liv",
+      "name": "LIV Golf Invitational Series",
+      "events": [
+        {
+          "id": "401817380",
+          "start": "2026-06-25T04:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "tennis/atp": {
+      "sport": "tennis",
+      "slug": "atp",
+      "name": "ATP",
+      "events": [
+        {
+          "id": "444-2026",
+          "start": "2026-06-20T04:00:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "637-2026",
+          "start": "2026-06-20T04:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "188-2026",
+          "start": "2026-06-22T04:00:00.000Z",
+          "state": "in"
+        }
+      ]
+    },
+    "golf/pga": {
+      "sport": "golf",
+      "slug": "pga",
+      "name": "PGA TOUR",
+      "events": [
+        {
+          "id": "401811953",
+          "start": "2026-06-25T04:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "golf/ntw": {
       "sport": "golf",
       "slug": "ntw",
@@ -535,63 +581,17 @@
         {
           "id": "444-2026",
           "start": "2026-06-20T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "636-2026",
           "start": "2026-06-20T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "188-2026",
           "start": "2026-06-22T04:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "tennis/atp": {
-      "sport": "tennis",
-      "slug": "atp",
-      "name": "ATP",
-      "events": [
-        {
-          "id": "444-2026",
-          "start": "2026-06-20T04:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "637-2026",
-          "start": "2026-06-20T04:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "188-2026",
-          "start": "2026-06-22T04:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "golf/pga": {
-      "sport": "golf",
-      "slug": "pga",
-      "name": "PGA TOUR",
-      "events": [
-        {
-          "id": "401811953",
-          "start": "2026-06-25T04:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "golf/liv": {
-      "sport": "golf",
-      "slug": "liv",
-      "name": "LIV Golf Invitational Series",
-      "events": [
-        {
-          "id": "401817380",
-          "start": "2026-06-25T04:00:00.000Z",
-          "state": "post"
+          "state": "in"
         }
       ]
     },
