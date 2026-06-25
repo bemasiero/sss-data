@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T04:37:52.416Z",
+  "generatedAt": "2026-06-25T15:19:49.869Z",
   "window": [
     "2026-06-24",
     "2026-06-25",
@@ -401,18 +401,6 @@
         }
       ]
     },
-    "soccer/usa.usl.l1.cup": {
-      "sport": "soccer",
-      "slug": "usa.usl.l1.cup",
-      "name": "USL Cup",
-      "events": [
-        {
-          "id": "401841412",
-          "start": "2026-06-24T23:30:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "soccer/usa.usl.l1": {
       "sport": "soccer",
       "slug": "usa.usl.l1",
@@ -431,6 +419,18 @@
         {
           "id": "401841896",
           "start": "2026-06-25T01:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "soccer/usa.usl.l1.cup": {
+      "sport": "soccer",
+      "slug": "usa.usl.l1.cup",
+      "name": "USL Cup",
+      "events": [
+        {
+          "id": "401841412",
+          "start": "2026-06-24T23:30:00.000Z",
           "state": "post"
         }
       ]
@@ -540,6 +540,18 @@
         }
       ]
     },
+    "racing/f1": {
+      "sport": "racing",
+      "slug": "f1",
+      "name": "Formula 1",
+      "events": [
+        {
+          "id": "600057436",
+          "start": "2026-06-26T11:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "golf/champions-tour": {
       "sport": "golf",
       "slug": "champions-tour",
@@ -552,14 +564,14 @@
         }
       ]
     },
-    "racing/f1": {
-      "sport": "racing",
-      "slug": "f1",
-      "name": "Formula 1",
+    "golf/eur": {
+      "sport": "golf",
+      "slug": "eur",
+      "name": "DP World Tour",
       "events": [
         {
-          "id": "600057436",
-          "start": "2026-06-26T11:30:00.000Z",
+          "id": "401822695",
+          "start": "2026-06-25T04:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -576,25 +588,13 @@
         }
       ]
     },
-    "golf/eur": {
+    "golf/ntw": {
       "sport": "golf",
-      "slug": "eur",
-      "name": "DP World Tour",
+      "slug": "ntw",
+      "name": "Korn Ferry Tour",
       "events": [
         {
-          "id": "401822695",
-          "start": "2026-06-25T04:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "golf/lpga": {
-      "sport": "golf",
-      "slug": "lpga",
-      "name": "Ladies Pro Golf Association",
-      "events": [
-        {
-          "id": "401835161",
+          "id": "401837441",
           "start": "2026-06-25T04:00:00.000Z",
           "state": "in"
         }
@@ -612,13 +612,13 @@
         }
       ]
     },
-    "golf/ntw": {
+    "golf/lpga": {
       "sport": "golf",
-      "slug": "ntw",
-      "name": "Korn Ferry Tour",
+      "slug": "lpga",
+      "name": "Ladies Pro Golf Association",
       "events": [
         {
-          "id": "401837441",
+          "id": "401835161",
           "start": "2026-06-25T04:00:00.000Z",
           "state": "in"
         }
@@ -632,7 +632,7 @@
         {
           "id": "444-2026",
           "start": "2026-06-20T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "637-2026",
@@ -642,7 +642,7 @@
         {
           "id": "188-2026",
           "start": "2026-06-22T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         }
       ]
     },
@@ -654,34 +654,17 @@
         {
           "id": "444-2026",
           "start": "2026-06-20T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "636-2026",
           "start": "2026-06-20T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "188-2026",
           "start": "2026-06-22T04:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "australian-football/afl": {
-      "sport": "australian-football",
-      "slug": "afl",
-      "name": "AFL",
-      "events": [
-        {
-          "id": "1133611",
-          "start": "2026-06-25T09:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "1133614",
-          "start": "2026-06-26T09:40:00.000Z",
-          "state": "pre"
+          "state": "in"
         }
       ]
     },
@@ -703,6 +686,23 @@
         {
           "id": "603376",
           "start": "2026-06-26T10:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "australian-football/afl": {
+      "sport": "australian-football",
+      "slug": "afl",
+      "name": "AFL",
+      "events": [
+        {
+          "id": "1133611",
+          "start": "2026-06-25T09:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "1133614",
+          "start": "2026-06-26T09:40:00.000Z",
           "state": "pre"
         }
       ]
