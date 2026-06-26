@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T04:45:41.030Z",
+  "generatedAt": "2026-06-26T15:05:05.084Z",
   "window": [
     "2026-06-25",
     "2026-06-26",
@@ -455,6 +455,43 @@
         }
       ]
     },
+    "soccer/arg.3": {
+      "sport": "soccer",
+      "slug": "arg.3",
+      "name": "Argentine Primera B",
+      "events": [
+        {
+          "id": "401844951",
+          "start": "2026-06-27T16:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844949",
+          "start": "2026-06-27T16:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844946",
+          "start": "2026-06-27T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844954",
+          "start": "2026-06-27T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844952",
+          "start": "2026-06-27T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844945",
+          "start": "2026-06-27T18:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/arg.4": {
       "sport": "soccer",
       "slug": "arg.4",
@@ -520,43 +557,6 @@
         {
           "id": "401873970",
           "start": "2026-06-27T19:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/arg.3": {
-      "sport": "soccer",
-      "slug": "arg.3",
-      "name": "Argentine Primera B",
-      "events": [
-        {
-          "id": "401844951",
-          "start": "2026-06-27T16:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844949",
-          "start": "2026-06-27T16:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844946",
-          "start": "2026-06-27T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844954",
-          "start": "2026-06-27T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844952",
-          "start": "2026-06-27T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844945",
-          "start": "2026-06-27T18:30:00.000Z",
           "state": "pre"
         }
       ]
@@ -695,18 +695,6 @@
         }
       ]
     },
-    "golf/liv": {
-      "sport": "golf",
-      "slug": "liv",
-      "name": "LIV Golf Invitational Series",
-      "events": [
-        {
-          "id": "401817380",
-          "start": "2026-06-25T04:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "golf/eur": {
       "sport": "golf",
       "slug": "eur",
@@ -714,18 +702,6 @@
       "events": [
         {
           "id": "401822695",
-          "start": "2026-06-25T04:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
-    "golf/pga": {
-      "sport": "golf",
-      "slug": "pga",
-      "name": "PGA TOUR",
-      "events": [
-        {
-          "id": "401811953",
           "start": "2026-06-25T04:00:00.000Z",
           "state": "post"
         }
@@ -739,6 +715,18 @@
         {
           "id": "401835161",
           "start": "2026-06-25T04:00:00.000Z",
+          "state": "in"
+        }
+      ]
+    },
+    "golf/liv": {
+      "sport": "golf",
+      "slug": "liv",
+      "name": "LIV Golf Invitational Series",
+      "events": [
+        {
+          "id": "401817380",
+          "start": "2026-06-25T04:00:00.000Z",
           "state": "post"
         }
       ]
@@ -751,7 +739,19 @@
         {
           "id": "401837441",
           "start": "2026-06-25T04:00:00.000Z",
-          "state": "post"
+          "state": "in"
+        }
+      ]
+    },
+    "golf/pga": {
+      "sport": "golf",
+      "slug": "pga",
+      "name": "PGA TOUR",
+      "events": [
+        {
+          "id": "401811953",
+          "start": "2026-06-25T04:00:00.000Z",
+          "state": "in"
         }
       ]
     },
@@ -763,10 +763,32 @@
         {
           "id": "444-2026",
           "start": "2026-06-20T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "637-2026",
+          "start": "2026-06-20T04:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "188-2026",
+          "start": "2026-06-22T04:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "tennis/wta": {
+      "sport": "tennis",
+      "slug": "wta",
+      "name": "WTA",
+      "events": [
+        {
+          "id": "444-2026",
+          "start": "2026-06-20T04:00:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "636-2026",
           "start": "2026-06-20T04:00:00.000Z",
           "state": "pre"
         },
@@ -785,28 +807,6 @@
         {
           "id": "602865",
           "start": "2026-06-27T19:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "tennis/wta": {
-      "sport": "tennis",
-      "slug": "wta",
-      "name": "WTA",
-      "events": [
-        {
-          "id": "444-2026",
-          "start": "2026-06-20T04:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "636-2026",
-          "start": "2026-06-20T04:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "188-2026",
-          "start": "2026-06-22T04:00:00.000Z",
           "state": "pre"
         }
       ]
