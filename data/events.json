@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T04:30:10.249Z",
+  "generatedAt": "2026-06-27T14:10:14.217Z",
   "window": [
     "2026-06-26",
     "2026-06-27",
@@ -131,7 +131,7 @@
         {
           "id": "401815918",
           "start": "2026-06-27T01:38:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401815920",
@@ -141,7 +141,7 @@
         {
           "id": "401815919",
           "start": "2026-06-27T02:15:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401815924",
@@ -323,12 +323,12 @@
         {
           "id": "760476",
           "start": "2026-06-27T03:00:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "760477",
           "start": "2026-06-27T03:00:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "760480",
@@ -819,7 +819,7 @@
         {
           "id": "600057436",
           "start": "2026-06-26T11:30:00.000Z",
-          "state": "pre"
+          "state": "in"
         }
       ]
     },
@@ -855,7 +855,7 @@
         {
           "id": "401832059",
           "start": "2026-06-26T04:00:00.000Z",
-          "state": "post"
+          "state": "in"
         }
       ]
     },
@@ -883,30 +883,6 @@
         }
       ]
     },
-    "golf/pga": {
-      "sport": "golf",
-      "slug": "pga",
-      "name": "PGA TOUR",
-      "events": [
-        {
-          "id": "401811953",
-          "start": "2026-06-25T04:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
-    "golf/ntw": {
-      "sport": "golf",
-      "slug": "ntw",
-      "name": "Korn Ferry Tour",
-      "events": [
-        {
-          "id": "401837441",
-          "start": "2026-06-25T04:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "golf/lpga": {
       "sport": "golf",
       "slug": "lpga",
@@ -915,7 +891,7 @@
         {
           "id": "401835161",
           "start": "2026-06-25T04:00:00.000Z",
-          "state": "post"
+          "state": "in"
         }
       ]
     },
@@ -932,12 +908,24 @@
         {
           "id": "637-2026",
           "start": "2026-06-20T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "188-2026",
           "start": "2026-06-22T04:00:00.000Z",
           "state": "pre"
+        }
+      ]
+    },
+    "golf/pga": {
+      "sport": "golf",
+      "slug": "pga",
+      "name": "PGA TOUR",
+      "events": [
+        {
+          "id": "401811953",
+          "start": "2026-06-25T04:00:00.000Z",
+          "state": "in"
         }
       ]
     },
@@ -954,12 +942,24 @@
         {
           "id": "636-2026",
           "start": "2026-06-20T04:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "188-2026",
           "start": "2026-06-22T04:00:00.000Z",
           "state": "pre"
+        }
+      ]
+    },
+    "golf/ntw": {
+      "sport": "golf",
+      "slug": "ntw",
+      "name": "Korn Ferry Tour",
+      "events": [
+        {
+          "id": "401837441",
+          "start": "2026-06-25T04:00:00.000Z",
+          "state": "post"
         }
       ]
     },
