@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T05:05:09.093Z",
+  "generatedAt": "2026-06-29T16:13:26.058Z",
   "window": [
     "2026-06-28",
     "2026-06-29",
@@ -597,18 +597,6 @@
         }
       ]
     },
-    "golf/champions-tour": {
-      "sport": "golf",
-      "slug": "champions-tour",
-      "name": "PGA TOUR Champions",
-      "events": [
-        {
-          "id": "401832059",
-          "start": "2026-06-26T04:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "golf/eur": {
       "sport": "golf",
       "slug": "eur",
@@ -633,14 +621,14 @@
         }
       ]
     },
-    "golf/lpga": {
+    "golf/champions-tour": {
       "sport": "golf",
-      "slug": "lpga",
-      "name": "Ladies Pro Golf Association",
+      "slug": "champions-tour",
+      "name": "PGA TOUR Champions",
       "events": [
         {
-          "id": "401835161",
-          "start": "2026-06-25T04:00:00.000Z",
+          "id": "401832059",
+          "start": "2026-06-26T04:00:00.000Z",
           "state": "post"
         }
       ]
@@ -669,23 +657,6 @@
         }
       ]
     },
-    "tennis/atp": {
-      "sport": "tennis",
-      "slug": "atp",
-      "name": "ATP",
-      "events": [
-        {
-          "id": "444-2026",
-          "start": "2026-06-20T04:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "188-2026",
-          "start": "2026-06-22T04:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "tennis/wta": {
       "sport": "tennis",
       "slug": "wta",
@@ -699,7 +670,36 @@
         {
           "id": "188-2026",
           "start": "2026-06-22T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
+        }
+      ]
+    },
+    "golf/lpga": {
+      "sport": "golf",
+      "slug": "lpga",
+      "name": "Ladies Pro Golf Association",
+      "events": [
+        {
+          "id": "401835161",
+          "start": "2026-06-25T04:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "tennis/atp": {
+      "sport": "tennis",
+      "slug": "atp",
+      "name": "ATP",
+      "events": [
+        {
+          "id": "444-2026",
+          "start": "2026-06-20T04:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "188-2026",
+          "start": "2026-06-22T04:00:00.000Z",
+          "state": "in"
         }
       ]
     },
