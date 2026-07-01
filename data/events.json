@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T15:15:04.578Z",
+  "generatedAt": "2026-07-01T19:47:59.198Z",
   "window": [
     "2026-06-30",
     "2026-07-01",
@@ -353,6 +353,28 @@
         }
       ]
     },
+    "soccer/bra.3": {
+      "sport": "soccer",
+      "slug": "bra.3",
+      "name": "Brazilian Serie C",
+      "events": [
+        {
+          "id": "401862506",
+          "start": "2026-06-30T22:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401862505",
+          "start": "2026-06-30T23:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401862513",
+          "start": "2026-06-30T23:30:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
     "soccer/arg.4": {
       "sport": "soccer",
       "slug": "arg.4",
@@ -389,28 +411,6 @@
           "id": "401873979",
           "start": "2026-07-03T00:00:00.000Z",
           "state": "pre"
-        }
-      ]
-    },
-    "soccer/bra.3": {
-      "sport": "soccer",
-      "slug": "bra.3",
-      "name": "Brazilian Serie C",
-      "events": [
-        {
-          "id": "401862506",
-          "start": "2026-06-30T22:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401862505",
-          "start": "2026-06-30T23:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401862513",
-          "start": "2026-06-30T23:30:00.000Z",
-          "state": "post"
         }
       ]
     },
@@ -470,10 +470,17 @@
           "id": "401859594",
           "start": "2026-07-01T22:00:00.000Z",
           "state": "pre"
-        },
+        }
+      ]
+    },
+    "golf/champions-tour": {
+      "sport": "golf",
+      "slug": "champions-tour",
+      "name": "PGA TOUR Champions",
+      "events": [
         {
-          "id": "401859603",
-          "start": "2026-07-02T00:00:00.000Z",
+          "id": "401832060",
+          "start": "2026-07-02T04:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -507,10 +514,10 @@
         }
       ]
     },
-    "tennis/wta": {
+    "tennis/atp": {
       "sport": "tennis",
-      "slug": "wta",
-      "name": "WTA",
+      "slug": "atp",
+      "name": "ATP",
       "events": [
         {
           "id": "188-2026",
@@ -519,22 +526,10 @@
         }
       ]
     },
-    "golf/champions-tour": {
-      "sport": "golf",
-      "slug": "champions-tour",
-      "name": "PGA TOUR Champions",
-      "events": [
-        {
-          "id": "401832060",
-          "start": "2026-07-02T04:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "tennis/atp": {
+    "tennis/wta": {
       "sport": "tennis",
-      "slug": "atp",
-      "name": "ATP",
+      "slug": "wta",
+      "name": "WTA",
       "events": [
         {
           "id": "188-2026",
