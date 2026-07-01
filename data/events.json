@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T04:57:54.328Z",
+  "generatedAt": "2026-07-01T15:15:04.578Z",
   "window": [
     "2026-06-30",
     "2026-07-01",
@@ -282,6 +282,18 @@
         }
       ]
     },
+    "soccer/usa.usl.1": {
+      "sport": "soccer",
+      "slug": "usa.usl.1",
+      "name": "USL Championship",
+      "events": [
+        {
+          "id": "401841952",
+          "start": "2026-07-03T00:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/usa.usl.l1": {
       "sport": "soccer",
       "slug": "usa.usl.l1",
@@ -310,18 +322,6 @@
         {
           "id": "401841905",
           "start": "2026-07-03T01:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/usa.usl.1": {
-      "sport": "soccer",
-      "slug": "usa.usl.1",
-      "name": "USL Championship",
-      "events": [
-        {
-          "id": "401841952",
-          "start": "2026-07-03T00:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -370,28 +370,6 @@
         }
       ]
     },
-    "soccer/bra.3": {
-      "sport": "soccer",
-      "slug": "bra.3",
-      "name": "Brazilian Serie C",
-      "events": [
-        {
-          "id": "401862506",
-          "start": "2026-06-30T22:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401862505",
-          "start": "2026-06-30T23:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401862513",
-          "start": "2026-06-30T23:30:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "soccer/bra.2": {
       "sport": "soccer",
       "slug": "bra.2",
@@ -411,6 +389,28 @@
           "id": "401873979",
           "start": "2026-07-03T00:00:00.000Z",
           "state": "pre"
+        }
+      ]
+    },
+    "soccer/bra.3": {
+      "sport": "soccer",
+      "slug": "bra.3",
+      "name": "Brazilian Serie C",
+      "events": [
+        {
+          "id": "401862506",
+          "start": "2026-06-30T22:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401862505",
+          "start": "2026-06-30T23:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401862513",
+          "start": "2026-06-30T23:30:00.000Z",
+          "state": "post"
         }
       ]
     },
@@ -507,15 +507,15 @@
         }
       ]
     },
-    "tennis/atp": {
+    "tennis/wta": {
       "sport": "tennis",
-      "slug": "atp",
-      "name": "ATP",
+      "slug": "wta",
+      "name": "WTA",
       "events": [
         {
           "id": "188-2026",
           "start": "2026-06-22T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         }
       ]
     },
@@ -531,15 +531,15 @@
         }
       ]
     },
-    "tennis/wta": {
+    "tennis/atp": {
       "sport": "tennis",
-      "slug": "wta",
-      "name": "WTA",
+      "slug": "atp",
+      "name": "ATP",
       "events": [
         {
           "id": "188-2026",
           "start": "2026-06-22T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         }
       ]
     },
