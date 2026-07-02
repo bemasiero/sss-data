@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T12:40:13.625Z",
+  "generatedAt": "2026-07-02T14:33:08.510Z",
   "window": [
     "2026-07-01",
     "2026-07-02",
@@ -316,6 +316,23 @@
         }
       ]
     },
+    "soccer/usa.usl.1": {
+      "sport": "soccer",
+      "slug": "usa.usl.1",
+      "name": "USL Championship",
+      "events": [
+        {
+          "id": "401841952",
+          "start": "2026-07-03T00:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401841954",
+          "start": "2026-07-03T23:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/usa.usl.l1": {
       "sport": "soccer",
       "slug": "usa.usl.l1",
@@ -354,23 +371,6 @@
         {
           "id": "401841909",
           "start": "2026-07-03T23:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/usa.usl.1": {
-      "sport": "soccer",
-      "slug": "usa.usl.1",
-      "name": "USL Championship",
-      "events": [
-        {
-          "id": "401841952",
-          "start": "2026-07-03T00:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401841954",
-          "start": "2026-07-03T23:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -414,18 +414,6 @@
         }
       ]
     },
-    "soccer/swe.1": {
-      "sport": "soccer",
-      "slug": "swe.1",
-      "name": "Swedish Allsvenskan",
-      "events": [
-        {
-          "id": "401842745",
-          "start": "2026-07-03T17:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/irl.1": {
       "sport": "soccer",
       "slug": "irl.1",
@@ -454,6 +442,18 @@
         {
           "id": "763152",
           "start": "2026-07-03T18:45:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/swe.1": {
+      "sport": "soccer",
+      "slug": "swe.1",
+      "name": "Swedish Allsvenskan",
+      "events": [
+        {
+          "id": "401842745",
+          "start": "2026-07-03T17:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -553,30 +553,6 @@
         }
       ]
     },
-    "golf/pga": {
-      "sport": "golf",
-      "slug": "pga",
-      "name": "PGA TOUR",
-      "events": [
-        {
-          "id": "401811954",
-          "start": "2026-07-02T04:00:00.000Z",
-          "state": "in"
-        }
-      ]
-    },
-    "tennis/wta": {
-      "sport": "tennis",
-      "slug": "wta",
-      "name": "WTA",
-      "events": [
-        {
-          "id": "188-2026",
-          "start": "2026-06-22T04:00:00.000Z",
-          "state": "in"
-        }
-      ]
-    },
     "golf/champions-tour": {
       "sport": "golf",
       "slug": "champions-tour",
@@ -593,6 +569,30 @@
       "sport": "tennis",
       "slug": "atp",
       "name": "ATP",
+      "events": [
+        {
+          "id": "188-2026",
+          "start": "2026-06-22T04:00:00.000Z",
+          "state": "in"
+        }
+      ]
+    },
+    "golf/pga": {
+      "sport": "golf",
+      "slug": "pga",
+      "name": "PGA TOUR",
+      "events": [
+        {
+          "id": "401811954",
+          "start": "2026-07-02T04:00:00.000Z",
+          "state": "in"
+        }
+      ]
+    },
+    "tennis/wta": {
+      "sport": "tennis",
+      "slug": "wta",
+      "name": "WTA",
       "events": [
         {
           "id": "188-2026",
