@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T14:34:54.207Z",
+  "generatedAt": "2026-07-03T19:54:00.307Z",
   "window": [
     "2026-07-02",
     "2026-07-03",
@@ -145,7 +145,7 @@
         {
           "id": "401816007",
           "start": "2026-07-03T20:05:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401816006",
@@ -307,7 +307,7 @@
         {
           "id": "760499",
           "start": "2026-07-03T18:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "760500",
@@ -551,7 +551,7 @@
         {
           "id": "401842745",
           "start": "2026-07-03T17:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401842743",
@@ -597,6 +597,43 @@
         }
       ]
     },
+    "soccer/bra.3": {
+      "sport": "soccer",
+      "slug": "bra.3",
+      "name": "Brazilian Serie C",
+      "events": [
+        {
+          "id": "401862519",
+          "start": "2026-07-04T20:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401862598",
+          "start": "2026-07-04T22:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401862518",
+          "start": "2026-07-04T22:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401862517",
+          "start": "2026-07-04T22:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401862521",
+          "start": "2026-07-04T23:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401862520",
+          "start": "2026-07-04T23:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/arg.3": {
       "sport": "soccer",
       "slug": "arg.3",
@@ -635,6 +672,33 @@
         {
           "id": "401844956",
           "start": "2026-07-04T18:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/arg.4": {
+      "sport": "soccer",
+      "slug": "arg.4",
+      "name": "Argentine Primera C",
+      "events": [
+        {
+          "id": "401844495",
+          "start": "2026-07-04T16:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844497",
+          "start": "2026-07-04T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844490",
+          "start": "2026-07-04T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844698",
+          "start": "2026-07-04T18:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -682,33 +746,6 @@
         {
           "id": "401843945",
           "start": "2026-07-04T21:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/arg.4": {
-      "sport": "soccer",
-      "slug": "arg.4",
-      "name": "Argentine Primera C",
-      "events": [
-        {
-          "id": "401844495",
-          "start": "2026-07-04T16:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844497",
-          "start": "2026-07-04T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844490",
-          "start": "2026-07-04T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844698",
-          "start": "2026-07-04T18:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -792,43 +829,6 @@
         }
       ]
     },
-    "soccer/bra.3": {
-      "sport": "soccer",
-      "slug": "bra.3",
-      "name": "Brazilian Serie C",
-      "events": [
-        {
-          "id": "401862519",
-          "start": "2026-07-04T20:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401862598",
-          "start": "2026-07-04T22:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401862518",
-          "start": "2026-07-04T22:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401862517",
-          "start": "2026-07-04T22:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401862521",
-          "start": "2026-07-04T23:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401862520",
-          "start": "2026-07-04T23:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/ecu.1": {
       "sport": "soccer",
       "slug": "ecu.1",
@@ -851,27 +851,15 @@
         }
       ]
     },
-    "racing/f1": {
-      "sport": "racing",
-      "slug": "f1",
-      "name": "Formula 1",
+    "golf/champions-tour": {
+      "sport": "golf",
+      "slug": "champions-tour",
+      "name": "PGA TOUR Champions",
       "events": [
         {
-          "id": "600057437",
-          "start": "2026-07-03T11:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "racing/nascar-secondary": {
-      "sport": "racing",
-      "slug": "nascar-secondary",
-      "name": "NASCAR O'Reilly Auto Parts Series",
-      "events": [
-        {
-          "id": "202607040760",
-          "start": "2026-07-04T21:30:00.000Z",
-          "state": "pre"
+          "id": "401832060",
+          "start": "2026-07-02T04:00:00.000Z",
+          "state": "in"
         }
       ]
     },
@@ -887,14 +875,26 @@
         }
       ]
     },
-    "golf/champions-tour": {
-      "sport": "golf",
-      "slug": "champions-tour",
-      "name": "PGA TOUR Champions",
+    "racing/f1": {
+      "sport": "racing",
+      "slug": "f1",
+      "name": "Formula 1",
       "events": [
         {
-          "id": "401832060",
-          "start": "2026-07-02T04:00:00.000Z",
+          "id": "600057437",
+          "start": "2026-07-03T11:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "tennis/atp": {
+      "sport": "tennis",
+      "slug": "atp",
+      "name": "ATP",
+      "events": [
+        {
+          "id": "188-2026",
+          "start": "2026-06-22T04:00:00.000Z",
           "state": "in"
         }
       ]
@@ -923,15 +923,15 @@
         }
       ]
     },
-    "tennis/atp": {
-      "sport": "tennis",
-      "slug": "atp",
-      "name": "ATP",
+    "racing/nascar-secondary": {
+      "sport": "racing",
+      "slug": "nascar-secondary",
+      "name": "NASCAR O'Reilly Auto Parts Series",
       "events": [
         {
-          "id": "188-2026",
-          "start": "2026-06-22T04:00:00.000Z",
-          "state": "in"
+          "id": "202607040760",
+          "start": "2026-07-04T21:30:00.000Z",
+          "state": "pre"
         }
       ]
     },
