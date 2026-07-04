@@ -1,11 +1,58 @@
 {
-  "generatedAt": "2026-07-04T04:07:06.672Z",
+  "generatedAt": "2026-07-04T09:03:14.964Z",
   "window": [
     "2026-07-03",
     "2026-07-04",
     "2026-07-05"
   ],
   "leagues": {
+    "basketball/nba-summer-california": {
+      "sport": "basketball",
+      "slug": "nba-summer-california",
+      "name": "NBA California Classic Summer League",
+      "events": [
+        {
+          "id": "401881933",
+          "start": "2026-07-04T00:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401881934",
+          "start": "2026-07-04T02:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401881927",
+          "start": "2026-07-04T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401881925",
+          "start": "2026-07-04T21:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401881929",
+          "start": "2026-07-05T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401881935",
+          "start": "2026-07-05T20:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401881930",
+          "start": "2026-07-05T21:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401881936",
+          "start": "2026-07-05T23:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "basketball/wnba": {
       "sport": "basketball",
       "slug": "wnba",
@@ -19,7 +66,7 @@
         {
           "id": "401857038",
           "start": "2026-07-04T02:00:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401857039",
@@ -108,27 +155,27 @@
         {
           "id": "401816010",
           "start": "2026-07-04T01:38:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401816011",
           "start": "2026-07-04T01:40:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401816012",
           "start": "2026-07-04T01:45:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401816013",
           "start": "2026-07-04T02:10:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401816014",
           "start": "2026-07-04T02:10:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401816019",
@@ -371,6 +418,48 @@
         }
       ]
     },
+    "soccer/usa.usl.l1": {
+      "sport": "soccer",
+      "slug": "usa.usl.l1",
+      "name": "USL League One",
+      "events": [
+        {
+          "id": "401841908",
+          "start": "2026-07-03T23:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401841909",
+          "start": "2026-07-03T23:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401841913",
+          "start": "2026-07-04T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401841911",
+          "start": "2026-07-04T23:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401841917",
+          "start": "2026-07-04T23:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401841921",
+          "start": "2026-07-05T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401841919",
+          "start": "2026-07-06T03:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/usa.usl.1": {
       "sport": "soccer",
       "slug": "usa.usl.1",
@@ -434,48 +523,6 @@
         {
           "id": "401841976",
           "start": "2026-07-05T23:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/usa.usl.l1": {
-      "sport": "soccer",
-      "slug": "usa.usl.l1",
-      "name": "USL League One",
-      "events": [
-        {
-          "id": "401841908",
-          "start": "2026-07-03T23:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401841909",
-          "start": "2026-07-03T23:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401841913",
-          "start": "2026-07-04T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401841911",
-          "start": "2026-07-04T23:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401841917",
-          "start": "2026-07-04T23:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401841921",
-          "start": "2026-07-05T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401841919",
-          "start": "2026-07-06T03:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -706,53 +753,6 @@
         {
           "id": "401873890",
           "start": "2026-07-05T19:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "basketball/nba-summer-california": {
-      "sport": "basketball",
-      "slug": "nba-summer-california",
-      "name": "NBA California Classic Summer League",
-      "events": [
-        {
-          "id": "401881933",
-          "start": "2026-07-04T00:00:00.000Z",
-          "state": "in"
-        },
-        {
-          "id": "401881934",
-          "start": "2026-07-04T02:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401881927",
-          "start": "2026-07-04T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401881925",
-          "start": "2026-07-04T21:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401881929",
-          "start": "2026-07-05T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401881935",
-          "start": "2026-07-05T20:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401881930",
-          "start": "2026-07-05T21:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401881936",
-          "start": "2026-07-05T23:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -996,6 +996,18 @@
         }
       ]
     },
+    "racing/nascar-secondary": {
+      "sport": "racing",
+      "slug": "nascar-secondary",
+      "name": "NASCAR O'Reilly Auto Parts Series",
+      "events": [
+        {
+          "id": "202607040760",
+          "start": "2026-07-04T21:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "racing/nascar-premier": {
       "sport": "racing",
       "slug": "nascar-premier",
@@ -1008,15 +1020,15 @@
         }
       ]
     },
-    "racing/nascar-secondary": {
-      "sport": "racing",
-      "slug": "nascar-secondary",
-      "name": "NASCAR O'Reilly Auto Parts Series",
+    "golf/champions-tour": {
+      "sport": "golf",
+      "slug": "champions-tour",
+      "name": "PGA TOUR Champions",
       "events": [
         {
-          "id": "202607040760",
-          "start": "2026-07-04T21:30:00.000Z",
-          "state": "pre"
+          "id": "401832060",
+          "start": "2026-07-02T04:00:00.000Z",
+          "state": "post"
         }
       ]
     },
@@ -1044,10 +1056,10 @@
         }
       ]
     },
-    "tennis/atp": {
+    "tennis/wta": {
       "sport": "tennis",
-      "slug": "atp",
-      "name": "ATP",
+      "slug": "wta",
+      "name": "WTA",
       "events": [
         {
           "id": "188-2026",
@@ -1056,10 +1068,10 @@
         }
       ]
     },
-    "tennis/wta": {
+    "tennis/atp": {
       "sport": "tennis",
-      "slug": "wta",
-      "name": "WTA",
+      "slug": "atp",
+      "name": "ATP",
       "events": [
         {
           "id": "188-2026",
@@ -1076,12 +1088,12 @@
         {
           "id": "603975",
           "start": "2026-07-04T07:10:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "603976",
           "start": "2026-07-04T08:40:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "603977",
@@ -1105,6 +1117,78 @@
         }
       ]
     },
+    "rugby/289279": {
+      "sport": "rugby",
+      "slug": "289279",
+      "name": "URBA Top 14",
+      "events": [
+        {
+          "id": "603642",
+          "start": "2026-07-04T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "603643",
+          "start": "2026-07-04T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "603644",
+          "start": "2026-07-04T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "603645",
+          "start": "2026-07-04T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "603646",
+          "start": "2026-07-04T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "603647",
+          "start": "2026-07-04T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "603648",
+          "start": "2026-07-04T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "604207",
+          "start": "2026-07-04T18:20:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "604210",
+          "start": "2026-07-04T18:20:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "604218",
+          "start": "2026-07-04T18:20:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "604221",
+          "start": "2026-07-04T18:20:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "604226",
+          "start": "2026-07-04T18:20:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "604225",
+          "start": "2026-07-04T18:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "australian-football/afl": {
       "sport": "australian-football",
       "slug": "afl",
@@ -1123,17 +1207,17 @@
         {
           "id": "1133622",
           "start": "2026-07-04T03:15:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "1133621",
           "start": "2026-07-04T03:35:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "1133620",
           "start": "2026-07-04T06:15:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "1133623",
@@ -1182,7 +1266,7 @@
         {
           "id": "603383",
           "start": "2026-07-04T07:30:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "603384",
@@ -1198,18 +1282,6 @@
           "id": "603386",
           "start": "2026-07-05T06:05:00.000Z",
           "state": "pre"
-        }
-      ]
-    },
-    "golf/champions-tour": {
-      "sport": "golf",
-      "slug": "champions-tour",
-      "name": "PGA TOUR Champions",
-      "events": [
-        {
-          "id": "401832060",
-          "start": "2026-07-02T04:00:00.000Z",
-          "state": "in"
         }
       ]
     }
