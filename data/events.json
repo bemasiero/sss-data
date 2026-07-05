@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T04:35:18.114Z",
+  "generatedAt": "2026-07-05T09:25:08.427Z",
   "window": [
     "2026-07-04",
     "2026-07-05",
@@ -105,6 +105,33 @@
         }
       ]
     },
+    "basketball/nba-summer-utah": {
+      "sport": "basketball",
+      "slug": "nba-summer-utah",
+      "name": "Salt Lake City Summer League",
+      "events": [
+        {
+          "id": "401879920",
+          "start": "2026-07-04T19:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401879921",
+          "start": "2026-07-04T21:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401879922",
+          "start": "2026-07-06T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401879923",
+          "start": "2026-07-07T01:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "baseball/mlb": {
       "sport": "baseball",
       "slug": "mlb",
@@ -173,7 +200,7 @@
         {
           "id": "401816026",
           "start": "2026-07-05T01:40:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401816027",
@@ -183,7 +210,7 @@
         {
           "id": "401816028",
           "start": "2026-07-05T02:10:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401816033",
@@ -298,33 +325,6 @@
         {
           "id": "401816051",
           "start": "2026-07-07T02:10:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "basketball/nba-summer-utah": {
-      "sport": "basketball",
-      "slug": "nba-summer-utah",
-      "name": "Salt Lake City Summer League",
-      "events": [
-        {
-          "id": "401879920",
-          "start": "2026-07-04T19:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401879921",
-          "start": "2026-07-04T21:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401879922",
-          "start": "2026-07-06T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401879923",
-          "start": "2026-07-07T01:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -451,7 +451,7 @@
         {
           "id": "401841958",
           "start": "2026-07-05T02:30:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401841976",
@@ -913,18 +913,6 @@
         }
       ]
     },
-    "soccer/uru.1": {
-      "sport": "soccer",
-      "slug": "uru.1",
-      "name": "Liga AUF Uruguaya",
-      "events": [
-        {
-          "id": "401872687",
-          "start": "2026-07-05T17:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/ecu.1": {
       "sport": "soccer",
       "slug": "ecu.1",
@@ -962,14 +950,14 @@
         }
       ]
     },
-    "racing/f1": {
-      "sport": "racing",
-      "slug": "f1",
-      "name": "Formula 1",
+    "soccer/uru.1": {
+      "sport": "soccer",
+      "slug": "uru.1",
+      "name": "Liga AUF Uruguaya",
       "events": [
         {
-          "id": "600057437",
-          "start": "2026-07-03T11:30:00.000Z",
+          "id": "401872687",
+          "start": "2026-07-05T17:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -998,15 +986,15 @@
         }
       ]
     },
-    "racing/irl": {
+    "racing/nascar-secondary": {
       "sport": "racing",
-      "slug": "irl",
-      "name": "IndyCar Series",
+      "slug": "nascar-secondary",
+      "name": "NASCAR O'Reilly Auto Parts Series",
       "events": [
         {
-          "id": "202607050119",
-          "start": "2026-07-05T16:30:00.000Z",
-          "state": "pre"
+          "id": "202607040760",
+          "start": "2026-07-04T21:30:00.000Z",
+          "state": "post"
         }
       ]
     },
@@ -1022,15 +1010,15 @@
         }
       ]
     },
-    "golf/pga": {
-      "sport": "golf",
-      "slug": "pga",
-      "name": "PGA TOUR",
+    "racing/f1": {
+      "sport": "racing",
+      "slug": "f1",
+      "name": "Formula 1",
       "events": [
         {
-          "id": "401811954",
-          "start": "2026-07-02T04:00:00.000Z",
-          "state": "post"
+          "id": "600057437",
+          "start": "2026-07-03T11:30:00.000Z",
+          "state": "pre"
         }
       ]
     },
@@ -1047,7 +1035,7 @@
         {
           "id": "873-2026",
           "start": "2026-07-05T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "1018-2026",
@@ -1078,14 +1066,26 @@
         }
       ]
     },
-    "racing/nascar-secondary": {
-      "sport": "racing",
-      "slug": "nascar-secondary",
-      "name": "NASCAR O'Reilly Auto Parts Series",
+    "golf/pga": {
+      "sport": "golf",
+      "slug": "pga",
+      "name": "PGA TOUR",
       "events": [
         {
-          "id": "202607040760",
-          "start": "2026-07-04T21:30:00.000Z",
+          "id": "401811954",
+          "start": "2026-07-02T04:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "racing/irl": {
+      "sport": "racing",
+      "slug": "irl",
+      "name": "IndyCar Series",
+      "events": [
+        {
+          "id": "202607050119",
+          "start": "2026-07-05T16:30:00.000Z",
           "state": "pre"
         }
       ]
@@ -1123,6 +1123,43 @@
         {
           "id": "603980",
           "start": "2026-07-04T19:10:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "australian-football/afl": {
+      "sport": "australian-football",
+      "slug": "afl",
+      "name": "AFL",
+      "events": [
+        {
+          "id": "1133622",
+          "start": "2026-07-04T03:15:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "1133621",
+          "start": "2026-07-04T03:35:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "1133620",
+          "start": "2026-07-04T06:15:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "1133623",
+          "start": "2026-07-04T09:35:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "1133618",
+          "start": "2026-07-05T05:15:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "1133625",
+          "start": "2026-07-05T06:40:00.000Z",
           "state": "post"
         }
       ]
@@ -1199,60 +1236,6 @@
         }
       ]
     },
-    "australian-football/afl": {
-      "sport": "australian-football",
-      "slug": "afl",
-      "name": "AFL",
-      "events": [
-        {
-          "id": "1133622",
-          "start": "2026-07-04T03:15:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "1133621",
-          "start": "2026-07-04T03:35:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "1133620",
-          "start": "2026-07-04T06:15:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "1133623",
-          "start": "2026-07-04T09:35:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "1133618",
-          "start": "2026-07-05T05:15:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "1133625",
-          "start": "2026-07-05T06:40:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "lacrosse/pll": {
-      "sport": "lacrosse",
-      "slug": "pll",
-      "name": "Premier Lacrosse League",
-      "events": [
-        {
-          "id": "401882090",
-          "start": "2026-07-05T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401882184",
-          "start": "2026-07-05T21:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "rugby-league/3": {
       "sport": "rugby-league",
       "slug": "3",
@@ -1271,11 +1254,28 @@
         {
           "id": "603385",
           "start": "2026-07-05T04:00:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "603386",
           "start": "2026-07-05T06:05:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "lacrosse/pll": {
+      "sport": "lacrosse",
+      "slug": "pll",
+      "name": "Premier Lacrosse League",
+      "events": [
+        {
+          "id": "401882090",
+          "start": "2026-07-05T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401882184",
+          "start": "2026-07-05T21:30:00.000Z",
           "state": "pre"
         }
       ]
