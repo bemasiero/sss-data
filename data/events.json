@@ -1,80 +1,11 @@
 {
-  "generatedAt": "2026-07-06T15:57:17.649Z",
+  "generatedAt": "2026-07-06T20:17:44.383Z",
   "window": [
     "2026-07-05",
     "2026-07-06",
     "2026-07-07"
   ],
   "leagues": {
-    "basketball/wnba": {
-      "sport": "basketball",
-      "slug": "wnba",
-      "name": "Women's National Basketball Association",
-      "events": [
-        {
-          "id": "401857041",
-          "start": "2026-07-05T19:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401857042",
-          "start": "2026-07-05T23:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401857043",
-          "start": "2026-07-06T23:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401857044",
-          "start": "2026-07-07T00:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401857045",
-          "start": "2026-07-07T02:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401857046",
-          "start": "2026-07-08T00:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401857047",
-          "start": "2026-07-08T02:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "basketball/nba-summer-utah": {
-      "sport": "basketball",
-      "slug": "nba-summer-utah",
-      "name": "Salt Lake City Summer League",
-      "events": [
-        {
-          "id": "401879922",
-          "start": "2026-07-06T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401879923",
-          "start": "2026-07-07T01:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401879924",
-          "start": "2026-07-07T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401879925",
-          "start": "2026-07-08T01:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "basketball/nba-summer-california": {
       "sport": "basketball",
       "slug": "nba-summer-california",
@@ -118,6 +49,48 @@
         {
           "id": "401881932",
           "start": "2026-07-07T02:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "basketball/wnba": {
+      "sport": "basketball",
+      "slug": "wnba",
+      "name": "Women's National Basketball Association",
+      "events": [
+        {
+          "id": "401857041",
+          "start": "2026-07-05T19:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401857042",
+          "start": "2026-07-05T23:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401857043",
+          "start": "2026-07-06T23:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401857044",
+          "start": "2026-07-07T00:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401857045",
+          "start": "2026-07-07T02:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401857046",
+          "start": "2026-07-08T00:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401857047",
+          "start": "2026-07-08T02:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -205,7 +178,7 @@
         {
           "id": "401816049",
           "start": "2026-07-06T18:10:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401816046",
@@ -324,6 +297,33 @@
         }
       ]
     },
+    "basketball/nba-summer-utah": {
+      "sport": "basketball",
+      "slug": "nba-summer-utah",
+      "name": "Salt Lake City Summer League",
+      "events": [
+        {
+          "id": "401879922",
+          "start": "2026-07-06T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401879923",
+          "start": "2026-07-07T01:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401879924",
+          "start": "2026-07-07T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401879925",
+          "start": "2026-07-08T01:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/fifa.world": {
       "sport": "soccer",
       "slug": "fifa.world",
@@ -342,7 +342,7 @@
         {
           "id": "760506",
           "start": "2026-07-06T19:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "760507",
@@ -412,40 +412,6 @@
         }
       ]
     },
-    "soccer/can.w.nsl": {
-      "sport": "soccer",
-      "slug": "can.w.nsl",
-      "name": "Northern Super League",
-      "events": [
-        {
-          "id": "401859914",
-          "start": "2026-07-05T18:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401859913",
-          "start": "2026-07-05T19:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
-    "soccer/uefa.europa.conf_qual": {
-      "sport": "soccer",
-      "slug": "uefa.europa.conf_qual",
-      "name": "UEFA Conference League Qualifying",
-      "events": [
-        {
-          "id": "401877789",
-          "start": "2026-07-07T17:15:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877984",
-          "start": "2026-07-07T18:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/uefa.champions_qual": {
       "sport": "soccer",
       "slug": "uefa.champions_qual",
@@ -499,6 +465,40 @@
         {
           "id": "401877827",
           "start": "2026-07-07T19:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/can.w.nsl": {
+      "sport": "soccer",
+      "slug": "can.w.nsl",
+      "name": "Northern Super League",
+      "events": [
+        {
+          "id": "401859914",
+          "start": "2026-07-05T18:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401859913",
+          "start": "2026-07-05T19:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "soccer/uefa.europa.conf_qual": {
+      "sport": "soccer",
+      "slug": "uefa.europa.conf_qual",
+      "name": "UEFA Conference League Qualifying",
+      "events": [
+        {
+          "id": "401877789",
+          "start": "2026-07-07T17:15:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401877984",
+          "start": "2026-07-07T18:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -560,12 +560,12 @@
         {
           "id": "401842740",
           "start": "2026-07-06T17:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401842744",
           "start": "2026-07-06T17:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         }
       ]
     },
@@ -622,33 +622,6 @@
         {
           "id": "401873890",
           "start": "2026-07-05T19:30:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
-    "soccer/arg.3": {
-      "sport": "soccer",
-      "slug": "arg.3",
-      "name": "Argentine Primera B",
-      "events": [
-        {
-          "id": "401844959",
-          "start": "2026-07-05T16:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401844961",
-          "start": "2026-07-05T16:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401844957",
-          "start": "2026-07-05T18:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401844962",
-          "start": "2026-07-05T18:00:00.000Z",
           "state": "post"
         }
       ]
@@ -754,6 +727,33 @@
         }
       ]
     },
+    "soccer/arg.3": {
+      "sport": "soccer",
+      "slug": "arg.3",
+      "name": "Argentine Primera B",
+      "events": [
+        {
+          "id": "401844959",
+          "start": "2026-07-05T16:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401844961",
+          "start": "2026-07-05T16:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401844957",
+          "start": "2026-07-05T18:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401844962",
+          "start": "2026-07-05T18:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
     "soccer/ecu.1": {
       "sport": "soccer",
       "slug": "ecu.1",
@@ -810,18 +810,6 @@
         }
       ]
     },
-    "racing/f1": {
-      "sport": "racing",
-      "slug": "f1",
-      "name": "Formula 1",
-      "events": [
-        {
-          "id": "600057437",
-          "start": "2026-07-03T11:30:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "racing/nascar-premier": {
       "sport": "racing",
       "slug": "nascar-premier",
@@ -830,6 +818,18 @@
         {
           "id": "202607050038",
           "start": "2026-07-05T22:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "racing/f1": {
+      "sport": "racing",
+      "slug": "f1",
+      "name": "Formula 1",
+      "events": [
+        {
+          "id": "600057437",
+          "start": "2026-07-03T11:30:00.000Z",
           "state": "post"
         }
       ]
@@ -858,33 +858,6 @@
         }
       ]
     },
-    "tennis/wta": {
-      "sport": "tennis",
-      "slug": "wta",
-      "name": "WTA",
-      "events": [
-        {
-          "id": "188-2026",
-          "start": "2026-06-22T04:00:00.000Z",
-          "state": "in"
-        },
-        {
-          "id": "873-2026",
-          "start": "2026-07-05T04:00:00.000Z",
-          "state": "in"
-        },
-        {
-          "id": "1018-2026",
-          "start": "2026-07-05T04:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "306-2026",
-          "start": "2026-07-06T04:00:00.000Z",
-          "state": "in"
-        }
-      ]
-    },
     "golf/pga": {
       "sport": "golf",
       "slug": "pga",
@@ -910,7 +883,34 @@
         {
           "id": "306-2026",
           "start": "2026-07-06T04:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "tennis/wta": {
+      "sport": "tennis",
+      "slug": "wta",
+      "name": "WTA",
+      "events": [
+        {
+          "id": "188-2026",
+          "start": "2026-06-22T04:00:00.000Z",
           "state": "in"
+        },
+        {
+          "id": "873-2026",
+          "start": "2026-07-05T04:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "1018-2026",
+          "start": "2026-07-05T04:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "306-2026",
+          "start": "2026-07-06T04:00:00.000Z",
+          "state": "pre"
         }
       ]
     },
