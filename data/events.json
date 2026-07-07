@@ -1,38 +1,11 @@
 {
-  "generatedAt": "2026-07-07T04:28:12.227Z",
+  "generatedAt": "2026-07-07T10:03:14.452Z",
   "window": [
     "2026-07-06",
     "2026-07-07",
     "2026-07-08"
   ],
   "leagues": {
-    "basketball/nba-summer-utah": {
-      "sport": "basketball",
-      "slug": "nba-summer-utah",
-      "name": "Salt Lake City Summer League",
-      "events": [
-        {
-          "id": "401879922",
-          "start": "2026-07-06T23:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401879923",
-          "start": "2026-07-07T01:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401879924",
-          "start": "2026-07-07T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401879925",
-          "start": "2026-07-08T01:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "basketball/nba-summer-california": {
       "sport": "basketball",
       "slug": "nba-summer-california",
@@ -107,6 +80,33 @@
         }
       ]
     },
+    "basketball/nba-summer-utah": {
+      "sport": "basketball",
+      "slug": "nba-summer-utah",
+      "name": "Salt Lake City Summer League",
+      "events": [
+        {
+          "id": "401879922",
+          "start": "2026-07-06T23:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401879923",
+          "start": "2026-07-07T01:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401879924",
+          "start": "2026-07-07T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401879925",
+          "start": "2026-07-08T01:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "baseball/mlb": {
       "sport": "baseball",
       "slug": "mlb",
@@ -150,7 +150,7 @@
         {
           "id": "401816051",
           "start": "2026-07-07T02:10:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401871790",
@@ -353,38 +353,6 @@
         }
       ]
     },
-    "soccer/uefa.europa.conf_qual": {
-      "sport": "soccer",
-      "slug": "uefa.europa.conf_qual",
-      "name": "UEFA Conference League Qualifying",
-      "events": [
-        {
-          "id": "401877789",
-          "start": "2026-07-07T17:15:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877984",
-          "start": "2026-07-07T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877805",
-          "start": "2026-07-08T16:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877810",
-          "start": "2026-07-08T17:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877804",
-          "start": "2026-07-08T17:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/usa.usl.l1": {
       "sport": "soccer",
       "slug": "usa.usl.l1",
@@ -479,6 +447,38 @@
         }
       ]
     },
+    "soccer/uefa.europa.conf_qual": {
+      "sport": "soccer",
+      "slug": "uefa.europa.conf_qual",
+      "name": "UEFA Conference League Qualifying",
+      "events": [
+        {
+          "id": "401877789",
+          "start": "2026-07-07T17:15:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401877984",
+          "start": "2026-07-07T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401877805",
+          "start": "2026-07-08T16:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401877810",
+          "start": "2026-07-08T17:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401877804",
+          "start": "2026-07-08T17:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/club.friendly": {
       "sport": "soccer",
       "slug": "club.friendly",
@@ -535,23 +535,6 @@
         }
       ]
     },
-    "soccer/chi.copa_chi": {
-      "sport": "soccer",
-      "slug": "chi.copa_chi",
-      "name": "Copa Chile",
-      "events": [
-        {
-          "id": "401871897",
-          "start": "2026-07-06T23:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401871898",
-          "start": "2026-07-07T00:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "soccer/bra.2": {
       "sport": "soccer",
       "slug": "bra.2",
@@ -576,6 +559,23 @@
           "id": "401873986",
           "start": "2026-07-08T23:00:00.000Z",
           "state": "pre"
+        }
+      ]
+    },
+    "soccer/chi.copa_chi": {
+      "sport": "soccer",
+      "slug": "chi.copa_chi",
+      "name": "Copa Chile",
+      "events": [
+        {
+          "id": "401871897",
+          "start": "2026-07-06T23:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401871898",
+          "start": "2026-07-07T00:00:00.000Z",
+          "state": "post"
         }
       ]
     },
@@ -635,18 +635,6 @@
         }
       ]
     },
-    "golf/pga": {
-      "sport": "golf",
-      "slug": "pga",
-      "name": "PGA TOUR",
-      "events": [
-        {
-          "id": "401811954",
-          "start": "2026-07-02T04:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "golf/eur": {
       "sport": "golf",
       "slug": "eur",
@@ -654,6 +642,18 @@
       "events": [
         {
           "id": "401822696",
+          "start": "2026-07-02T04:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "golf/pga": {
+      "sport": "golf",
+      "slug": "pga",
+      "name": "PGA TOUR",
+      "events": [
+        {
+          "id": "401811954",
           "start": "2026-07-02T04:00:00.000Z",
           "state": "post"
         }
@@ -689,7 +689,7 @@
         {
           "id": "873-2026",
           "start": "2026-07-05T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "1018-2026",
