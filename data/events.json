@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T15:20:27.237Z",
+  "generatedAt": "2026-07-07T20:18:37.812Z",
   "window": [
     "2026-07-06",
     "2026-07-07",
@@ -30,6 +30,33 @@
           "id": "401881932",
           "start": "2026-07-07T02:00:00.000Z",
           "state": "post"
+        }
+      ]
+    },
+    "basketball/nba-summer-utah": {
+      "sport": "basketball",
+      "slug": "nba-summer-utah",
+      "name": "Salt Lake City Summer League",
+      "events": [
+        {
+          "id": "401879922",
+          "start": "2026-07-06T23:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401879923",
+          "start": "2026-07-07T01:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401879924",
+          "start": "2026-07-07T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401879925",
+          "start": "2026-07-08T01:00:00.000Z",
+          "state": "pre"
         }
       ]
     },
@@ -76,33 +103,6 @@
         {
           "id": "401857050",
           "start": "2026-07-09T02:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "basketball/nba-summer-utah": {
-      "sport": "basketball",
-      "slug": "nba-summer-utah",
-      "name": "Salt Lake City Summer League",
-      "events": [
-        {
-          "id": "401879922",
-          "start": "2026-07-06T23:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401879923",
-          "start": "2026-07-07T01:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401879924",
-          "start": "2026-07-07T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401879925",
-          "start": "2026-07-08T01:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -155,7 +155,7 @@
         {
           "id": "401871790",
           "start": "2026-07-07T18:15:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401816055",
@@ -327,12 +327,12 @@
         {
           "id": "760509",
           "start": "2026-07-07T16:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "760508",
           "start": "2026-07-07T20:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         }
       ]
     },
@@ -349,83 +349,6 @@
         {
           "id": "401841923",
           "start": "2026-07-08T23:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/uefa.champions_qual": {
-      "sport": "soccer",
-      "slug": "uefa.champions_qual",
-      "name": "UEFA Champions League Qualifying",
-      "events": [
-        {
-          "id": "401877833",
-          "start": "2026-07-07T16:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877831",
-          "start": "2026-07-07T16:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877823",
-          "start": "2026-07-07T16:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877829",
-          "start": "2026-07-07T16:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877832",
-          "start": "2026-07-07T17:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877826",
-          "start": "2026-07-07T17:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877828",
-          "start": "2026-07-07T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877834",
-          "start": "2026-07-07T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877978",
-          "start": "2026-07-07T18:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877827",
-          "start": "2026-07-07T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877824",
-          "start": "2026-07-08T15:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877825",
-          "start": "2026-07-08T16:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877979",
-          "start": "2026-07-08T17:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877830",
-          "start": "2026-07-08T17:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -455,12 +378,12 @@
         {
           "id": "401877789",
           "start": "2026-07-07T17:15:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401877984",
           "start": "2026-07-07T18:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401877805",
@@ -475,6 +398,83 @@
         {
           "id": "401877804",
           "start": "2026-07-08T17:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/uefa.champions_qual": {
+      "sport": "soccer",
+      "slug": "uefa.champions_qual",
+      "name": "UEFA Champions League Qualifying",
+      "events": [
+        {
+          "id": "401877833",
+          "start": "2026-07-07T16:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401877831",
+          "start": "2026-07-07T16:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401877823",
+          "start": "2026-07-07T16:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401877829",
+          "start": "2026-07-07T16:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401877832",
+          "start": "2026-07-07T17:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401877826",
+          "start": "2026-07-07T17:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401877828",
+          "start": "2026-07-07T18:30:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "401877834",
+          "start": "2026-07-07T18:30:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "401877978",
+          "start": "2026-07-07T18:45:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "401877827",
+          "start": "2026-07-07T19:00:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "401877824",
+          "start": "2026-07-08T15:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401877825",
+          "start": "2026-07-08T16:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401877979",
+          "start": "2026-07-08T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401877830",
+          "start": "2026-07-08T17:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -623,18 +623,6 @@
         }
       ]
     },
-    "golf/champions-tour": {
-      "sport": "golf",
-      "slug": "champions-tour",
-      "name": "PGA TOUR Champions",
-      "events": [
-        {
-          "id": "401832060",
-          "start": "2026-07-02T04:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "golf/eur": {
       "sport": "golf",
       "slug": "eur",
@@ -642,6 +630,18 @@
       "events": [
         {
           "id": "401822696",
+          "start": "2026-07-02T04:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "golf/champions-tour": {
+      "sport": "golf",
+      "slug": "champions-tour",
+      "name": "PGA TOUR Champions",
+      "events": [
+        {
+          "id": "401832060",
           "start": "2026-07-02T04:00:00.000Z",
           "state": "post"
         }
@@ -689,7 +689,7 @@
         {
           "id": "873-2026",
           "start": "2026-07-05T04:00:00.000Z",
-          "state": "in"
+          "state": "pre"
         },
         {
           "id": "1018-2026",
