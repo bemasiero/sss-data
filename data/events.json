@@ -1,11 +1,58 @@
 {
-  "generatedAt": "2026-07-08T03:50:24.475Z",
+  "generatedAt": "2026-07-08T08:47:58.341Z",
   "window": [
     "2026-07-07",
     "2026-07-08",
     "2026-07-09"
   ],
   "leagues": {
+    "basketball/wnba": {
+      "sport": "basketball",
+      "slug": "wnba",
+      "name": "Women's National Basketball Association",
+      "events": [
+        {
+          "id": "401857046",
+          "start": "2026-07-08T00:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401857047",
+          "start": "2026-07-08T02:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401857048",
+          "start": "2026-07-08T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401857049",
+          "start": "2026-07-08T23:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401857050",
+          "start": "2026-07-09T02:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401857051",
+          "start": "2026-07-10T00:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401857052",
+          "start": "2026-07-10T02:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401857053",
+          "start": "2026-07-10T02:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "basketball/nba-summer-las-vegas": {
       "sport": "basketball",
       "slug": "nba-summer-las-vegas",
@@ -44,53 +91,6 @@
         {
           "id": "401881827",
           "start": "2026-07-10T03:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "basketball/wnba": {
-      "sport": "basketball",
-      "slug": "wnba",
-      "name": "Women's National Basketball Association",
-      "events": [
-        {
-          "id": "401857046",
-          "start": "2026-07-08T00:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401857047",
-          "start": "2026-07-08T02:00:00.000Z",
-          "state": "in"
-        },
-        {
-          "id": "401857048",
-          "start": "2026-07-08T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401857049",
-          "start": "2026-07-08T23:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401857050",
-          "start": "2026-07-09T02:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401857051",
-          "start": "2026-07-10T00:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401857052",
-          "start": "2026-07-10T02:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401857053",
-          "start": "2026-07-10T02:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -185,17 +185,17 @@
         {
           "id": "401816065",
           "start": "2026-07-08T01:40:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401816067",
           "start": "2026-07-08T01:45:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401816066",
           "start": "2026-07-08T02:10:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401816082",
@@ -378,6 +378,23 @@
         }
       ]
     },
+    "soccer/usa.usl.l1": {
+      "sport": "soccer",
+      "slug": "usa.usl.l1",
+      "name": "USL League One",
+      "events": [
+        {
+          "id": "401841925",
+          "start": "2026-07-08T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401841923",
+          "start": "2026-07-08T23:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/uefa.europa_qual": {
       "sport": "soccer",
       "slug": "uefa.europa_qual",
@@ -411,6 +428,83 @@
         {
           "id": "401878078",
           "start": "2026-07-09T18:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/uefa.champions_qual": {
+      "sport": "soccer",
+      "slug": "uefa.champions_qual",
+      "name": "UEFA Champions League Qualifying",
+      "events": [
+        {
+          "id": "401877833",
+          "start": "2026-07-07T16:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401877831",
+          "start": "2026-07-07T16:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401877823",
+          "start": "2026-07-07T16:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401877829",
+          "start": "2026-07-07T16:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401877832",
+          "start": "2026-07-07T17:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401877826",
+          "start": "2026-07-07T17:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401877828",
+          "start": "2026-07-07T18:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401877834",
+          "start": "2026-07-07T18:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401877978",
+          "start": "2026-07-07T18:45:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401877827",
+          "start": "2026-07-07T19:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401877824",
+          "start": "2026-07-08T15:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401877825",
+          "start": "2026-07-08T16:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401877979",
+          "start": "2026-07-08T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401877830",
+          "start": "2026-07-08T17:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -552,100 +646,6 @@
         }
       ]
     },
-    "soccer/usa.usl.l1": {
-      "sport": "soccer",
-      "slug": "usa.usl.l1",
-      "name": "USL League One",
-      "events": [
-        {
-          "id": "401841925",
-          "start": "2026-07-08T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401841923",
-          "start": "2026-07-08T23:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/uefa.champions_qual": {
-      "sport": "soccer",
-      "slug": "uefa.champions_qual",
-      "name": "UEFA Champions League Qualifying",
-      "events": [
-        {
-          "id": "401877833",
-          "start": "2026-07-07T16:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401877831",
-          "start": "2026-07-07T16:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401877823",
-          "start": "2026-07-07T16:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401877829",
-          "start": "2026-07-07T16:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401877832",
-          "start": "2026-07-07T17:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401877826",
-          "start": "2026-07-07T17:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401877828",
-          "start": "2026-07-07T18:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401877834",
-          "start": "2026-07-07T18:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401877978",
-          "start": "2026-07-07T18:45:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401877827",
-          "start": "2026-07-07T19:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401877824",
-          "start": "2026-07-08T15:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877825",
-          "start": "2026-07-08T16:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877979",
-          "start": "2026-07-08T17:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877830",
-          "start": "2026-07-08T17:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/club.friendly": {
       "sport": "soccer",
       "slug": "club.friendly",
@@ -753,18 +753,6 @@
         }
       ]
     },
-    "golf/lpga": {
-      "sport": "golf",
-      "slug": "lpga",
-      "name": "Ladies Pro Golf Association",
-      "events": [
-        {
-          "id": "401835162",
-          "start": "2026-07-09T04:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "golf/pga": {
       "sport": "golf",
       "slug": "pga",
@@ -777,18 +765,6 @@
         },
         {
           "id": "401811956",
-          "start": "2026-07-09T04:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "golf/ntw": {
-      "sport": "golf",
-      "slug": "ntw",
-      "name": "Korn Ferry Tour",
-      "events": [
-        {
-          "id": "401837442",
           "start": "2026-07-09T04:00:00.000Z",
           "state": "pre"
         }
@@ -821,6 +797,18 @@
         }
       ]
     },
+    "golf/lpga": {
+      "sport": "golf",
+      "slug": "lpga",
+      "name": "Ladies Pro Golf Association",
+      "events": [
+        {
+          "id": "401835162",
+          "start": "2026-07-09T04:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "tennis/atp": {
       "sport": "tennis",
       "slug": "atp",
@@ -834,6 +822,18 @@
         {
           "id": "306-2026",
           "start": "2026-07-06T04:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "golf/ntw": {
+      "sport": "golf",
+      "slug": "ntw",
+      "name": "Korn Ferry Tour",
+      "events": [
+        {
+          "id": "401837442",
+          "start": "2026-07-09T04:00:00.000Z",
           "state": "pre"
         }
       ]
