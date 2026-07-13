@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T09:50:27.757Z",
+  "generatedAt": "2026-07-13T15:16:03.882Z",
   "window": [
     "2026-07-12",
     "2026-07-13",
@@ -373,18 +373,6 @@
         }
       ]
     },
-    "soccer/can.w.nsl": {
-      "sport": "soccer",
-      "slug": "can.w.nsl",
-      "name": "Northern Super League",
-      "events": [
-        {
-          "id": "401859917",
-          "start": "2026-07-12T20:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "soccer/uefa.champions_qual": {
       "sport": "soccer",
       "slug": "uefa.champions_qual",
@@ -439,6 +427,18 @@
           "id": "401877814",
           "start": "2026-07-14T19:00:00.000Z",
           "state": "pre"
+        }
+      ]
+    },
+    "soccer/can.w.nsl": {
+      "sport": "soccer",
+      "slug": "can.w.nsl",
+      "name": "Northern Super League",
+      "events": [
+        {
+          "id": "401859917",
+          "start": "2026-07-12T20:00:00.000Z",
+          "state": "post"
         }
       ]
     },
@@ -579,63 +579,6 @@
         }
       ]
     },
-    "soccer/arg.2": {
-      "sport": "soccer",
-      "slug": "arg.2",
-      "name": "Argentine Nacional B",
-      "events": [
-        {
-          "id": "401843965",
-          "start": "2026-07-12T18:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401843961",
-          "start": "2026-07-12T18:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401843957",
-          "start": "2026-07-12T19:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401843968",
-          "start": "2026-07-12T19:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401843964",
-          "start": "2026-07-12T19:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401843970",
-          "start": "2026-07-12T19:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401843967",
-          "start": "2026-07-12T19:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401843966",
-          "start": "2026-07-12T20:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401843971",
-          "start": "2026-07-12T21:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401843959",
-          "start": "2026-07-14T00:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/arg.3": {
       "sport": "soccer",
       "slug": "arg.3",
@@ -740,30 +683,60 @@
         }
       ]
     },
-    "soccer/chi.copa_chi": {
+    "soccer/arg.2": {
       "sport": "soccer",
-      "slug": "chi.copa_chi",
-      "name": "Copa Chile",
+      "slug": "arg.2",
+      "name": "Argentine Nacional B",
       "events": [
         {
-          "id": "401881169",
-          "start": "2026-07-12T16:30:00.000Z",
+          "id": "401843965",
+          "start": "2026-07-12T18:00:00.000Z",
           "state": "post"
         },
         {
-          "id": "401881702",
-          "start": "2026-07-12T16:30:00.000Z",
+          "id": "401843961",
+          "start": "2026-07-12T18:30:00.000Z",
           "state": "post"
         },
         {
-          "id": "401881701",
-          "start": "2026-07-12T21:30:00.000Z",
+          "id": "401843957",
+          "start": "2026-07-12T19:00:00.000Z",
           "state": "post"
         },
         {
-          "id": "401881700",
-          "start": "2026-07-12T21:30:00.000Z",
+          "id": "401843968",
+          "start": "2026-07-12T19:00:00.000Z",
           "state": "post"
+        },
+        {
+          "id": "401843964",
+          "start": "2026-07-12T19:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401843970",
+          "start": "2026-07-12T19:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401843967",
+          "start": "2026-07-12T19:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401843966",
+          "start": "2026-07-12T20:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401843971",
+          "start": "2026-07-12T21:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401843959",
+          "start": "2026-07-14T00:00:00.000Z",
+          "state": "pre"
         }
       ]
     },
@@ -791,6 +764,33 @@
           "id": "401872712",
           "start": "2026-07-13T22:00:00.000Z",
           "state": "pre"
+        }
+      ]
+    },
+    "soccer/chi.copa_chi": {
+      "sport": "soccer",
+      "slug": "chi.copa_chi",
+      "name": "Copa Chile",
+      "events": [
+        {
+          "id": "401881169",
+          "start": "2026-07-12T16:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401881702",
+          "start": "2026-07-12T16:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401881701",
+          "start": "2026-07-12T21:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401881700",
+          "start": "2026-07-12T21:30:00.000Z",
+          "state": "post"
         }
       ]
     },
@@ -858,18 +858,6 @@
         }
       ]
     },
-    "golf/lpga": {
-      "sport": "golf",
-      "slug": "lpga",
-      "name": "Ladies Pro Golf Association",
-      "events": [
-        {
-          "id": "401835162",
-          "start": "2026-07-09T04:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "racing/nascar-premier": {
       "sport": "racing",
       "slug": "nascar-premier",
@@ -878,47 +866,6 @@
         {
           "id": "202607120029",
           "start": "2026-07-12T23:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
-    "golf/champions-tour": {
-      "sport": "golf",
-      "slug": "champions-tour",
-      "name": "PGA TOUR Champions",
-      "events": [
-        {
-          "id": "401832061",
-          "start": "2026-07-09T04:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
-    "golf/pga": {
-      "sport": "golf",
-      "slug": "pga",
-      "name": "PGA TOUR",
-      "events": [
-        {
-          "id": "401811955",
-          "start": "2026-07-09T04:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401811956",
-          "start": "2026-07-09T04:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
-    "golf/ntw": {
-      "sport": "golf",
-      "slug": "ntw",
-      "name": "Korn Ferry Tour",
-      "events": [
-        {
-          "id": "401837442",
-          "start": "2026-07-09T04:00:00.000Z",
           "state": "post"
         }
       ]
@@ -936,7 +883,7 @@
         {
           "id": "306-2026",
           "start": "2026-07-06T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "7-2026",
@@ -946,7 +893,19 @@
         {
           "id": "22-2026",
           "start": "2026-07-11T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
+        }
+      ]
+    },
+    "golf/champions-tour": {
+      "sport": "golf",
+      "slug": "champions-tour",
+      "name": "PGA TOUR Champions",
+      "events": [
+        {
+          "id": "401832061",
+          "start": "2026-07-09T04:00:00.000Z",
+          "state": "post"
         }
       ]
     },
@@ -973,12 +932,12 @@
         {
           "id": "306-2026",
           "start": "2026-07-06T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "1069-2026",
           "start": "2026-07-11T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "874-2026",
@@ -993,12 +952,53 @@
         {
           "id": "1071-2026",
           "start": "2026-07-12T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "1072-2026",
           "start": "2026-07-12T04:00:00.000Z",
           "state": "in"
+        }
+      ]
+    },
+    "golf/ntw": {
+      "sport": "golf",
+      "slug": "ntw",
+      "name": "Korn Ferry Tour",
+      "events": [
+        {
+          "id": "401837442",
+          "start": "2026-07-09T04:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "golf/lpga": {
+      "sport": "golf",
+      "slug": "lpga",
+      "name": "Ladies Pro Golf Association",
+      "events": [
+        {
+          "id": "401835162",
+          "start": "2026-07-09T04:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "golf/pga": {
+      "sport": "golf",
+      "slug": "pga",
+      "name": "PGA TOUR",
+      "events": [
+        {
+          "id": "401811955",
+          "start": "2026-07-09T04:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401811956",
+          "start": "2026-07-09T04:00:00.000Z",
+          "state": "post"
         }
       ]
     },
