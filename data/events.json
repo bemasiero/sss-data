@@ -1,53 +1,11 @@
 {
-  "generatedAt": "2026-07-15T08:38:26.074Z",
+  "generatedAt": "2026-07-15T14:15:18.242Z",
   "window": [
     "2026-07-14",
     "2026-07-15",
     "2026-07-16"
   ],
   "leagues": {
-    "basketball/wnba": {
-      "sport": "basketball",
-      "slug": "wnba",
-      "name": "Women's National Basketball Association",
-      "events": [
-        {
-          "id": "401857066",
-          "start": "2026-07-14T15:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401857067",
-          "start": "2026-07-14T23:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401857068",
-          "start": "2026-07-15T16:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401857069",
-          "start": "2026-07-15T17:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401857070",
-          "start": "2026-07-16T00:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401857071",
-          "start": "2026-07-16T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401857072",
-          "start": "2026-07-17T01:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "basketball/nba-summer-las-vegas": {
       "sport": "basketball",
       "slug": "nba-summer-las-vegas",
@@ -156,6 +114,48 @@
         {
           "id": "401881879",
           "start": "2026-07-17T02:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "basketball/wnba": {
+      "sport": "basketball",
+      "slug": "wnba",
+      "name": "Women's National Basketball Association",
+      "events": [
+        {
+          "id": "401857066",
+          "start": "2026-07-14T15:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401857067",
+          "start": "2026-07-14T23:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401857068",
+          "start": "2026-07-15T16:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401857069",
+          "start": "2026-07-15T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401857070",
+          "start": "2026-07-16T00:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401857071",
+          "start": "2026-07-16T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401857072",
+          "start": "2026-07-17T01:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -364,18 +364,6 @@
         }
       ]
     },
-    "soccer/can.w.nsl": {
-      "sport": "soccer",
-      "slug": "can.w.nsl",
-      "name": "Northern Super League",
-      "events": [
-        {
-          "id": "401859918",
-          "start": "2026-07-16T23:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/usa.usl.l1": {
       "sport": "soccer",
       "slug": "usa.usl.l1",
@@ -394,6 +382,43 @@
         {
           "id": "401841929",
           "start": "2026-07-16T00:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/uefa.europa_qual": {
+      "sport": "soccer",
+      "slug": "uefa.europa_qual",
+      "name": "UEFA Europa League Qualifying",
+      "events": [
+        {
+          "id": "401878075",
+          "start": "2026-07-16T17:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401878073",
+          "start": "2026-07-16T17:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401877922",
+          "start": "2026-07-16T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401878074",
+          "start": "2026-07-16T18:15:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401878076",
+          "start": "2026-07-16T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401877923",
+          "start": "2026-07-16T20:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -612,39 +637,14 @@
         }
       ]
     },
-    "soccer/uefa.europa_qual": {
+    "soccer/can.w.nsl": {
       "sport": "soccer",
-      "slug": "uefa.europa_qual",
-      "name": "UEFA Europa League Qualifying",
+      "slug": "can.w.nsl",
+      "name": "Northern Super League",
       "events": [
         {
-          "id": "401878075",
-          "start": "2026-07-16T17:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878073",
-          "start": "2026-07-16T17:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877922",
-          "start": "2026-07-16T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878074",
-          "start": "2026-07-16T18:15:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878076",
-          "start": "2026-07-16T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401877923",
-          "start": "2026-07-16T20:00:00.000Z",
+          "id": "401859918",
+          "start": "2026-07-16T23:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -688,6 +688,18 @@
         }
       ]
     },
+    "soccer/nor.1": {
+      "sport": "soccer",
+      "slug": "nor.1",
+      "name": "Norwegian Eliteserien",
+      "events": [
+        {
+          "id": "401873893",
+          "start": "2026-07-16T17:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/arg.copa": {
       "sport": "soccer",
       "slug": "arg.copa",
@@ -701,18 +713,6 @@
         {
           "id": "401867737",
           "start": "2026-07-17T00:45:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/nor.1": {
-      "sport": "soccer",
-      "slug": "nor.1",
-      "name": "Norwegian Eliteserien",
-      "events": [
-        {
-          "id": "401873893",
-          "start": "2026-07-16T17:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -779,6 +779,18 @@
         }
       ]
     },
+    "soccer/bra.2": {
+      "sport": "soccer",
+      "slug": "bra.2",
+      "name": "Brazilian Serie B",
+      "events": [
+        {
+          "id": "401873985",
+          "start": "2026-07-16T23:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/bra.1": {
       "sport": "soccer",
       "slug": "bra.1",
@@ -792,18 +804,6 @@
         {
           "id": "401841157",
           "start": "2026-07-16T22:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/bra.2": {
-      "sport": "soccer",
-      "slug": "bra.2",
-      "name": "Brazilian Serie B",
-      "events": [
-        {
-          "id": "401873985",
-          "start": "2026-07-16T23:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -912,12 +912,12 @@
         {
           "id": "306-2026",
           "start": "2026-07-06T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "7-2026",
           "start": "2026-07-11T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "22-2026",
@@ -934,7 +934,7 @@
         {
           "id": "306-2026",
           "start": "2026-07-06T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "1069-2026",
@@ -954,11 +954,23 @@
         {
           "id": "1071-2026",
           "start": "2026-07-12T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "1072-2026",
           "start": "2026-07-12T04:00:00.000Z",
+          "state": "in"
+        }
+      ]
+    },
+    "rugby-league/3": {
+      "sport": "rugby-league",
+      "slug": "3",
+      "name": "Rugby League",
+      "events": [
+        {
+          "id": "603394",
+          "start": "2026-07-16T09:50:00.000Z",
           "state": "pre"
         }
       ]
@@ -971,18 +983,6 @@
         {
           "id": "1133638",
           "start": "2026-07-16T09:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "rugby-league/3": {
-      "sport": "rugby-league",
-      "slug": "3",
-      "name": "Rugby League",
-      "events": [
-        {
-          "id": "603394",
-          "start": "2026-07-16T09:50:00.000Z",
           "state": "pre"
         }
       ]
