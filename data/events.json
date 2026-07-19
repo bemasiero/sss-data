@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T04:02:30.873Z",
+  "generatedAt": "2026-07-19T08:37:36.158Z",
   "window": [
     "2026-07-18",
     "2026-07-19",
@@ -44,7 +44,7 @@
         {
           "id": "401881719",
           "start": "2026-07-19T02:30:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401881720",
@@ -198,12 +198,12 @@
         {
           "id": "401816170",
           "start": "2026-07-19T02:05:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401816167",
           "start": "2026-07-19T02:07:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401816171",
@@ -444,7 +444,7 @@
         {
           "id": "401877037",
           "start": "2026-07-19T03:10:00.000Z",
-          "state": "in"
+          "state": "post"
         }
       ]
     },
@@ -583,7 +583,19 @@
         {
           "id": "401841997",
           "start": "2026-07-19T02:30:00.000Z",
-          "state": "in"
+          "state": "post"
+        }
+      ]
+    },
+    "soccer/can.w.nsl": {
+      "sport": "soccer",
+      "slug": "can.w.nsl",
+      "name": "Northern Super League",
+      "events": [
+        {
+          "id": "401859920",
+          "start": "2026-07-18T20:00:00.000Z",
+          "state": "post"
         }
       ]
     },
@@ -620,18 +632,6 @@
         {
           "id": "401841947",
           "start": "2026-07-18T23:36:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
-    "soccer/can.w.nsl": {
-      "sport": "soccer",
-      "slug": "can.w.nsl",
-      "name": "Northern Super League",
-      "events": [
-        {
-          "id": "401859920",
-          "start": "2026-07-18T20:00:00.000Z",
           "state": "post"
         }
       ]
@@ -700,6 +700,43 @@
         }
       ]
     },
+    "soccer/swe.1": {
+      "sport": "soccer",
+      "slug": "swe.1",
+      "name": "Swedish Allsvenskan",
+      "events": [
+        {
+          "id": "401842754",
+          "start": "2026-07-18T13:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401842761",
+          "start": "2026-07-19T14:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401842760",
+          "start": "2026-07-19T14:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401842755",
+          "start": "2026-07-19T14:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401842758",
+          "start": "2026-07-20T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401842756",
+          "start": "2026-07-20T17:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/nor.1": {
       "sport": "soccer",
       "slug": "nor.1",
@@ -737,40 +774,30 @@
         }
       ]
     },
-    "soccer/swe.1": {
+    "soccer/bra.2": {
       "sport": "soccer",
-      "slug": "swe.1",
-      "name": "Swedish Allsvenskan",
+      "slug": "bra.2",
+      "name": "Brazilian Serie B",
       "events": [
         {
-          "id": "401842754",
-          "start": "2026-07-18T13:00:00.000Z",
+          "id": "401874006",
+          "start": "2026-07-18T19:00:00.000Z",
           "state": "post"
         },
         {
-          "id": "401842761",
-          "start": "2026-07-19T14:30:00.000Z",
-          "state": "pre"
+          "id": "401874005",
+          "start": "2026-07-18T19:00:00.000Z",
+          "state": "post"
         },
         {
-          "id": "401842760",
-          "start": "2026-07-19T14:30:00.000Z",
-          "state": "pre"
+          "id": "401874007",
+          "start": "2026-07-18T19:00:00.000Z",
+          "state": "post"
         },
         {
-          "id": "401842755",
-          "start": "2026-07-19T14:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401842758",
-          "start": "2026-07-20T17:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401842756",
-          "start": "2026-07-20T17:00:00.000Z",
-          "state": "pre"
+          "id": "401873988",
+          "start": "2026-07-18T21:00:00.000Z",
+          "state": "post"
         }
       ]
     },
@@ -832,33 +859,6 @@
         {
           "id": "401844988",
           "start": "2026-07-18T18:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
-    "soccer/bra.2": {
-      "sport": "soccer",
-      "slug": "bra.2",
-      "name": "Brazilian Serie B",
-      "events": [
-        {
-          "id": "401874006",
-          "start": "2026-07-18T19:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401874005",
-          "start": "2026-07-18T19:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401874007",
-          "start": "2026-07-18T19:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401873988",
-          "start": "2026-07-18T21:00:00.000Z",
           "state": "post"
         }
       ]
@@ -933,12 +933,12 @@
         {
           "id": "401872720",
           "start": "2026-07-19T13:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401872719",
           "start": "2026-07-19T16:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401872726",
@@ -1116,18 +1116,6 @@
         }
       ]
     },
-    "racing/nascar-truck": {
-      "sport": "racing",
-      "slug": "nascar-truck",
-      "name": "NASCAR Truck Series",
-      "events": [
-        {
-          "id": "202607180765",
-          "start": "2026-07-18T16:30:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "racing/nascar-premier": {
       "sport": "racing",
       "slug": "nascar-premier",
@@ -1137,6 +1125,18 @@
           "id": "202607195827",
           "start": "2026-07-19T23:00:00.000Z",
           "state": "pre"
+        }
+      ]
+    },
+    "racing/nascar-truck": {
+      "sport": "racing",
+      "slug": "nascar-truck",
+      "name": "NASCAR Truck Series",
+      "events": [
+        {
+          "id": "202607180765",
+          "start": "2026-07-18T16:30:00.000Z",
+          "state": "post"
         }
       ]
     },
@@ -1220,7 +1220,7 @@
         {
           "id": "1002-2026",
           "start": "2026-07-19T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         }
       ]
     },
@@ -1232,48 +1232,11 @@
         {
           "id": "401811957",
           "start": "2026-07-16T04:00:00.000Z",
-          "state": "post"
+          "state": "in"
         },
         {
           "id": "401811958",
           "start": "2026-07-16T04:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
-    "rugby/17567": {
-      "sport": "rugby",
-      "slug": "17567",
-      "name": "Nations Championship",
-      "events": [
-        {
-          "id": "603987",
-          "start": "2026-07-18T07:10:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "603988",
-          "start": "2026-07-18T08:40:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "603989",
-          "start": "2026-07-18T10:10:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "603990",
-          "start": "2026-07-18T13:10:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "603991",
-          "start": "2026-07-18T15:40:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "603992",
-          "start": "2026-07-18T19:10:00.000Z",
           "state": "post"
         }
       ]
@@ -1357,6 +1320,43 @@
         }
       ]
     },
+    "rugby/17567": {
+      "sport": "rugby",
+      "slug": "17567",
+      "name": "Nations Championship",
+      "events": [
+        {
+          "id": "603987",
+          "start": "2026-07-18T07:10:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "603988",
+          "start": "2026-07-18T08:40:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "603989",
+          "start": "2026-07-18T10:10:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "603990",
+          "start": "2026-07-18T13:10:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "603991",
+          "start": "2026-07-18T15:40:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "603992",
+          "start": "2026-07-18T19:10:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
     "australian-football/afl": {
       "sport": "australian-football",
       "slug": "afl",
@@ -1385,17 +1385,17 @@
         {
           "id": "1133641",
           "start": "2026-07-19T03:10:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "1133639",
           "start": "2026-07-19T05:15:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "1133637",
           "start": "2026-07-19T06:40:00.000Z",
-          "state": "pre"
+          "state": "in"
         }
       ]
     },
@@ -1444,12 +1444,12 @@
         {
           "id": "603400",
           "start": "2026-07-19T04:00:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "603401",
           "start": "2026-07-19T06:05:00.000Z",
-          "state": "pre"
+          "state": "post"
         }
       ]
     }
