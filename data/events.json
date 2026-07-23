@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T03:49:58.288Z",
+  "generatedAt": "2026-07-23T09:02:59.241Z",
   "window": [
     "2026-07-22",
     "2026-07-23",
@@ -39,7 +39,7 @@
         {
           "id": "401857091",
           "start": "2026-07-23T02:00:00.000Z",
-          "state": "in"
+          "state": "post"
         }
       ]
     },
@@ -330,27 +330,27 @@
         {
           "id": "761675",
           "start": "2026-07-23T01:30:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "761678",
           "start": "2026-07-23T02:30:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "761679",
           "start": "2026-07-23T02:30:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "761677",
           "start": "2026-07-23T02:30:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "761676",
           "start": "2026-07-23T02:30:00.000Z",
-          "state": "in"
+          "state": "post"
         }
       ]
     },
@@ -435,63 +435,11 @@
         {
           "id": "401842007",
           "start": "2026-07-23T01:50:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401842011",
           "start": "2026-07-25T00:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/uefa.europa_qual": {
-      "sport": "soccer",
-      "slug": "uefa.europa_qual",
-      "name": "UEFA Europa League Qualifying",
-      "events": [
-        {
-          "id": "401896233",
-          "start": "2026-07-23T16:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401896234",
-          "start": "2026-07-23T17:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878087",
-          "start": "2026-07-23T17:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401892170",
-          "start": "2026-07-23T17:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878086",
-          "start": "2026-07-23T17:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878085",
-          "start": "2026-07-23T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401896231",
-          "start": "2026-07-23T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878088",
-          "start": "2026-07-23T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401896235",
-          "start": "2026-07-23T19:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -514,62 +462,6 @@
         {
           "id": "401841953",
           "start": "2026-07-23T01:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
-    "soccer/can.w.nsl": {
-      "sport": "soccer",
-      "slug": "can.w.nsl",
-      "name": "Northern Super League",
-      "events": [
-        {
-          "id": "401859921",
-          "start": "2026-07-23T01:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401859922",
-          "start": "2026-07-23T23:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/mex.2": {
-      "sport": "soccer",
-      "slug": "mex.2",
-      "name": "Mexican Liga de Expansión MX",
-      "events": [
-        {
-          "id": "401886425",
-          "start": "2026-07-25T01:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401886426",
-          "start": "2026-07-25T01:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/uefa.champions_qual": {
-      "sport": "soccer",
-      "slug": "uefa.champions_qual",
-      "name": "UEFA Champions League Qualifying",
-      "events": [
-        {
-          "id": "401891884",
-          "start": "2026-07-22T17:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401891788",
-          "start": "2026-07-22T17:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401891883",
-          "start": "2026-07-22T19:00:00.000Z",
           "state": "post"
         }
       ]
@@ -811,6 +703,114 @@
         }
       ]
     },
+    "soccer/can.w.nsl": {
+      "sport": "soccer",
+      "slug": "can.w.nsl",
+      "name": "Northern Super League",
+      "events": [
+        {
+          "id": "401859921",
+          "start": "2026-07-23T01:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401859922",
+          "start": "2026-07-23T23:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/uefa.champions_qual": {
+      "sport": "soccer",
+      "slug": "uefa.champions_qual",
+      "name": "UEFA Champions League Qualifying",
+      "events": [
+        {
+          "id": "401891884",
+          "start": "2026-07-22T17:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401891788",
+          "start": "2026-07-22T17:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401891883",
+          "start": "2026-07-22T19:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "soccer/uefa.europa_qual": {
+      "sport": "soccer",
+      "slug": "uefa.europa_qual",
+      "name": "UEFA Europa League Qualifying",
+      "events": [
+        {
+          "id": "401896233",
+          "start": "2026-07-23T16:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401896234",
+          "start": "2026-07-23T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401878087",
+          "start": "2026-07-23T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401892170",
+          "start": "2026-07-23T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401878086",
+          "start": "2026-07-23T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401878085",
+          "start": "2026-07-23T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401896231",
+          "start": "2026-07-23T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401878088",
+          "start": "2026-07-23T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401896235",
+          "start": "2026-07-23T19:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/mex.2": {
+      "sport": "soccer",
+      "slug": "mex.2",
+      "name": "Mexican Liga de Expansión MX",
+      "events": [
+        {
+          "id": "401886425",
+          "start": "2026-07-25T01:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401886426",
+          "start": "2026-07-25T01:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/rus.1": {
       "sport": "soccer",
       "slug": "rus.1",
@@ -855,18 +855,6 @@
         }
       ]
     },
-    "soccer/den.1": {
-      "sport": "soccer",
-      "slug": "den.1",
-      "name": "Danish Superliga",
-      "events": [
-        {
-          "id": "401874459",
-          "start": "2026-07-24T17:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/swe.1": {
       "sport": "soccer",
       "slug": "swe.1",
@@ -879,20 +867,52 @@
         }
       ]
     },
-    "soccer/nor.1": {
+    "soccer/den.1": {
       "sport": "soccer",
-      "slug": "nor.1",
-      "name": "Norwegian Eliteserien",
+      "slug": "den.1",
+      "name": "Danish Superliga",
       "events": [
         {
-          "id": "401873902",
-          "start": "2026-07-22T17:00:00.000Z",
+          "id": "401874459",
+          "start": "2026-07-24T17:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/conmebol.sudamericana": {
+      "sport": "soccer",
+      "slug": "conmebol.sudamericana",
+      "name": "CONMEBOL Sudamericana",
+      "events": [
+        {
+          "id": "401874157",
+          "start": "2026-07-22T22:00:00.000Z",
           "state": "post"
         },
         {
-          "id": "401843362",
-          "start": "2026-07-22T17:00:00.000Z",
+          "id": "401874166",
+          "start": "2026-07-23T00:30:00.000Z",
           "state": "post"
+        },
+        {
+          "id": "401874148",
+          "start": "2026-07-23T00:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401874144",
+          "start": "2026-07-23T22:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401874154",
+          "start": "2026-07-24T00:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401874165",
+          "start": "2026-07-24T00:30:00.000Z",
+          "state": "pre"
         }
       ]
     },
@@ -943,6 +963,23 @@
         }
       ]
     },
+    "soccer/nor.1": {
+      "sport": "soccer",
+      "slug": "nor.1",
+      "name": "Norwegian Eliteserien",
+      "events": [
+        {
+          "id": "401873902",
+          "start": "2026-07-22T17:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401843362",
+          "start": "2026-07-22T17:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
     "soccer/bra.1": {
       "sport": "soccer",
       "slug": "bra.1",
@@ -976,6 +1013,18 @@
         {
           "id": "401841151",
           "start": "2026-07-23T22:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/chi.1": {
+      "sport": "soccer",
+      "slug": "chi.1",
+      "name": "Chilean Primera División",
+      "events": [
+        {
+          "id": "401850597",
+          "start": "2026-07-25T00:30:00.000Z",
           "state": "pre"
         }
       ]
@@ -1022,55 +1071,6 @@
         }
       ]
     },
-    "soccer/conmebol.sudamericana": {
-      "sport": "soccer",
-      "slug": "conmebol.sudamericana",
-      "name": "CONMEBOL Sudamericana",
-      "events": [
-        {
-          "id": "401874157",
-          "start": "2026-07-22T22:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401874166",
-          "start": "2026-07-23T00:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401874148",
-          "start": "2026-07-23T00:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401874144",
-          "start": "2026-07-23T22:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401874154",
-          "start": "2026-07-24T00:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401874165",
-          "start": "2026-07-24T00:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/chi.1": {
-      "sport": "soccer",
-      "slug": "chi.1",
-      "name": "Chilean Primera División",
-      "events": [
-        {
-          "id": "401850597",
-          "start": "2026-07-25T00:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/col.1": {
       "sport": "soccer",
       "slug": "col.1",
@@ -1088,18 +1088,6 @@
         }
       ]
     },
-    "soccer/col.copa": {
-      "sport": "soccer",
-      "slug": "col.copa",
-      "name": "Copa Colombia",
-      "events": [
-        {
-          "id": "401871770",
-          "start": "2026-07-23T00:30:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "soccer/per.1": {
       "sport": "soccer",
       "slug": "per.1",
@@ -1113,6 +1101,35 @@
         {
           "id": "401878599",
           "start": "2026-07-25T01:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/col.copa": {
+      "sport": "soccer",
+      "slug": "col.copa",
+      "name": "Copa Colombia",
+      "events": [
+        {
+          "id": "401871770",
+          "start": "2026-07-23T00:30:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "soccer/par.1": {
+      "sport": "soccer",
+      "slug": "par.1",
+      "name": "Paraguayan Primera División",
+      "events": [
+        {
+          "id": "762420",
+          "start": "2026-07-24T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "762421",
+          "start": "2026-07-24T21:30:00.000Z",
           "state": "pre"
         }
       ]
@@ -1154,23 +1171,6 @@
         }
       ]
     },
-    "soccer/par.1": {
-      "sport": "soccer",
-      "slug": "par.1",
-      "name": "Paraguayan Primera División",
-      "events": [
-        {
-          "id": "762420",
-          "start": "2026-07-24T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "762421",
-          "start": "2026-07-24T21:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/bol.1": {
       "sport": "soccer",
       "slug": "bol.1",
@@ -1179,6 +1179,23 @@
         {
           "id": "401873313",
           "start": "2026-07-24T23:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/gua.1": {
+      "sport": "soccer",
+      "slug": "gua.1",
+      "name": "Guatemalan Liga Nacional",
+      "events": [
+        {
+          "id": "401879517",
+          "start": "2026-07-25T00:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401879515",
+          "start": "2026-07-25T02:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -1212,23 +1229,6 @@
         }
       ]
     },
-    "soccer/gua.1": {
-      "sport": "soccer",
-      "slug": "gua.1",
-      "name": "Guatemalan Liga Nacional",
-      "events": [
-        {
-          "id": "401879517",
-          "start": "2026-07-25T00:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401879515",
-          "start": "2026-07-25T02:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "racing/f1": {
       "sport": "racing",
       "slug": "f1",
@@ -1241,30 +1241,6 @@
         }
       ]
     },
-    "racing/nascar-truck": {
-      "sport": "racing",
-      "slug": "nascar-truck",
-      "name": "NASCAR Truck Series",
-      "events": [
-        {
-          "id": "202607244247",
-          "start": "2026-07-25T00:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "golf/liv": {
-      "sport": "golf",
-      "slug": "liv",
-      "name": "LIV Golf Invitational Series",
-      "events": [
-        {
-          "id": "401804745",
-          "start": "2026-07-23T04:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "golf/lpga": {
       "sport": "golf",
       "slug": "lpga",
@@ -1273,18 +1249,18 @@
         {
           "id": "401835163",
           "start": "2026-07-23T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         }
       ]
     },
-    "golf/champions-tour": {
-      "sport": "golf",
-      "slug": "champions-tour",
-      "name": "PGA TOUR Champions",
+    "racing/nascar-truck": {
+      "sport": "racing",
+      "slug": "nascar-truck",
+      "name": "NASCAR Truck Series",
       "events": [
         {
-          "id": "401832062",
-          "start": "2026-07-23T04:00:00.000Z",
+          "id": "202607244247",
+          "start": "2026-07-25T00:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -1313,6 +1289,35 @@
         }
       ]
     },
+    "tennis/atp": {
+      "sport": "tennis",
+      "slug": "atp",
+      "name": "ATP",
+      "events": [
+        {
+          "id": "304-2026",
+          "start": "2026-07-18T04:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "400-2026",
+          "start": "2026-07-18T04:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "golf/champions-tour": {
+      "sport": "golf",
+      "slug": "champions-tour",
+      "name": "PGA TOUR Champions",
+      "events": [
+        {
+          "id": "401832062",
+          "start": "2026-07-23T04:00:00.000Z",
+          "state": "in"
+        }
+      ]
+    },
     "tennis/wta": {
       "sport": "tennis",
       "slug": "wta",
@@ -1335,19 +1340,14 @@
         }
       ]
     },
-    "tennis/atp": {
-      "sport": "tennis",
-      "slug": "atp",
-      "name": "ATP",
+    "golf/liv": {
+      "sport": "golf",
+      "slug": "liv",
+      "name": "LIV Golf Invitational Series",
       "events": [
         {
-          "id": "304-2026",
-          "start": "2026-07-18T04:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "400-2026",
-          "start": "2026-07-18T04:00:00.000Z",
+          "id": "401804745",
+          "start": "2026-07-23T04:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -1387,28 +1387,6 @@
         {
           "id": "401867273",
           "start": "2026-07-25T02:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "rugby-league/3": {
-      "sport": "rugby-league",
-      "slug": "3",
-      "name": "Rugby League",
-      "events": [
-        {
-          "id": "603402",
-          "start": "2026-07-23T09:50:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "603403",
-          "start": "2026-07-24T08:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "603404",
-          "start": "2026-07-24T10:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -1462,6 +1440,28 @@
           "id": "401879426",
           "start": "2026-07-22T18:00:00.000Z",
           "state": "post"
+        }
+      ]
+    },
+    "rugby-league/3": {
+      "sport": "rugby-league",
+      "slug": "3",
+      "name": "Rugby League",
+      "events": [
+        {
+          "id": "603402",
+          "start": "2026-07-23T09:50:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "603403",
+          "start": "2026-07-24T08:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "603404",
+          "start": "2026-07-24T10:00:00.000Z",
+          "state": "pre"
         }
       ]
     }
