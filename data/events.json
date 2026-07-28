@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T09:10:11.276Z",
+  "generatedAt": "2026-07-28T14:44:18.699Z",
   "window": [
     "2026-07-27",
     "2026-07-28",
@@ -322,11 +322,45 @@
         {
           "id": "401854547",
           "start": "2026-07-28T10:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401854546",
           "start": "2026-07-28T13:00:00.000Z",
+          "state": "in"
+        }
+      ]
+    },
+    "soccer/usa.usl.1": {
+      "sport": "soccer",
+      "slug": "usa.usl.1",
+      "name": "USL Championship",
+      "events": [
+        {
+          "id": "401842037",
+          "start": "2026-07-29T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401842035",
+          "start": "2026-07-29T23:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/usa.usl.l1": {
+      "sport": "soccer",
+      "slug": "usa.usl.l1",
+      "name": "USL League One",
+      "events": [
+        {
+          "id": "401841975",
+          "start": "2026-07-29T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401841977",
+          "start": "2026-07-30T00:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -364,40 +398,6 @@
         {
           "id": "401879496",
           "start": "2026-07-29T20:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/usa.usl.1": {
-      "sport": "soccer",
-      "slug": "usa.usl.1",
-      "name": "USL Championship",
-      "events": [
-        {
-          "id": "401842037",
-          "start": "2026-07-29T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401842035",
-          "start": "2026-07-29T23:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/usa.usl.l1": {
-      "sport": "soccer",
-      "slug": "usa.usl.l1",
-      "name": "USL League One",
-      "events": [
-        {
-          "id": "401841975",
-          "start": "2026-07-29T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401841977",
-          "start": "2026-07-30T00:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -550,7 +550,7 @@
         },
         {
           "id": "401898187",
-          "start": "2026-07-28T09:30:00.000Z",
+          "start": "2026-07-28T16:00:00.000Z",
           "state": "pre"
         },
         {
@@ -587,6 +587,18 @@
       "events": [
         {
           "id": "401842766",
+          "start": "2026-07-27T17:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "soccer/den.1": {
+      "sport": "soccer",
+      "slug": "den.1",
+      "name": "Danish Superliga",
+      "events": [
+        {
+          "id": "401874475",
           "start": "2026-07-27T17:00:00.000Z",
           "state": "post"
         }
@@ -633,18 +645,6 @@
           "id": "401874151",
           "start": "2026-07-30T00:30:00.000Z",
           "state": "pre"
-        }
-      ]
-    },
-    "soccer/den.1": {
-      "sport": "soccer",
-      "slug": "den.1",
-      "name": "Danish Superliga",
-      "events": [
-        {
-          "id": "401874475",
-          "start": "2026-07-27T17:00:00.000Z",
-          "state": "post"
         }
       ]
     },
@@ -742,18 +742,6 @@
         }
       ]
     },
-    "soccer/arg.2": {
-      "sport": "soccer",
-      "slug": "arg.2",
-      "name": "Argentine Nacional B",
-      "events": [
-        {
-          "id": "401843998",
-          "start": "2026-07-27T23:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "soccer/bra.2": {
       "sport": "soccer",
       "slug": "bra.2",
@@ -791,6 +779,18 @@
         }
       ]
     },
+    "soccer/arg.2": {
+      "sport": "soccer",
+      "slug": "arg.2",
+      "name": "Argentine Nacional B",
+      "events": [
+        {
+          "id": "401843998",
+          "start": "2026-07-27T23:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
     "soccer/chi.1": {
       "sport": "soccer",
       "slug": "chi.1",
@@ -799,28 +799,6 @@
         {
           "id": "401850602",
           "start": "2026-07-27T23:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
-    "soccer/ecu.1": {
-      "sport": "soccer",
-      "slug": "ecu.1",
-      "name": "LigaPro Ecuador",
-      "events": [
-        {
-          "id": "401859636",
-          "start": "2026-07-27T19:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401859637",
-          "start": "2026-07-27T21:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401859638",
-          "start": "2026-07-28T00:00:00.000Z",
           "state": "post"
         }
       ]
@@ -864,6 +842,28 @@
           "id": "401871778",
           "start": "2026-07-30T01:00:00.000Z",
           "state": "pre"
+        }
+      ]
+    },
+    "soccer/ecu.1": {
+      "sport": "soccer",
+      "slug": "ecu.1",
+      "name": "LigaPro Ecuador",
+      "events": [
+        {
+          "id": "401859636",
+          "start": "2026-07-27T19:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401859637",
+          "start": "2026-07-27T21:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401859638",
+          "start": "2026-07-28T00:00:00.000Z",
+          "state": "post"
         }
       ]
     },
@@ -977,18 +977,6 @@
         }
       ]
     },
-    "golf/champions-tour": {
-      "sport": "golf",
-      "slug": "champions-tour",
-      "name": "PGA TOUR Champions",
-      "events": [
-        {
-          "id": "401832062",
-          "start": "2026-07-23T04:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "golf/liv": {
       "sport": "golf",
       "slug": "liv",
@@ -996,6 +984,18 @@
       "events": [
         {
           "id": "401804745",
+          "start": "2026-07-23T04:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "golf/champions-tour": {
+      "sport": "golf",
+      "slug": "champions-tour",
+      "name": "PGA TOUR Champions",
+      "events": [
+        {
+          "id": "401832062",
           "start": "2026-07-23T04:00:00.000Z",
           "state": "post"
         }
@@ -1013,15 +1013,20 @@
         }
       ]
     },
-    "golf/ntw": {
-      "sport": "golf",
-      "slug": "ntw",
-      "name": "Korn Ferry Tour",
+    "tennis/atp": {
+      "sport": "tennis",
+      "slug": "atp",
+      "name": "ATP",
       "events": [
         {
-          "id": "401837443",
-          "start": "2026-07-23T04:00:00.000Z",
-          "state": "post"
+          "id": "424-2026",
+          "start": "2026-07-25T04:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "888-2026",
+          "start": "2026-07-25T04:00:00.000Z",
+          "state": "pre"
         }
       ]
     },
@@ -1052,20 +1057,15 @@
         }
       ]
     },
-    "tennis/atp": {
-      "sport": "tennis",
-      "slug": "atp",
-      "name": "ATP",
+    "golf/ntw": {
+      "sport": "golf",
+      "slug": "ntw",
+      "name": "Korn Ferry Tour",
       "events": [
         {
-          "id": "424-2026",
-          "start": "2026-07-25T04:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "888-2026",
-          "start": "2026-07-25T04:00:00.000Z",
-          "state": "pre"
+          "id": "401837443",
+          "start": "2026-07-23T04:00:00.000Z",
+          "state": "post"
         }
       ]
     }
