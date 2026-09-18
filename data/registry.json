@@ -5,15 +5,15 @@
     "name": "Canadian Football League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.333Z"
+    "lastChecked": "2026-09-18T04:52:47.594Z"
   },
   "football/college-football": {
     "sport": "football",
     "slug": "college-football",
     "name": "NCAA - Football",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-19",
-    "lastChecked": "2026-09-17T21:29:32.299Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:47.646Z"
   },
   "football/nfl": {
     "sport": "football",
@@ -21,7 +21,7 @@
     "name": "National Football League",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:32.234Z"
+    "lastChecked": "2026-09-18T04:52:47.596Z"
   },
   "football/ufl": {
     "sport": "football",
@@ -29,7 +29,7 @@
     "name": "United Football League",
     "status": "DORMANT",
     "maxEventDate": "2026-06-13",
-    "lastChecked": "2026-09-17T21:29:32.317Z"
+    "lastChecked": "2026-09-18T04:52:47.622Z"
   },
   "football/xfl": {
     "sport": "football",
@@ -37,7 +37,7 @@
     "name": "XFL",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.353Z"
+    "lastChecked": "2026-09-18T04:52:47.672Z"
   },
   "basketball/fiba": {
     "sport": "basketball",
@@ -45,7 +45,7 @@
     "name": "FIBA World Cup",
     "status": "DORMANT",
     "maxEventDate": "2026-09-13",
-    "lastChecked": "2026-09-17T21:29:32.486Z"
+    "lastChecked": "2026-09-18T04:52:47.673Z"
   },
   "basketball/mens-college-basketball": {
     "sport": "basketball",
@@ -53,7 +53,7 @@
     "name": "NCAA Men's Basketball",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.253Z"
+    "lastChecked": "2026-09-18T04:52:47.771Z"
   },
   "basketball/mens-olympics-basketball": {
     "sport": "basketball",
@@ -61,7 +61,7 @@
     "name": "Olympics Men's Basketball",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.340Z"
+    "lastChecked": "2026-09-18T04:52:47.750Z"
   },
   "basketball/nba": {
     "sport": "basketball",
@@ -69,7 +69,7 @@
     "name": "National Basketball Association",
     "status": "DORMANT",
     "maxEventDate": "2026-06-14",
-    "lastChecked": "2026-09-17T21:29:32.239Z"
+    "lastChecked": "2026-09-18T04:52:47.724Z"
   },
   "basketball/nba-development": {
     "sport": "basketball",
@@ -77,7 +77,7 @@
     "name": "NBA G League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.333Z"
+    "lastChecked": "2026-09-18T04:52:47.788Z"
   },
   "basketball/nba-summer-california": {
     "sport": "basketball",
@@ -85,7 +85,7 @@
     "name": "NBA California Classic Summer League",
     "status": "DORMANT",
     "maxEventDate": "2026-07-07",
-    "lastChecked": "2026-09-17T21:29:32.327Z"
+    "lastChecked": "2026-09-18T04:52:47.706Z"
   },
   "basketball/nba-summer-golden-state": {
     "sport": "basketball",
@@ -93,7 +93,7 @@
     "name": "Golden State Summer League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.394Z"
+    "lastChecked": "2026-09-18T04:52:47.765Z"
   },
   "basketball/nba-summer-las-vegas": {
     "sport": "basketball",
@@ -101,7 +101,7 @@
     "name": "Las Vegas Summer League",
     "status": "DORMANT",
     "maxEventDate": "2026-07-20",
-    "lastChecked": "2026-09-17T21:29:32.282Z"
+    "lastChecked": "2026-09-18T04:52:47.703Z"
   },
   "basketball/nba-summer-orlando": {
     "sport": "basketball",
@@ -109,7 +109,7 @@
     "name": "Orlando Summer League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.619Z"
+    "lastChecked": "2026-09-18T04:52:47.709Z"
   },
   "basketball/nba-summer-sacramento": {
     "sport": "basketball",
@@ -117,7 +117,7 @@
     "name": "Sacramento Summer League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.419Z"
+    "lastChecked": "2026-09-18T04:52:47.745Z"
   },
   "basketball/nba-summer-utah": {
     "sport": "basketball",
@@ -125,23 +125,23 @@
     "name": "Salt Lake City Summer League",
     "status": "DORMANT",
     "maxEventDate": "2026-07-08",
-    "lastChecked": "2026-09-17T21:29:32.438Z"
+    "lastChecked": "2026-09-18T04:52:47.748Z"
   },
   "basketball/nbl": {
     "sport": "basketball",
     "slug": "nbl",
     "name": "National Basketball League",
-    "status": "DORMANT",
-    "maxEventDate": "2026-09-12",
-    "lastChecked": "2026-09-17T21:29:32.482Z"
+    "status": "ACTIVE",
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:47.806Z"
   },
   "basketball/wnba": {
     "sport": "basketball",
     "slug": "wnba",
     "name": "Women's National Basketball Association",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-19",
-    "lastChecked": "2026-09-17T21:29:32.372Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:47.772Z"
   },
   "basketball/womens-college-basketball": {
     "sport": "basketball",
@@ -149,7 +149,7 @@
     "name": "NCAA Women's Basketball",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.411Z"
+    "lastChecked": "2026-09-18T04:52:47.803Z"
   },
   "basketball/womens-olympics-basketball": {
     "sport": "basketball",
@@ -157,7 +157,7 @@
     "name": "Olympics Women's Basketball",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.555Z"
+    "lastChecked": "2026-09-18T04:52:47.875Z"
   },
   "baseball/caribbean-series": {
     "sport": "baseball",
@@ -165,7 +165,7 @@
     "name": "Caribbean Series",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.678Z"
+    "lastChecked": "2026-09-18T04:52:47.815Z"
   },
   "baseball/college-baseball": {
     "sport": "baseball",
@@ -173,7 +173,7 @@
     "name": "NCAA Baseball",
     "status": "DORMANT",
     "maxEventDate": "2026-06-22",
-    "lastChecked": "2026-09-17T21:29:32.446Z"
+    "lastChecked": "2026-09-18T04:52:47.811Z"
   },
   "baseball/college-softball": {
     "sport": "baseball",
@@ -181,7 +181,7 @@
     "name": "NCAA Softball",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.552Z"
+    "lastChecked": "2026-09-18T04:52:47.873Z"
   },
   "baseball/dominican-winter-league": {
     "sport": "baseball",
@@ -189,7 +189,7 @@
     "name": "Dominican Winter League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.603Z"
+    "lastChecked": "2026-09-18T04:52:47.862Z"
   },
   "baseball/llb": {
     "sport": "baseball",
@@ -197,7 +197,7 @@
     "name": "Little League Baseball",
     "status": "DORMANT",
     "maxEventDate": "2026-08-12",
-    "lastChecked": "2026-09-17T21:29:32.575Z"
+    "lastChecked": "2026-09-18T04:52:47.864Z"
   },
   "baseball/lls": {
     "sport": "baseball",
@@ -205,7 +205,7 @@
     "name": "Little League Softball",
     "status": "DORMANT",
     "maxEventDate": "2026-08-09",
-    "lastChecked": "2026-09-17T21:29:32.627Z"
+    "lastChecked": "2026-09-18T04:52:47.918Z"
   },
   "baseball/mexican-winter-league": {
     "sport": "baseball",
@@ -213,15 +213,15 @@
     "name": "Mexican League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.705Z"
+    "lastChecked": "2026-09-18T04:52:47.907Z"
   },
   "baseball/mlb": {
     "sport": "baseball",
     "slug": "mlb",
     "name": "Major League Baseball",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-19",
-    "lastChecked": "2026-09-17T21:29:32.504Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:47.890Z"
   },
   "baseball/olympics-baseball": {
     "sport": "baseball",
@@ -229,7 +229,7 @@
     "name": "Olympics Men's Baseball",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.665Z"
+    "lastChecked": "2026-09-18T04:52:47.946Z"
   },
   "baseball/puerto-rican-winter-league": {
     "sport": "baseball",
@@ -237,7 +237,7 @@
     "name": "Puerto Rican Winter League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.806Z"
+    "lastChecked": "2026-09-18T04:52:47.913Z"
   },
   "baseball/venezuelan-winter-league": {
     "sport": "baseball",
@@ -245,7 +245,7 @@
     "name": "Venezuelan Winter League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.714Z"
+    "lastChecked": "2026-09-18T04:52:47.903Z"
   },
   "baseball/world-baseball-classic": {
     "sport": "baseball",
@@ -253,7 +253,7 @@
     "name": "World Baseball Classic",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.679Z"
+    "lastChecked": "2026-09-18T04:52:47.916Z"
   },
   "hockey/hockey-world-cup": {
     "sport": "hockey",
@@ -261,7 +261,7 @@
     "name": "World Cup of Hockey",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.770Z"
+    "lastChecked": "2026-09-18T04:52:47.916Z"
   },
   "hockey/mens-college-hockey": {
     "sport": "hockey",
@@ -269,15 +269,15 @@
     "name": "NCAA Men's Ice Hockey",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.734Z"
+    "lastChecked": "2026-09-18T04:52:47.949Z"
   },
   "hockey/nhl": {
     "sport": "hockey",
     "slug": "nhl",
     "name": "National Hockey League",
-    "status": "DORMANT",
-    "maxEventDate": "2026-06-15",
-    "lastChecked": "2026-09-17T21:29:32.641Z"
+    "status": "ACTIVE",
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:47.928Z"
   },
   "hockey/olympics-mens-ice-hockey": {
     "sport": "hockey",
@@ -285,7 +285,7 @@
     "name": "Men's Ice Hockey",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.793Z"
+    "lastChecked": "2026-09-18T04:52:48.023Z"
   },
   "hockey/olympics-womens-ice-hockey": {
     "sport": "hockey",
@@ -293,15 +293,15 @@
     "name": "Women's Ice Hockey",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.843Z"
+    "lastChecked": "2026-09-18T04:52:47.971Z"
   },
   "hockey/womens-college-hockey": {
     "sport": "hockey",
     "slug": "womens-college-hockey",
     "name": "NCAA Women's Hockey",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:32.805Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:47.994Z"
   },
   "soccer/fifa.world": {
     "sport": "soccer",
@@ -309,7 +309,7 @@
     "name": "FIFA World Cup",
     "status": "DORMANT",
     "maxEventDate": "2026-07-19",
-    "lastChecked": "2026-09-17T21:29:32.682Z"
+    "lastChecked": "2026-09-18T04:52:47.987Z"
   },
   "soccer/fifa.wwc": {
     "sport": "soccer",
@@ -317,7 +317,7 @@
     "name": "FIFA Women's World Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.743Z"
+    "lastChecked": "2026-09-18T04:52:47.985Z"
   },
   "soccer/uefa.champions": {
     "sport": "soccer",
@@ -325,15 +325,15 @@
     "name": "UEFA Champions League",
     "status": "DORMANT",
     "maxEventDate": "2026-09-10",
-    "lastChecked": "2026-09-17T21:29:32.719Z"
+    "lastChecked": "2026-09-18T04:52:47.985Z"
   },
   "soccer/eng.1": {
     "sport": "soccer",
     "slug": "eng.1",
     "name": "English Premier League",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:32.732Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:47.999Z"
   },
   "soccer/eng.fa": {
     "sport": "soccer",
@@ -341,7 +341,7 @@
     "name": "English FA Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.736Z"
+    "lastChecked": "2026-09-18T04:52:48.086Z"
   },
   "soccer/eng.league_cup": {
     "sport": "soccer",
@@ -349,15 +349,15 @@
     "name": "English Carabao Cup",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-17",
-    "lastChecked": "2026-09-17T21:29:32.814Z"
+    "lastChecked": "2026-09-18T04:52:48.092Z"
   },
   "soccer/esp.1": {
     "sport": "soccer",
     "slug": "esp.1",
     "name": "Spanish LALIGA",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:32.775Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:48.013Z"
   },
   "soccer/esp.super_cup": {
     "sport": "soccer",
@@ -365,7 +365,7 @@
     "name": "Spanish Supercopa",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.865Z"
+    "lastChecked": "2026-09-18T04:52:48.067Z"
   },
   "soccer/esp.copa_del_rey": {
     "sport": "soccer",
@@ -373,15 +373,15 @@
     "name": "Spanish Copa del Rey",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.877Z"
+    "lastChecked": "2026-09-18T04:52:48.052Z"
   },
   "soccer/ger.1": {
     "sport": "soccer",
     "slug": "ger.1",
     "name": "German Bundesliga",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:32.783Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:48.044Z"
   },
   "soccer/ger.playoff.relegation": {
     "sport": "soccer",
@@ -389,7 +389,7 @@
     "name": "German Bundesliga Promotion/Relegation Playoff",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.078Z"
+    "lastChecked": "2026-09-18T04:52:48.115Z"
   },
   "soccer/ger.dfb_pokal": {
     "sport": "soccer",
@@ -397,15 +397,15 @@
     "name": "German Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.859Z"
+    "lastChecked": "2026-09-18T04:52:48.096Z"
   },
   "soccer/usa.1": {
     "sport": "soccer",
     "slug": "usa.1",
     "name": "MLS",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:32.819Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:48.102Z"
   },
   "soccer/concacaf.leagues.cup": {
     "sport": "soccer",
@@ -413,15 +413,15 @@
     "name": "Leagues Cup",
     "status": "DORMANT",
     "maxEventDate": "2026-08-13",
-    "lastChecked": "2026-09-17T21:29:32.846Z"
+    "lastChecked": "2026-09-18T04:52:48.077Z"
   },
   "soccer/campeones.cup": {
     "sport": "soccer",
     "slug": "campeones.cup",
     "name": "Campeones Cup",
-    "status": "ACTIVE",
+    "status": "DORMANT",
     "maxEventDate": "2026-09-17",
-    "lastChecked": "2026-09-17T21:29:32.928Z"
+    "lastChecked": "2026-09-18T04:52:48.103Z"
   },
   "soccer/fifa.shebelieves": {
     "sport": "soccer",
@@ -429,7 +429,7 @@
     "name": "SheBelieves Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.940Z"
+    "lastChecked": "2026-09-18T04:52:48.108Z"
   },
   "soccer/fifa.w.champions_cup": {
     "sport": "soccer",
@@ -437,7 +437,7 @@
     "name": "FIFA Women's Champions Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:32.971Z"
+    "lastChecked": "2026-09-18T04:52:48.164Z"
   },
   "soccer/uefa.wchampions": {
     "sport": "soccer",
@@ -445,15 +445,15 @@
     "name": "UEFA Women's Champions League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.077Z"
+    "lastChecked": "2026-09-18T04:52:48.123Z"
   },
   "soccer/usa.nwsl": {
     "sport": "soccer",
     "slug": "usa.nwsl",
     "name": "NWSL",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-19",
-    "lastChecked": "2026-09-17T21:29:32.896Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:48.139Z"
   },
   "soccer/usa.nwsl.cup": {
     "sport": "soccer",
@@ -461,7 +461,7 @@
     "name": "NWSL Challenge Cup",
     "status": "DORMANT",
     "maxEventDate": "2026-06-27",
-    "lastChecked": "2026-09-17T21:29:33.003Z"
+    "lastChecked": "2026-09-18T04:52:48.199Z"
   },
   "soccer/uefa.europa": {
     "sport": "soccer",
@@ -469,7 +469,7 @@
     "name": "UEFA Europa League",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-17",
-    "lastChecked": "2026-09-17T21:29:32.933Z"
+    "lastChecked": "2026-09-18T04:52:48.156Z"
   },
   "soccer/uefa.europa.conf": {
     "sport": "soccer",
@@ -477,7 +477,7 @@
     "name": "UEFA Conference League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.004Z"
+    "lastChecked": "2026-09-18T04:52:48.236Z"
   },
   "soccer/fifa.friendly": {
     "sport": "soccer",
@@ -485,23 +485,23 @@
     "name": "International Friendly",
     "status": "DORMANT",
     "maxEventDate": "2026-06-11",
-    "lastChecked": "2026-09-17T21:29:33.027Z"
+    "lastChecked": "2026-09-18T04:52:48.274Z"
   },
   "soccer/mex.1": {
     "sport": "soccer",
     "slug": "mex.1",
     "name": "Mexican Liga BBVA MX",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-19",
-    "lastChecked": "2026-09-17T21:29:32.936Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:48.198Z"
   },
   "soccer/ita.1": {
     "sport": "soccer",
     "slug": "ita.1",
     "name": "Italian Serie A",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:32.981Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:48.232Z"
   },
   "soccer/ita.coppa_italia": {
     "sport": "soccer",
@@ -509,15 +509,15 @@
     "name": "Coppa Italia",
     "status": "DORMANT",
     "maxEventDate": "2026-09-15",
-    "lastChecked": "2026-09-17T21:29:33.006Z"
+    "lastChecked": "2026-09-18T04:52:48.185Z"
   },
   "soccer/fra.1": {
     "sport": "soccer",
     "slug": "fra.1",
     "name": "French Ligue 1",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:32.982Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:48.201Z"
   },
   "soccer/fra.super_cup": {
     "sport": "soccer",
@@ -525,7 +525,7 @@
     "name": "French Trophee des Champions",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.098Z"
+    "lastChecked": "2026-09-18T04:52:48.311Z"
   },
   "soccer/ita.super_cup": {
     "sport": "soccer",
@@ -533,7 +533,7 @@
     "name": "Italian Supercoppa",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.124Z"
+    "lastChecked": "2026-09-18T04:52:48.231Z"
   },
   "soccer/ger.super_cup": {
     "sport": "soccer",
@@ -541,23 +541,23 @@
     "name": "German Supercup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.159Z"
+    "lastChecked": "2026-09-18T04:52:48.239Z"
   },
   "soccer/eng.w.1": {
     "sport": "soccer",
     "slug": "eng.w.1",
     "name": "English Women's Super League",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:33.169Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:48.245Z"
   },
   "soccer/eng.2": {
     "sport": "soccer",
     "slug": "eng.2",
     "name": "English League Championship",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:33.112Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:48.272Z"
   },
   "soccer/eng.w.promotion.relegation": {
     "sport": "soccer",
@@ -565,7 +565,7 @@
     "name": "English Women's Super League Promotion/Relegation Playoff",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.197Z"
+    "lastChecked": "2026-09-18T04:52:48.279Z"
   },
   "soccer/eng.charity": {
     "sport": "soccer",
@@ -573,23 +573,23 @@
     "name": "English FA Community Shield",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.164Z"
+    "lastChecked": "2026-09-18T04:52:48.296Z"
   },
   "soccer/ned.1": {
     "sport": "soccer",
     "slug": "ned.1",
     "name": "Dutch Eredivisie",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:33.069Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:48.304Z"
   },
   "soccer/por.1": {
     "sport": "soccer",
     "slug": "por.1",
     "name": "Portuguese Primeira Liga",
-    "status": "DORMANT",
-    "maxEventDate": "2026-09-14",
-    "lastChecked": "2026-09-17T21:29:33.138Z"
+    "status": "ACTIVE",
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:48.289Z"
   },
   "soccer/fra.coupe_de_france": {
     "sport": "soccer",
@@ -597,15 +597,15 @@
     "name": "Coupe de France",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.162Z"
+    "lastChecked": "2026-09-18T04:52:48.309Z"
   },
   "soccer/usa.open": {
     "sport": "soccer",
     "slug": "usa.open",
     "name": "U.S. Open Cup",
-    "status": "ACTIVE",
+    "status": "DORMANT",
     "maxEventDate": "2026-09-17",
-    "lastChecked": "2026-09-17T21:29:33.137Z"
+    "lastChecked": "2026-09-18T04:52:48.320Z"
   },
   "soccer/ksa.1": {
     "sport": "soccer",
@@ -613,7 +613,7 @@
     "name": "Saudi Pro League",
     "status": "DORMANT",
     "maxEventDate": "2026-09-13",
-    "lastChecked": "2026-09-17T21:29:33.225Z"
+    "lastChecked": "2026-09-18T04:52:48.362Z"
   },
   "soccer/conmebol.libertadores": {
     "sport": "soccer",
@@ -621,7 +621,7 @@
     "name": "CONMEBOL Libertadores",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:33.178Z"
+    "lastChecked": "2026-09-18T04:52:48.351Z"
   },
   "soccer/concacaf.champions": {
     "sport": "soccer",
@@ -629,7 +629,7 @@
     "name": "Concacaf Champions Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.248Z"
+    "lastChecked": "2026-09-18T04:52:48.326Z"
   },
   "soccer/fifa.worldq.uefa": {
     "sport": "soccer",
@@ -637,7 +637,7 @@
     "name": "FIFA World Cup Qualifying - UEFA",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.381Z"
+    "lastChecked": "2026-09-18T04:52:48.427Z"
   },
   "soccer/fifa.wcq.ply": {
     "sport": "soccer",
@@ -645,7 +645,7 @@
     "name": "FIFA World Cup Qualifying - Playoff Tournament",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.279Z"
+    "lastChecked": "2026-09-18T04:52:48.396Z"
   },
   "soccer/fifa.worldq.concacaf": {
     "sport": "soccer",
@@ -653,7 +653,7 @@
     "name": "FIFA World Cup Qualifying - Concacaf",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.287Z"
+    "lastChecked": "2026-09-18T04:52:48.383Z"
   },
   "soccer/fifa.worldq.afc": {
     "sport": "soccer",
@@ -661,7 +661,7 @@
     "name": "FIFA World Cup Qualifying - AFC",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.293Z"
+    "lastChecked": "2026-09-18T04:52:48.382Z"
   },
   "soccer/fifa.worldq.caf": {
     "sport": "soccer",
@@ -669,7 +669,7 @@
     "name": "FIFA World Cup Qualifying - CAF",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.304Z"
+    "lastChecked": "2026-09-18T04:52:48.372Z"
   },
   "soccer/fifa.worldq.conmebol": {
     "sport": "soccer",
@@ -677,7 +677,7 @@
     "name": "FIFA World Cup Qualifying - CONMEBOL",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.321Z"
+    "lastChecked": "2026-09-18T04:52:48.389Z"
   },
   "soccer/fifa.worldq.afc.conmebol": {
     "sport": "soccer",
@@ -685,7 +685,7 @@
     "name": "FIFA World Cup Qualifying - AFC/CONMEBOL Playoff",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.371Z"
+    "lastChecked": "2026-09-18T04:52:48.409Z"
   },
   "soccer/fifa.worldq.ofc": {
     "sport": "soccer",
@@ -693,7 +693,7 @@
     "name": "FIFA World Cup Qualifying - OFC",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.332Z"
+    "lastChecked": "2026-09-18T04:52:48.404Z"
   },
   "soccer/fifa.worldq.concacaf.ofc": {
     "sport": "soccer",
@@ -701,7 +701,7 @@
     "name": "FIFA World Cup Qualifying - Concacaf/OFC Playoff",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.412Z"
+    "lastChecked": "2026-09-18T04:52:48.405Z"
   },
   "soccer/uefa.nations": {
     "sport": "soccer",
@@ -709,7 +709,7 @@
     "name": "UEFA Nations League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.324Z"
+    "lastChecked": "2026-09-18T04:52:48.397Z"
   },
   "soccer/fifa.friendly.w": {
     "sport": "soccer",
@@ -717,7 +717,7 @@
     "name": "Women's International Friendly",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.386Z"
+    "lastChecked": "2026-09-18T04:52:48.487Z"
   },
   "soccer/fifa.wworldq.uefa": {
     "sport": "soccer",
@@ -725,7 +725,7 @@
     "name": "FIFA Women's World Cup Qualifying - UEFA",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.405Z"
+    "lastChecked": "2026-09-18T04:52:48.486Z"
   },
   "soccer/fifa.wwcq.ply": {
     "sport": "soccer",
@@ -733,7 +733,7 @@
     "name": "FIFA Women's World Cup Qualifying - Playoff Tournament",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.508Z"
+    "lastChecked": "2026-09-18T04:52:48.462Z"
   },
   "soccer/uefa.w.nations": {
     "sport": "soccer",
@@ -741,7 +741,7 @@
     "name": "UEFA Women's Nations League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.500Z"
+    "lastChecked": "2026-09-18T04:52:48.478Z"
   },
   "soccer/eng.w.fa": {
     "sport": "soccer",
@@ -749,7 +749,7 @@
     "name": "English Women's FA Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.444Z"
+    "lastChecked": "2026-09-18T04:52:48.486Z"
   },
   "soccer/eng.w.league_cup": {
     "sport": "soccer",
@@ -757,15 +757,15 @@
     "name": "English Women's League Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.506Z"
+    "lastChecked": "2026-09-18T04:52:48.523Z"
   },
   "soccer/esp.w.1": {
     "sport": "soccer",
     "slug": "esp.w.1",
     "name": "Spanish Liga F",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:33.531Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:48.505Z"
   },
   "soccer/esp.copa_de_la_reina": {
     "sport": "soccer",
@@ -773,15 +773,15 @@
     "name": "Spanish Copa de la Reina",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.493Z"
+    "lastChecked": "2026-09-18T04:52:48.505Z"
   },
   "soccer/fra.w.1": {
     "sport": "soccer",
     "slug": "fra.w.1",
     "name": "French Première Ligue",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:33.495Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:48.502Z"
   },
   "soccer/usa.nwsl.summer.cup": {
     "sport": "soccer",
@@ -789,15 +789,15 @@
     "name": "NWSL X Liga MX Femenil Summer Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.588Z"
+    "lastChecked": "2026-09-18T04:52:48.550Z"
   },
   "soccer/usa.w.usl.1": {
     "sport": "soccer",
     "slug": "usa.w.usl.1",
     "name": "USL Super League",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:33.517Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:48.499Z"
   },
   "soccer/ned.cup": {
     "sport": "soccer",
@@ -805,15 +805,15 @@
     "name": "Dutch KNVB Beker",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.510Z"
+    "lastChecked": "2026-09-18T04:52:48.658Z"
   },
   "soccer/sco.1": {
     "sport": "soccer",
     "slug": "sco.1",
     "name": "Scottish Premiership",
-    "status": "DORMANT",
-    "maxEventDate": "2026-09-15",
-    "lastChecked": "2026-09-17T21:29:33.447Z"
+    "status": "ACTIVE",
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:48.548Z"
   },
   "soccer/sco.tennents": {
     "sport": "soccer",
@@ -821,7 +821,7 @@
     "name": "Scottish Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.753Z"
+    "lastChecked": "2026-09-18T04:52:48.595Z"
   },
   "soccer/sco.cis": {
     "sport": "soccer",
@@ -829,7 +829,7 @@
     "name": "Scottish League Cup",
     "status": "DORMANT",
     "maxEventDate": "2026-09-13",
-    "lastChecked": "2026-09-17T21:29:33.595Z"
+    "lastChecked": "2026-09-18T04:52:48.869Z"
   },
   "soccer/aus.1": {
     "sport": "soccer",
@@ -837,7 +837,7 @@
     "name": "Australian A-League Men",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.570Z"
+    "lastChecked": "2026-09-18T04:52:48.574Z"
   },
   "soccer/aus.w.1": {
     "sport": "soccer",
@@ -845,7 +845,7 @@
     "name": "Australian A-League Women",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.680Z"
+    "lastChecked": "2026-09-18T04:52:48.606Z"
   },
   "soccer/ksa.kings.cup": {
     "sport": "soccer",
@@ -853,23 +853,23 @@
     "name": "Saudi King's Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.651Z"
+    "lastChecked": "2026-09-18T04:52:48.608Z"
   },
   "soccer/por.taca.portugal": {
     "sport": "soccer",
     "slug": "por.taca.portugal",
     "name": "Taca de Portugal",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:33.668Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:48.632Z"
   },
   "soccer/tur.1": {
     "sport": "soccer",
     "slug": "tur.1",
     "name": "Turkish Super Lig",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:33.573Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:48.644Z"
   },
   "soccer/caf.nations": {
     "sport": "soccer",
@@ -877,15 +877,15 @@
     "name": "Africa Cup of Nations",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.582Z"
+    "lastChecked": "2026-09-18T04:52:48.605Z"
   },
   "soccer/afc.champions": {
     "sport": "soccer",
     "slug": "afc.champions",
     "name": "AFC Champions League Elite",
-    "status": "ACTIVE",
+    "status": "DORMANT",
     "maxEventDate": "2026-09-16",
-    "lastChecked": "2026-09-17T21:29:33.594Z"
+    "lastChecked": "2026-09-18T04:52:48.628Z"
   },
   "soccer/afc.cup": {
     "sport": "soccer",
@@ -893,7 +893,7 @@
     "name": "AFC Champions League Two",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-17",
-    "lastChecked": "2026-09-17T21:29:33.876Z"
+    "lastChecked": "2026-09-18T04:52:48.641Z"
   },
   "soccer/fifa.cwc": {
     "sport": "soccer",
@@ -901,7 +901,7 @@
     "name": "FIFA Club World Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.690Z"
+    "lastChecked": "2026-09-18T04:52:48.639Z"
   },
   "soccer/fifa.olympics": {
     "sport": "soccer",
@@ -909,7 +909,7 @@
     "name": "Men's Olympic Soccer Tournament",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.736Z"
+    "lastChecked": "2026-09-18T04:52:48.702Z"
   },
   "soccer/fifa.w.olympics": {
     "sport": "soccer",
@@ -917,7 +917,7 @@
     "name": "Women's Olympic Soccer Tournament",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.712Z"
+    "lastChecked": "2026-09-18T04:52:48.706Z"
   },
   "soccer/concacaf.gold": {
     "sport": "soccer",
@@ -925,7 +925,7 @@
     "name": "Concacaf Gold Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.659Z"
+    "lastChecked": "2026-09-18T04:52:48.689Z"
   },
   "soccer/concacaf.gold_qual": {
     "sport": "soccer",
@@ -933,7 +933,7 @@
     "name": "Concacaf Gold Cup Qualifying",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.760Z"
+    "lastChecked": "2026-09-18T04:52:48.709Z"
   },
   "soccer/concacaf.w.gold": {
     "sport": "soccer",
@@ -941,7 +941,7 @@
     "name": "Concacaf W Gold Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.783Z"
+    "lastChecked": "2026-09-18T04:52:48.718Z"
   },
   "soccer/concacaf.nations.league": {
     "sport": "soccer",
@@ -949,7 +949,7 @@
     "name": "Concacaf Nations League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.679Z"
+    "lastChecked": "2026-09-18T04:52:48.778Z"
   },
   "soccer/concacaf.confederations_playoff": {
     "sport": "soccer",
@@ -957,7 +957,7 @@
     "name": "Concacaf Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.932Z"
+    "lastChecked": "2026-09-18T04:52:48.725Z"
   },
   "soccer/concacaf.w.champions_cup": {
     "sport": "soccer",
@@ -965,7 +965,7 @@
     "name": "Concacaf W Champions Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.820Z"
+    "lastChecked": "2026-09-18T04:52:48.750Z"
   },
   "soccer/concacaf.womens.championship": {
     "sport": "soccer",
@@ -973,7 +973,7 @@
     "name": "Concacaf W Championship",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.941Z"
+    "lastChecked": "2026-09-18T04:52:48.877Z"
   },
   "soccer/global.champs_cup": {
     "sport": "soccer",
@@ -981,7 +981,7 @@
     "name": "International Champions Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.888Z"
+    "lastChecked": "2026-09-18T04:52:48.742Z"
   },
   "soccer/global.wchamps_cup": {
     "sport": "soccer",
@@ -989,7 +989,7 @@
     "name": "Women's International Champions Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.925Z"
+    "lastChecked": "2026-09-18T04:52:48.760Z"
   },
   "soccer/uefa.euro": {
     "sport": "soccer",
@@ -997,7 +997,7 @@
     "name": "UEFA European Championship",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.773Z"
+    "lastChecked": "2026-09-18T04:52:48.788Z"
   },
   "soccer/uefa.euroq": {
     "sport": "soccer",
@@ -1005,7 +1005,7 @@
     "name": "UEFA European Championship Qualifying",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.853Z"
+    "lastChecked": "2026-09-18T04:52:48.827Z"
   },
   "soccer/uefa.weuro": {
     "sport": "soccer",
@@ -1013,7 +1013,7 @@
     "name": "UEFA Women's European Championship",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.922Z"
+    "lastChecked": "2026-09-18T04:52:48.814Z"
   },
   "soccer/uefa.euro_u21": {
     "sport": "soccer",
@@ -1021,7 +1021,7 @@
     "name": "UEFA European Under-21 Championship",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.906Z"
+    "lastChecked": "2026-09-18T04:52:48.849Z"
   },
   "soccer/global.finalissima": {
     "sport": "soccer",
@@ -1029,15 +1029,15 @@
     "name": "CONMEBOL-UEFA Cup of Champions",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.963Z"
+    "lastChecked": "2026-09-18T04:52:48.977Z"
   },
   "soccer/global.u20.intercontinental_cup": {
     "sport": "soccer",
     "slug": "global.u20.intercontinental_cup",
     "name": "CONMEBOL-UEFA U20 Intercontinental Cup",
-    "status": "DORMANT",
-    "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.922Z"
+    "status": "ACTIVE",
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:48.819Z"
   },
   "soccer/global.w.finalissima": {
     "sport": "soccer",
@@ -1045,7 +1045,7 @@
     "name": "CONMEBOL-UEFA Women's Cup of Champions",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.923Z"
+    "lastChecked": "2026-09-18T04:52:48.849Z"
   },
   "soccer/fifa.world.u20": {
     "sport": "soccer",
@@ -1053,7 +1053,7 @@
     "name": "FIFA Under-20 World Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.955Z"
+    "lastChecked": "2026-09-18T04:52:48.871Z"
   },
   "soccer/conmebol.america": {
     "sport": "soccer",
@@ -1061,7 +1061,7 @@
     "name": "Copa América",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:33.921Z"
+    "lastChecked": "2026-09-18T04:52:48.876Z"
   },
   "soccer/conmebol.america.femenina": {
     "sport": "soccer",
@@ -1069,7 +1069,7 @@
     "name": "Copa América Femenina",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.060Z"
+    "lastChecked": "2026-09-18T04:52:48.886Z"
   },
   "soccer/afc.asian.cup": {
     "sport": "soccer",
@@ -1077,7 +1077,7 @@
     "name": "AFC Asian Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.091Z"
+    "lastChecked": "2026-09-18T04:52:48.896Z"
   },
   "soccer/afc.w.asian.cup": {
     "sport": "soccer",
@@ -1085,7 +1085,7 @@
     "name": "AFC Women's Asian Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.119Z"
+    "lastChecked": "2026-09-18T04:52:48.931Z"
   },
   "soccer/afc.cupq": {
     "sport": "soccer",
@@ -1093,7 +1093,7 @@
     "name": "AFC Asian Cup Qualifiers",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.087Z"
+    "lastChecked": "2026-09-18T04:52:48.913Z"
   },
   "soccer/aff.championship": {
     "sport": "soccer",
@@ -1101,7 +1101,7 @@
     "name": "ASEAN Championship",
     "status": "DORMANT",
     "maxEventDate": "2026-08-08",
-    "lastChecked": "2026-09-17T21:29:34.080Z"
+    "lastChecked": "2026-09-18T04:52:48.928Z"
   },
   "soccer/caf.nations_qual": {
     "sport": "soccer",
@@ -1109,7 +1109,7 @@
     "name": "Africa Cup of Nations Qualifying",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.161Z"
+    "lastChecked": "2026-09-18T04:52:48.938Z"
   },
   "soccer/caf.w.nations": {
     "sport": "soccer",
@@ -1117,7 +1117,7 @@
     "name": "Women's Africa Cup of Nations",
     "status": "DORMANT",
     "maxEventDate": "2026-08-12",
-    "lastChecked": "2026-09-17T21:29:34.117Z"
+    "lastChecked": "2026-09-18T04:52:48.971Z"
   },
   "soccer/caf.championship": {
     "sport": "soccer",
@@ -1125,7 +1125,7 @@
     "name": "African Nations Championship",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.135Z"
+    "lastChecked": "2026-09-18T04:52:49.023Z"
   },
   "soccer/caf.championship_qual": {
     "sport": "soccer",
@@ -1133,23 +1133,23 @@
     "name": "African Nations Championship Qualifying",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.132Z"
+    "lastChecked": "2026-09-18T04:52:49.086Z"
   },
   "soccer/usa.usl.1": {
     "sport": "soccer",
     "slug": "usa.usl.1",
     "name": "USL Championship",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-17",
-    "lastChecked": "2026-09-17T21:29:34.062Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:48.993Z"
   },
   "soccer/usa.usl.l1": {
     "sport": "soccer",
     "slug": "usa.usl.l1",
     "name": "USL League One",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-17",
-    "lastChecked": "2026-09-17T21:29:34.153Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:48.972Z"
   },
   "soccer/usa.usl.l1.cup": {
     "sport": "soccer",
@@ -1157,23 +1157,23 @@
     "name": "USL Cup",
     "status": "DORMANT",
     "maxEventDate": "2026-08-13",
-    "lastChecked": "2026-09-17T21:29:34.206Z"
+    "lastChecked": "2026-09-18T04:52:49.014Z"
   },
   "soccer/mex.2": {
     "sport": "soccer",
     "slug": "mex.2",
     "name": "Mexican Liga de Expansión MX",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-19",
-    "lastChecked": "2026-09-17T21:29:34.205Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:48.995Z"
   },
   "soccer/can.w.nsl": {
     "sport": "soccer",
     "slug": "can.w.nsl",
     "name": "Northern Super League",
-    "status": "DORMANT",
-    "maxEventDate": "2026-09-13",
-    "lastChecked": "2026-09-17T21:29:34.274Z"
+    "status": "ACTIVE",
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.011Z"
   },
   "soccer/uefa.champions_qual": {
     "sport": "soccer",
@@ -1181,7 +1181,7 @@
     "name": "UEFA Champions League Qualifying",
     "status": "DORMANT",
     "maxEventDate": "2026-08-11",
-    "lastChecked": "2026-09-17T21:29:34.191Z"
+    "lastChecked": "2026-09-18T04:52:49.018Z"
   },
   "soccer/uefa.europa_qual": {
     "sport": "soccer",
@@ -1189,7 +1189,7 @@
     "name": "UEFA Europa League Qualifying",
     "status": "DORMANT",
     "maxEventDate": "2026-08-11",
-    "lastChecked": "2026-09-17T21:29:34.183Z"
+    "lastChecked": "2026-09-18T04:52:49.020Z"
   },
   "soccer/uefa.europa.conf_qual": {
     "sport": "soccer",
@@ -1197,7 +1197,7 @@
     "name": "UEFA Conference League Qualifying",
     "status": "DORMANT",
     "maxEventDate": "2026-08-12",
-    "lastChecked": "2026-09-17T21:29:34.260Z"
+    "lastChecked": "2026-09-18T04:52:49.033Z"
   },
   "soccer/uefa.w.europa": {
     "sport": "soccer",
@@ -1205,7 +1205,7 @@
     "name": "UEFA Women's Europa Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.280Z"
+    "lastChecked": "2026-09-18T04:52:49.094Z"
   },
   "soccer/uefa.super_cup": {
     "sport": "soccer",
@@ -1213,15 +1213,15 @@
     "name": "UEFA Super Cup",
     "status": "DORMANT",
     "maxEventDate": "2026-08-12",
-    "lastChecked": "2026-09-17T21:29:34.270Z"
+    "lastChecked": "2026-09-18T04:52:49.086Z"
   },
   "soccer/fifa.intercontinental_cup": {
     "sport": "soccer",
     "slug": "fifa.intercontinental_cup",
     "name": "FIFA Intercontinental Cup",
-    "status": "DORMANT",
-    "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.297Z"
+    "status": "ACTIVE",
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.121Z"
   },
   "soccer/nonfifa": {
     "sport": "soccer",
@@ -1229,7 +1229,7 @@
     "name": "Non-FIFA Friendly",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.409Z"
+    "lastChecked": "2026-09-18T04:52:49.145Z"
   },
   "soccer/rus.1": {
     "sport": "soccer",
@@ -1237,7 +1237,7 @@
     "name": "Russian Premier League",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-17",
-    "lastChecked": "2026-09-17T21:29:34.292Z"
+    "lastChecked": "2026-09-18T04:52:49.096Z"
   },
   "soccer/rus.1.promotion.relegation": {
     "sport": "soccer",
@@ -1245,15 +1245,15 @@
     "name": "Russian Premier League Relegation/Promotion Playoffs",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.392Z"
+    "lastChecked": "2026-09-18T04:52:49.110Z"
   },
   "soccer/bel.1": {
     "sport": "soccer",
     "slug": "bel.1",
     "name": "Belgian Pro League",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:34.263Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.176Z"
   },
   "soccer/bel.promotion.relegation": {
     "sport": "soccer",
@@ -1261,31 +1261,31 @@
     "name": "Belgian Pro League Promotion/Relegation Playoffs",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.342Z"
+    "lastChecked": "2026-09-18T04:52:49.112Z"
   },
   "soccer/esp.2": {
     "sport": "soccer",
     "slug": "esp.2",
     "name": "Spanish LALIGA 2",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:34.307Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.104Z"
   },
   "soccer/ger.2": {
     "sport": "soccer",
     "slug": "ger.2",
     "name": "German 2. Bundesliga",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:34.316Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.158Z"
   },
   "soccer/ita.2": {
     "sport": "soccer",
     "slug": "ita.2",
     "name": "Italian Serie B",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:34.345Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.205Z"
   },
   "soccer/fra.1.promotion.relegation": {
     "sport": "soccer",
@@ -1293,15 +1293,15 @@
     "name": "French Ligue 1 Promotion/Relegation Playoffs",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.435Z"
+    "lastChecked": "2026-09-18T04:52:49.195Z"
   },
   "soccer/fra.2": {
     "sport": "soccer",
     "slug": "fra.2",
     "name": "French Ligue 2",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:34.335Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.178Z"
   },
   "soccer/por.1.promotion.relegation": {
     "sport": "soccer",
@@ -1309,23 +1309,23 @@
     "name": "Portuguese Primeira Liga Promotion/Relegation Playoffs",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.426Z"
+    "lastChecked": "2026-09-18T04:52:49.201Z"
   },
   "soccer/aut.1": {
     "sport": "soccer",
     "slug": "aut.1",
     "name": "Austrian Bundesliga",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:34.387Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.223Z"
   },
   "soccer/gre.1": {
     "sport": "soccer",
     "slug": "gre.1",
     "name": "Greek Super League",
-    "status": "DORMANT",
-    "maxEventDate": "2026-09-13",
-    "lastChecked": "2026-09-17T21:29:34.362Z"
+    "status": "ACTIVE",
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.171Z"
   },
   "soccer/chn.1": {
     "sport": "soccer",
@@ -1333,7 +1333,7 @@
     "name": "Chinese Super League",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:34.410Z"
+    "lastChecked": "2026-09-18T04:52:49.202Z"
   },
   "soccer/global.club_challenge": {
     "sport": "soccer",
@@ -1341,7 +1341,7 @@
     "name": "CONMEBOL-UEFA Club Challenge",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.549Z"
+    "lastChecked": "2026-09-18T04:52:49.206Z"
   },
   "soccer/ned.supercup": {
     "sport": "soccer",
@@ -1349,15 +1349,15 @@
     "name": "Dutch Johan Cruyff Shield",
     "status": "DORMANT",
     "maxEventDate": "2026-08-02",
-    "lastChecked": "2026-09-17T21:29:34.455Z"
+    "lastChecked": "2026-09-18T04:52:49.241Z"
   },
   "soccer/club.friendly": {
     "sport": "soccer",
     "slug": "club.friendly",
     "name": "Club Friendly",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:34.481Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.250Z"
   },
   "soccer/global.pinatar_cup": {
     "sport": "soccer",
@@ -1365,7 +1365,7 @@
     "name": "Pinatar Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.526Z"
+    "lastChecked": "2026-09-18T04:52:49.253Z"
   },
   "soccer/friendly.emirates_cup": {
     "sport": "soccer",
@@ -1373,7 +1373,7 @@
     "name": "Emirates Cup",
     "status": "DORMANT",
     "maxEventDate": "2026-08-09",
-    "lastChecked": "2026-09-17T21:29:34.554Z"
+    "lastChecked": "2026-09-18T04:52:49.292Z"
   },
   "soccer/esp.joan_gamper": {
     "sport": "soccer",
@@ -1381,7 +1381,7 @@
     "name": "Trofeo Joan Gamper",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.502Z"
+    "lastChecked": "2026-09-18T04:52:49.418Z"
   },
   "soccer/jpn.world_challenge": {
     "sport": "soccer",
@@ -1389,7 +1389,7 @@
     "name": "Japanese J.League World Challenge",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.826Z"
+    "lastChecked": "2026-09-18T04:52:49.268Z"
   },
   "soccer/euroamericana.supercopa": {
     "sport": "soccer",
@@ -1397,7 +1397,7 @@
     "name": "SuperCopa Euroamericana",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.643Z"
+    "lastChecked": "2026-09-18T04:52:49.290Z"
   },
   "soccer/global.arnold.clark_cup": {
     "sport": "soccer",
@@ -1405,7 +1405,7 @@
     "name": "Arnold Clark Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.676Z"
+    "lastChecked": "2026-09-18T04:52:49.307Z"
   },
   "soccer/fifa.conmebol.olympicsq": {
     "sport": "soccer",
@@ -1413,7 +1413,7 @@
     "name": "CONMEBOL Pre-Olympic Tournament",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.577Z"
+    "lastChecked": "2026-09-18T04:52:49.294Z"
   },
   "soccer/fifa.concacaf.olympicsq": {
     "sport": "soccer",
@@ -1421,7 +1421,7 @@
     "name": "Men's Olympic Qualifying Playoff",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.628Z"
+    "lastChecked": "2026-09-18T04:52:49.343Z"
   },
   "soccer/fifa.w.concacaf.olympicsq": {
     "sport": "soccer",
@@ -1429,7 +1429,7 @@
     "name": "Concacaf Women's Olympic Qualifying",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.587Z"
+    "lastChecked": "2026-09-18T04:52:49.298Z"
   },
   "soccer/fifa.world.u17": {
     "sport": "soccer",
@@ -1437,7 +1437,7 @@
     "name": "FIFA Under-17 World Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.625Z"
+    "lastChecked": "2026-09-18T04:52:49.325Z"
   },
   "soccer/fifa.wworld.u17": {
     "sport": "soccer",
@@ -1445,7 +1445,7 @@
     "name": "FIFA Under-17 Women's World Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.664Z"
+    "lastChecked": "2026-09-18T04:52:49.365Z"
   },
   "soccer/uefa.euro_u21_qual": {
     "sport": "soccer",
@@ -1453,7 +1453,7 @@
     "name": "UEFA European Under-21 Championship Qualifying",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.800Z"
+    "lastChecked": "2026-09-18T04:52:49.357Z"
   },
   "soccer/uefa.euro.u19": {
     "sport": "soccer",
@@ -1461,7 +1461,7 @@
     "name": "UEFA European Under-19 Championship",
     "status": "DORMANT",
     "maxEventDate": "2026-07-11",
-    "lastChecked": "2026-09-17T21:29:34.812Z"
+    "lastChecked": "2026-09-18T04:52:49.381Z"
   },
   "soccer/global.toulon": {
     "sport": "soccer",
@@ -1469,7 +1469,7 @@
     "name": "Maurice Revello Tournament",
     "status": "DORMANT",
     "maxEventDate": "2026-06-13",
-    "lastChecked": "2026-09-17T21:29:34.707Z"
+    "lastChecked": "2026-09-18T04:52:49.378Z"
   },
   "soccer/fifa.friendly_u21": {
     "sport": "soccer",
@@ -1477,7 +1477,7 @@
     "name": "Under-21 International Friendly",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.737Z"
+    "lastChecked": "2026-09-18T04:52:49.384Z"
   },
   "soccer/ger.2.promotion.relegation": {
     "sport": "soccer",
@@ -1485,7 +1485,7 @@
     "name": "German Bundesliga 2. Promotion/Relegation Playoffs",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.778Z"
+    "lastChecked": "2026-09-18T04:52:49.437Z"
   },
   "soccer/eng.trophy": {
     "sport": "soccer",
@@ -1493,31 +1493,31 @@
     "name": "English EFL Trophy",
     "status": "DORMANT",
     "maxEventDate": "2026-09-15",
-    "lastChecked": "2026-09-17T21:29:34.793Z"
+    "lastChecked": "2026-09-18T04:52:49.397Z"
   },
   "soccer/eng.3": {
     "sport": "soccer",
     "slug": "eng.3",
     "name": "English League One",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-17",
-    "lastChecked": "2026-09-17T21:29:34.693Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.383Z"
   },
   "soccer/eng.4": {
     "sport": "soccer",
     "slug": "eng.4",
     "name": "English League Two",
-    "status": "DORMANT",
-    "maxEventDate": "2026-09-12",
-    "lastChecked": "2026-09-17T21:29:34.753Z"
+    "status": "ACTIVE",
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.387Z"
   },
   "soccer/eng.5": {
     "sport": "soccer",
     "slug": "eng.5",
     "name": "English National League",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:34.742Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.415Z"
   },
   "soccer/sco.1.promotion.relegation": {
     "sport": "soccer",
@@ -1525,15 +1525,15 @@
     "name": "Scottish Premiership Promotion/Relegation Playoffs",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.820Z"
+    "lastChecked": "2026-09-18T04:52:49.456Z"
   },
   "soccer/sco.2": {
     "sport": "soccer",
     "slug": "sco.2",
     "name": "Scottish Championship",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:34.766Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.451Z"
   },
   "soccer/sco.2.promotion.relegation": {
     "sport": "soccer",
@@ -1541,7 +1541,7 @@
     "name": "Scottish Championship Promotion/Relegation Playoffs",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.834Z"
+    "lastChecked": "2026-09-18T04:52:49.497Z"
   },
   "soccer/sco.challenge": {
     "sport": "soccer",
@@ -1549,7 +1549,7 @@
     "name": "Scottish League Challenge Cup",
     "status": "DORMANT",
     "maxEventDate": "2026-09-15",
-    "lastChecked": "2026-09-17T21:29:34.876Z"
+    "lastChecked": "2026-09-18T04:52:49.482Z"
   },
   "soccer/ned.w.eredivisie_cup": {
     "sport": "soccer",
@@ -1557,7 +1557,7 @@
     "name": "Dutch Eredivisie Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.931Z"
+    "lastChecked": "2026-09-18T04:52:49.493Z"
   },
   "soccer/ned.playoff.relegation": {
     "sport": "soccer",
@@ -1565,15 +1565,15 @@
     "name": "Dutch Eredivisie Promotion/Relegation Playoffs",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.604Z"
+    "lastChecked": "2026-09-18T04:52:49.498Z"
   },
   "soccer/ned.2": {
     "sport": "soccer",
     "slug": "ned.2",
     "name": "Dutch Keuken Kampioen Divisie",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:34.890Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.515Z"
   },
   "soccer/ned.3": {
     "sport": "soccer",
@@ -1581,7 +1581,7 @@
     "name": "Dutch Tweede Divisie",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.911Z"
+    "lastChecked": "2026-09-18T04:52:49.473Z"
   },
   "soccer/ned.3.promotion.relegation": {
     "sport": "soccer",
@@ -1589,31 +1589,31 @@
     "name": "Dutch Tweede Divisie Promotion/Relegation Playoffs",
     "status": "DORMANT",
     "maxEventDate": "2026-06-13",
-    "lastChecked": "2026-09-17T21:29:35.117Z"
+    "lastChecked": "2026-09-18T04:52:49.491Z"
   },
   "soccer/ned.w.knvb_cup": {
     "sport": "soccer",
     "slug": "ned.w.knvb_cup",
     "name": "Dutch KNVB Beker Vrouwen",
-    "status": "ACTIVE",
+    "status": "DORMANT",
     "maxEventDate": "2026-09-16",
-    "lastChecked": "2026-09-17T21:29:34.947Z"
+    "lastChecked": "2026-09-18T04:52:49.510Z"
   },
   "soccer/ned.w.1": {
     "sport": "soccer",
     "slug": "ned.w.1",
     "name": "Dutch Vrouwen Eredivisie",
-    "status": "DORMANT",
-    "maxEventDate": "2026-09-13",
-    "lastChecked": "2026-09-17T21:29:34.899Z"
+    "status": "ACTIVE",
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.514Z"
   },
   "soccer/swe.1": {
     "sport": "soccer",
     "slug": "swe.1",
     "name": "Swedish Allsvenskan",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-16",
-    "lastChecked": "2026-09-17T21:29:34.949Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.535Z"
   },
   "soccer/swe.1.promotion.relegation": {
     "sport": "soccer",
@@ -1621,15 +1621,15 @@
     "name": "Swedish Allsvenskan Promotion/Relegation Playoffs",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.996Z"
+    "lastChecked": "2026-09-18T04:52:49.542Z"
   },
   "soccer/den.1": {
     "sport": "soccer",
     "slug": "den.1",
     "name": "Danish Superliga",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:34.963Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.549Z"
   },
   "soccer/nor.1.promotion.relegation": {
     "sport": "soccer",
@@ -1637,15 +1637,15 @@
     "name": "Norwegian Eliteserien Promotion/Relegation Playoffs",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:34.989Z"
+    "lastChecked": "2026-09-18T04:52:49.576Z"
   },
   "soccer/nor.1": {
     "sport": "soccer",
     "slug": "nor.1",
     "name": "Norwegian Eliteserien",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:34.995Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.651Z"
   },
   "soccer/cyp.1": {
     "sport": "soccer",
@@ -1653,7 +1653,7 @@
     "name": "Cypriot First Division",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.068Z"
+    "lastChecked": "2026-09-18T04:52:49.599Z"
   },
   "soccer/irl.1": {
     "sport": "soccer",
@@ -1661,7 +1661,7 @@
     "name": "Irish Premier Division",
     "status": "DORMANT",
     "maxEventDate": "2026-07-11",
-    "lastChecked": "2026-09-17T21:29:35.078Z"
+    "lastChecked": "2026-09-18T04:52:49.614Z"
   },
   "soccer/conmebol.sudamericana": {
     "sport": "soccer",
@@ -1669,7 +1669,7 @@
     "name": "CONMEBOL Sudamericana",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:35.079Z"
+    "lastChecked": "2026-09-18T04:52:49.613Z"
   },
   "soccer/conmebol.recopa": {
     "sport": "soccer",
@@ -1677,23 +1677,23 @@
     "name": "CONMEBOL Recopa",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.102Z"
+    "lastChecked": "2026-09-18T04:52:49.613Z"
   },
   "soccer/arg.1": {
     "sport": "soccer",
     "slug": "arg.1",
     "name": "Argentine Liga Profesional de Fútbol",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-19",
-    "lastChecked": "2026-09-17T21:29:35.029Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:49.585Z"
   },
   "soccer/arg.copa": {
     "sport": "soccer",
     "slug": "arg.copa",
     "name": "Copa Argentina",
-    "status": "ACTIVE",
+    "status": "DORMANT",
     "maxEventDate": "2026-09-16",
-    "lastChecked": "2026-09-17T21:29:35.092Z"
+    "lastChecked": "2026-09-18T04:52:49.610Z"
   },
   "soccer/arg.copa_de_la_superliga": {
     "sport": "soccer",
@@ -1701,7 +1701,7 @@
     "name": "Argentine Copa de la Superliga",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.130Z"
+    "lastChecked": "2026-09-18T04:52:49.625Z"
   },
   "soccer/arg.trofeo_de_la_campeones": {
     "sport": "soccer",
@@ -1709,15 +1709,15 @@
     "name": "Argentine Trofeo de Campeones",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.134Z"
+    "lastChecked": "2026-09-18T04:52:49.681Z"
   },
   "soccer/arg.2": {
     "sport": "soccer",
     "slug": "arg.2",
     "name": "Argentine Nacional B",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-16",
-    "lastChecked": "2026-09-17T21:29:35.067Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.641Z"
   },
   "soccer/arg.supercopa": {
     "sport": "soccer",
@@ -1725,7 +1725,7 @@
     "name": "Argentine Supercopa",
     "status": "DORMANT",
     "maxEventDate": "2026-07-21",
-    "lastChecked": "2026-09-17T21:29:35.124Z"
+    "lastChecked": "2026-09-18T04:52:49.702Z"
   },
   "soccer/arg.supercopa.internacional": {
     "sport": "soccer",
@@ -1733,15 +1733,15 @@
     "name": "Argentine Supercopa Internacional",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.281Z"
+    "lastChecked": "2026-09-18T04:52:49.708Z"
   },
   "soccer/arg.3": {
     "sport": "soccer",
     "slug": "arg.3",
     "name": "Argentine Primera B",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:35.219Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.693Z"
   },
   "soccer/arg.4": {
     "sport": "soccer",
@@ -1749,7 +1749,7 @@
     "name": "Argentine Primera C",
     "status": "DORMANT",
     "maxEventDate": "2026-07-11",
-    "lastChecked": "2026-09-17T21:29:35.257Z"
+    "lastChecked": "2026-09-18T04:52:49.694Z"
   },
   "soccer/bra.supercopa_do_brazil": {
     "sport": "soccer",
@@ -1757,15 +1757,15 @@
     "name": "Brazilian Supercopa Rei",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.234Z"
+    "lastChecked": "2026-09-18T04:52:49.691Z"
   },
   "soccer/bra.1": {
     "sport": "soccer",
     "slug": "bra.1",
     "name": "Brazilian Serie A",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-16",
-    "lastChecked": "2026-09-17T21:29:35.205Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:49.692Z"
   },
   "soccer/bra.2": {
     "sport": "soccer",
@@ -1773,7 +1773,7 @@
     "name": "Brazilian Serie B",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-19",
-    "lastChecked": "2026-09-17T21:29:35.273Z"
+    "lastChecked": "2026-09-18T04:52:49.758Z"
   },
   "soccer/bra.3": {
     "sport": "soccer",
@@ -1781,7 +1781,7 @@
     "name": "Brazilian Serie C",
     "status": "DORMANT",
     "maxEventDate": "2026-07-11",
-    "lastChecked": "2026-09-17T21:29:35.247Z"
+    "lastChecked": "2026-09-18T04:52:49.734Z"
   },
   "soccer/bra.copa_do_brazil": {
     "sport": "soccer",
@@ -1789,7 +1789,7 @@
     "name": "Copa do Brasil",
     "status": "DORMANT",
     "maxEventDate": "2026-08-06",
-    "lastChecked": "2026-09-17T21:29:35.250Z"
+    "lastChecked": "2026-09-18T04:52:49.710Z"
   },
   "soccer/bra.copa_do_nordeste": {
     "sport": "soccer",
@@ -1797,7 +1797,7 @@
     "name": "Copa do Nordeste",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.611Z"
+    "lastChecked": "2026-09-18T04:52:49.740Z"
   },
   "soccer/bra.camp.carioca": {
     "sport": "soccer",
@@ -1805,7 +1805,7 @@
     "name": "Brazilian Campeonato Carioca",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.318Z"
+    "lastChecked": "2026-09-18T04:52:49.747Z"
   },
   "soccer/bra.camp.paulista": {
     "sport": "soccer",
@@ -1813,7 +1813,7 @@
     "name": "Brazilian Campeonato Paulista",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.283Z"
+    "lastChecked": "2026-09-18T04:52:49.801Z"
   },
   "soccer/bra.camp.gaucho": {
     "sport": "soccer",
@@ -1821,7 +1821,7 @@
     "name": "Brazilian Campeonato Gaucho",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.384Z"
+    "lastChecked": "2026-09-18T04:52:49.808Z"
   },
   "soccer/bra.camp.mineiro": {
     "sport": "soccer",
@@ -1829,7 +1829,7 @@
     "name": "Brazilian Campeonato Mineiro",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.386Z"
+    "lastChecked": "2026-09-18T04:52:49.791Z"
   },
   "soccer/chi.super_cup": {
     "sport": "soccer",
@@ -1837,15 +1837,15 @@
     "name": "Chilean Supercopa",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.423Z"
+    "lastChecked": "2026-09-18T04:52:49.810Z"
   },
   "soccer/chi.1": {
     "sport": "soccer",
     "slug": "chi.1",
     "name": "Chilean Primera División",
-    "status": "ACTIVE",
+    "status": "DORMANT",
     "maxEventDate": "2026-09-16",
-    "lastChecked": "2026-09-17T21:29:35.324Z"
+    "lastChecked": "2026-09-18T04:52:49.806Z"
   },
   "soccer/chi.1.promotion.relegation": {
     "sport": "soccer",
@@ -1853,7 +1853,7 @@
     "name": "Chilean Primera División Promotion/Relegation Playoffs",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.426Z"
+    "lastChecked": "2026-09-18T04:52:49.810Z"
   },
   "soccer/chi.copa_chi": {
     "sport": "soccer",
@@ -1861,7 +1861,7 @@
     "name": "Copa Chile",
     "status": "DORMANT",
     "maxEventDate": "2026-08-06",
-    "lastChecked": "2026-09-17T21:29:35.424Z"
+    "lastChecked": "2026-09-18T04:52:49.799Z"
   },
   "soccer/chi.2": {
     "sport": "soccer",
@@ -1869,15 +1869,15 @@
     "name": "Segunda División de Chile",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.516Z"
+    "lastChecked": "2026-09-18T04:52:49.811Z"
   },
   "soccer/uru.1": {
     "sport": "soccer",
     "slug": "uru.1",
     "name": "Liga AUF Uruguaya",
-    "status": "DORMANT",
-    "maxEventDate": "2026-09-14",
-    "lastChecked": "2026-09-17T21:29:35.320Z"
+    "status": "ACTIVE",
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.842Z"
   },
   "soccer/uru.2": {
     "sport": "soccer",
@@ -1885,7 +1885,7 @@
     "name": "Segunda División de Uruguay",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.450Z"
+    "lastChecked": "2026-09-18T04:52:49.824Z"
   },
   "soccer/col.superliga": {
     "sport": "soccer",
@@ -1893,15 +1893,15 @@
     "name": "Colombian Superliga",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.479Z"
+    "lastChecked": "2026-09-18T04:52:49.839Z"
   },
   "soccer/col.1": {
     "sport": "soccer",
     "slug": "col.1",
     "name": "Colombian Primera A",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:35.454Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:49.889Z"
   },
   "soccer/col.copa": {
     "sport": "soccer",
@@ -1909,7 +1909,7 @@
     "name": "Copa Colombia",
     "status": "DORMANT",
     "maxEventDate": "2026-08-13",
-    "lastChecked": "2026-09-17T21:29:35.474Z"
+    "lastChecked": "2026-09-18T04:52:49.871Z"
   },
   "soccer/col.2": {
     "sport": "soccer",
@@ -1917,23 +1917,23 @@
     "name": "Colombian Primera B",
     "status": "DORMANT",
     "maxEventDate": "2026-07-25",
-    "lastChecked": "2026-09-17T21:29:35.563Z"
+    "lastChecked": "2026-09-18T04:52:49.900Z"
   },
   "soccer/per.1": {
     "sport": "soccer",
     "slug": "per.1",
     "name": "Peruvian Liga 1",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-19",
-    "lastChecked": "2026-09-17T21:29:35.492Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:49.895Z"
   },
   "soccer/par.1": {
     "sport": "soccer",
     "slug": "par.1",
     "name": "Paraguayan Primera División",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:35.491Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.939Z"
   },
   "soccer/par.1.supercopa": {
     "sport": "soccer",
@@ -1941,23 +1941,23 @@
     "name": "Paraguayan Supercopa",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.582Z"
+    "lastChecked": "2026-09-18T04:52:49.959Z"
   },
   "soccer/ecu.1": {
     "sport": "soccer",
     "slug": "ecu.1",
     "name": "LigaPro Ecuador",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-19",
-    "lastChecked": "2026-09-17T21:29:35.554Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:49.892Z"
   },
   "soccer/ven.1": {
     "sport": "soccer",
     "slug": "ven.1",
     "name": "Venezuelan Primera División",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-16",
-    "lastChecked": "2026-09-17T21:29:35.551Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.964Z"
   },
   "soccer/bol.ply.rel": {
     "sport": "soccer",
@@ -1965,15 +1965,15 @@
     "name": "Bolivian Liga Profesional Promotion/Relegation Playoffs",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.598Z"
+    "lastChecked": "2026-09-18T04:52:49.934Z"
   },
   "soccer/bol.copa": {
     "sport": "soccer",
     "slug": "bol.copa",
     "name": "Copa Bolivia",
-    "status": "DORMANT",
-    "maxEventDate": "2026-09-11",
-    "lastChecked": "2026-09-17T21:29:35.644Z"
+    "status": "ACTIVE",
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:50.010Z"
   },
   "soccer/bol.1": {
     "sport": "soccer",
@@ -1981,15 +1981,15 @@
     "name": "Bolivian Liga Profesional",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:35.622Z"
+    "lastChecked": "2026-09-18T04:52:49.955Z"
   },
   "soccer/jpn.1": {
     "sport": "soccer",
     "slug": "jpn.1",
     "name": "Japanese J.League",
-    "status": "DORMANT",
-    "maxEventDate": "2026-09-13",
-    "lastChecked": "2026-09-17T21:29:35.548Z"
+    "status": "ACTIVE",
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:49.917Z"
   },
   "soccer/mex.campeon": {
     "sport": "soccer",
@@ -1997,7 +1997,7 @@
     "name": "Mexican Campeon de Campeones",
     "status": "DORMANT",
     "maxEventDate": "2026-07-26",
-    "lastChecked": "2026-09-17T21:29:35.660Z"
+    "lastChecked": "2026-09-18T04:52:49.983Z"
   },
   "soccer/concacaf.central.american.cup": {
     "sport": "soccer",
@@ -2005,7 +2005,7 @@
     "name": "Concacaf Central American Cup",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:35.670Z"
+    "lastChecked": "2026-09-18T04:52:50.031Z"
   },
   "soccer/concacaf.champions_cup": {
     "sport": "soccer",
@@ -2013,7 +2013,7 @@
     "name": "CONCACAF Champions Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.702Z"
+    "lastChecked": "2026-09-18T04:52:49.976Z"
   },
   "soccer/concacaf.u23": {
     "sport": "soccer",
@@ -2021,23 +2021,23 @@
     "name": "CONCACAF U23 Tournament",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.746Z"
+    "lastChecked": "2026-09-18T04:52:49.986Z"
   },
   "soccer/hon.1": {
     "sport": "soccer",
     "slug": "hon.1",
     "name": "Honduran Liga Nacional",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-19",
-    "lastChecked": "2026-09-17T21:29:35.705Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:50.013Z"
   },
   "soccer/crc.1": {
     "sport": "soccer",
     "slug": "crc.1",
     "name": "Costa Rican Primera Division",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-19",
-    "lastChecked": "2026-09-17T21:29:35.676Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:49.995Z"
   },
   "soccer/gua.1": {
     "sport": "soccer",
@@ -2045,7 +2045,7 @@
     "name": "Guatemalan Liga Nacional",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-19",
-    "lastChecked": "2026-09-17T21:29:35.743Z"
+    "lastChecked": "2026-09-18T04:52:50.032Z"
   },
   "soccer/slv.1": {
     "sport": "soccer",
@@ -2053,7 +2053,7 @@
     "name": "Salvadoran Primera Division",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-19",
-    "lastChecked": "2026-09-17T21:29:35.727Z"
+    "lastChecked": "2026-09-18T04:52:50.043Z"
   },
   "soccer/fifa.intercontinental.cup": {
     "sport": "soccer",
@@ -2061,7 +2061,7 @@
     "name": "Intercontinental Cup (India)",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.738Z"
+    "lastChecked": "2026-09-18T04:52:50.051Z"
   },
   "soccer/afc.saff.championship": {
     "sport": "soccer",
@@ -2069,7 +2069,7 @@
     "name": "SAFF Championship",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.746Z"
+    "lastChecked": "2026-09-18T04:52:50.070Z"
   },
   "soccer/chn.1.promotion.relegation": {
     "sport": "soccer",
@@ -2077,7 +2077,7 @@
     "name": "Chinese Super League Promotion/Relegation Playoffs",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.799Z"
+    "lastChecked": "2026-09-18T04:52:50.076Z"
   },
   "soccer/ind.1": {
     "sport": "soccer",
@@ -2085,7 +2085,7 @@
     "name": "Indian Super League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.775Z"
+    "lastChecked": "2026-09-18T04:52:50.081Z"
   },
   "soccer/idn.1": {
     "sport": "soccer",
@@ -2093,7 +2093,7 @@
     "name": "Indonesian Super League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.784Z"
+    "lastChecked": "2026-09-18T04:52:50.093Z"
   },
   "soccer/ind.2": {
     "sport": "soccer",
@@ -2101,7 +2101,7 @@
     "name": "Indian I-League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.897Z"
+    "lastChecked": "2026-09-18T04:52:50.099Z"
   },
   "soccer/mys.1": {
     "sport": "soccer",
@@ -2109,7 +2109,7 @@
     "name": "Malaysian Super League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.809Z"
+    "lastChecked": "2026-09-18T04:52:50.072Z"
   },
   "soccer/sgp.1": {
     "sport": "soccer",
@@ -2117,7 +2117,7 @@
     "name": "Singaporean Premier League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.833Z"
+    "lastChecked": "2026-09-18T04:52:50.108Z"
   },
   "soccer/global.gulf_cup": {
     "sport": "soccer",
@@ -2125,7 +2125,7 @@
     "name": "Arabian Gulf Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.866Z"
+    "lastChecked": "2026-09-18T04:52:50.101Z"
   },
   "soccer/tha.1": {
     "sport": "soccer",
@@ -2133,7 +2133,7 @@
     "name": "Thai League 1",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.883Z"
+    "lastChecked": "2026-09-18T04:52:50.190Z"
   },
   "soccer/bangabandhu.cup": {
     "sport": "soccer",
@@ -2141,7 +2141,7 @@
     "name": "Bangabandhu Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.895Z"
+    "lastChecked": "2026-09-18T04:52:50.177Z"
   },
   "soccer/caf.cosafa": {
     "sport": "soccer",
@@ -2149,7 +2149,7 @@
     "name": "COSAFA Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.916Z"
+    "lastChecked": "2026-09-18T04:52:50.141Z"
   },
   "soccer/caf.champions": {
     "sport": "soccer",
@@ -2157,7 +2157,7 @@
     "name": "CAF Champions League",
     "status": "DORMANT",
     "maxEventDate": "2026-09-13",
-    "lastChecked": "2026-09-17T21:29:35.960Z"
+    "lastChecked": "2026-09-18T04:52:50.137Z"
   },
   "soccer/rsa.1.promotion.relegation": {
     "sport": "soccer",
@@ -2165,23 +2165,23 @@
     "name": "South African Premiership Promotion/Relegation Playoffs",
     "status": "DORMANT",
     "maxEventDate": "2026-06-13",
-    "lastChecked": "2026-09-17T21:29:35.946Z"
+    "lastChecked": "2026-09-18T04:52:50.197Z"
   },
   "soccer/caf.confed": {
     "sport": "soccer",
     "slug": "caf.confed",
     "name": "CAF Confederation Cup",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-16",
-    "lastChecked": "2026-09-17T21:29:35.947Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:50.165Z"
   },
   "soccer/rsa.1": {
     "sport": "soccer",
     "slug": "rsa.1",
     "name": "South African Premiership",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-17",
-    "lastChecked": "2026-09-17T21:29:35.931Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:50.194Z"
   },
   "soccer/rsa.2": {
     "sport": "soccer",
@@ -2189,7 +2189,7 @@
     "name": "South African First Division",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.993Z"
+    "lastChecked": "2026-09-18T04:52:50.190Z"
   },
   "soccer/rsa.mtn8": {
     "sport": "soccer",
@@ -2197,7 +2197,7 @@
     "name": "South African MTN 8 Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.108Z"
+    "lastChecked": "2026-09-18T04:52:50.179Z"
   },
   "soccer/nga.1": {
     "sport": "soccer",
@@ -2205,7 +2205,7 @@
     "name": "Nigerian Professional League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:35.994Z"
+    "lastChecked": "2026-09-18T04:52:50.233Z"
   },
   "soccer/gha.1": {
     "sport": "soccer",
@@ -2213,7 +2213,7 @@
     "name": "Ghanaian Premier League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.009Z"
+    "lastChecked": "2026-09-18T04:52:50.201Z"
   },
   "soccer/uga.1": {
     "sport": "soccer",
@@ -2221,23 +2221,23 @@
     "name": "Ugandan Premier League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.048Z"
+    "lastChecked": "2026-09-18T04:52:50.183Z"
   },
   "soccer/usa.ncaa.m.1": {
     "sport": "soccer",
     "slug": "usa.ncaa.m.1",
     "name": "NCAA Men's Soccer",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-19",
-    "lastChecked": "2026-09-17T21:29:36.036Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:50.236Z"
   },
   "soccer/usa.ncaa.w.1": {
     "sport": "soccer",
     "slug": "usa.ncaa.w.1",
     "name": "NCAA Women's Soccer",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-19",
-    "lastChecked": "2026-09-17T21:29:36.053Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:50.245Z"
   },
   "soccer/ken.1": {
     "sport": "soccer",
@@ -2245,7 +2245,7 @@
     "name": "Kenyan Premier League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.054Z"
+    "lastChecked": "2026-09-18T04:52:50.248Z"
   },
   "soccer/afc.challenge_cup": {
     "sport": "soccer",
@@ -2253,7 +2253,7 @@
     "name": "AFC Challenge Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.164Z"
+    "lastChecked": "2026-09-18T04:52:50.267Z"
   },
   "soccer/ger.a.bayernliganorth": {
     "sport": "soccer",
@@ -2261,7 +2261,7 @@
     "name": "German Bayernliga North",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.163Z"
+    "lastChecked": "2026-09-18T04:52:50.269Z"
   },
   "soccer/bra.carioca.groupa": {
     "sport": "soccer",
@@ -2269,7 +2269,7 @@
     "name": "Group A",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.190Z"
+    "lastChecked": "2026-09-18T04:52:50.344Z"
   },
   "soccer/bra.carioca.groupb": {
     "sport": "soccer",
@@ -2277,7 +2277,7 @@
     "name": "Group B",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.198Z"
+    "lastChecked": "2026-09-18T04:52:50.326Z"
   },
   "soccer/copasulsudeste": {
     "sport": "soccer",
@@ -2285,7 +2285,7 @@
     "name": "Copa Sul-Sudeste",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.217Z"
+    "lastChecked": "2026-09-18T04:52:50.364Z"
   },
   "mma/absolute": {
     "sport": "mma",
@@ -2293,7 +2293,7 @@
     "name": "Absolute Championship Berkut",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.173Z"
+    "lastChecked": "2026-09-18T04:52:50.309Z"
   },
   "mma/affliction": {
     "sport": "mma",
@@ -2301,7 +2301,7 @@
     "name": "Affliction",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.187Z"
+    "lastChecked": "2026-09-18T04:52:50.298Z"
   },
   "mma/bang-fighting": {
     "sport": "mma",
@@ -2309,7 +2309,7 @@
     "name": "Bang Fighting Championships",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.228Z"
+    "lastChecked": "2026-09-18T04:52:50.319Z"
   },
   "mma/banni-fight": {
     "sport": "mma",
@@ -2317,7 +2317,7 @@
     "name": "Banni Fight Combat",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.244Z"
+    "lastChecked": "2026-09-18T04:52:50.382Z"
   },
   "mma/banzay": {
     "sport": "mma",
@@ -2325,7 +2325,7 @@
     "name": "Banzay Fight Championship",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.263Z"
+    "lastChecked": "2026-09-18T04:52:50.398Z"
   },
   "mma/barracao": {
     "sport": "mma",
@@ -2333,7 +2333,7 @@
     "name": "Barracao Fight Championship",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.260Z"
+    "lastChecked": "2026-09-18T04:52:50.347Z"
   },
   "mma/battlezone": {
     "sport": "mma",
@@ -2341,7 +2341,7 @@
     "name": "Battlezone Fighting Championships",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.265Z"
+    "lastChecked": "2026-09-18T04:52:50.339Z"
   },
   "mma/bellator": {
     "sport": "mma",
@@ -2349,7 +2349,7 @@
     "name": "Bellator Fighting Championship",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.340Z"
+    "lastChecked": "2026-09-18T04:52:50.362Z"
   },
   "mma/benevides": {
     "sport": "mma",
@@ -2357,7 +2357,7 @@
     "name": "Benevides Fight Championship",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.377Z"
+    "lastChecked": "2026-09-18T04:52:50.380Z"
   },
   "mma/big-fight": {
     "sport": "mma",
@@ -2365,7 +2365,7 @@
     "name": "Big Fight Champions",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.387Z"
+    "lastChecked": "2026-09-18T04:52:50.393Z"
   },
   "mma/blackout": {
     "sport": "mma",
@@ -2373,7 +2373,7 @@
     "name": "Blackout Fighting Championship",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.358Z"
+    "lastChecked": "2026-09-18T04:52:50.424Z"
   },
   "mma/bosnia": {
     "sport": "mma",
@@ -2381,7 +2381,7 @@
     "name": "Bosnia Fight Championship",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.412Z"
+    "lastChecked": "2026-09-18T04:52:50.409Z"
   },
   "mma/boxe": {
     "sport": "mma",
@@ -2389,7 +2389,7 @@
     "name": "Boxe Fight Combat",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.386Z"
+    "lastChecked": "2026-09-18T04:52:50.535Z"
   },
   "mma/brazilian-freestyle": {
     "sport": "mma",
@@ -2397,7 +2397,7 @@
     "name": "Brazilian Freestyle Circuit",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.399Z"
+    "lastChecked": "2026-09-18T04:52:50.448Z"
   },
   "mma/budo": {
     "sport": "mma",
@@ -2405,7 +2405,7 @@
     "name": "Budo Fighting Championships",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.420Z"
+    "lastChecked": "2026-09-18T04:52:50.446Z"
   },
   "mma/cage-warriors": {
     "sport": "mma",
@@ -2413,7 +2413,7 @@
     "name": "Cage Warriors Fighting Championship",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.469Z"
+    "lastChecked": "2026-09-18T04:52:50.445Z"
   },
   "mma/dream": {
     "sport": "mma",
@@ -2421,7 +2421,7 @@
     "name": "Dream",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.448Z"
+    "lastChecked": "2026-09-18T04:52:50.516Z"
   },
   "mma/fng": {
     "sport": "mma",
@@ -2429,7 +2429,7 @@
     "name": "Fight Nights Global",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.427Z"
+    "lastChecked": "2026-09-18T04:52:50.512Z"
   },
   "mma/ifc": {
     "sport": "mma",
@@ -2437,7 +2437,7 @@
     "name": "Invicta FC",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.453Z"
+    "lastChecked": "2026-09-18T04:52:50.476Z"
   },
   "mma/ifl": {
     "sport": "mma",
@@ -2445,7 +2445,7 @@
     "name": "International Fight League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.609Z"
+    "lastChecked": "2026-09-18T04:52:50.491Z"
   },
   "mma/k1": {
     "sport": "mma",
@@ -2453,7 +2453,7 @@
     "name": "K-1",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.541Z"
+    "lastChecked": "2026-09-18T04:52:50.531Z"
   },
   "mma/ksw": {
     "sport": "mma",
@@ -2461,7 +2461,7 @@
     "name": "Konfrontacja Sztuk Walki",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.542Z"
+    "lastChecked": "2026-09-18T04:52:50.493Z"
   },
   "mma/lfa": {
     "sport": "mma",
@@ -2469,7 +2469,7 @@
     "name": "Legacy Fighting Alliance",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.543Z"
+    "lastChecked": "2026-09-18T04:52:50.510Z"
   },
   "mma/lfc": {
     "sport": "mma",
@@ -2477,7 +2477,7 @@
     "name": "Legacy Fighting Championship",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.575Z"
+    "lastChecked": "2026-09-18T04:52:50.540Z"
   },
   "mma/m1": {
     "sport": "mma",
@@ -2485,7 +2485,7 @@
     "name": "M-1 Mix-Fight Championship",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.623Z"
+    "lastChecked": "2026-09-18T04:52:50.540Z"
   },
   "mma/mfc": {
     "sport": "mma",
@@ -2493,7 +2493,7 @@
     "name": "Maximum Fighting Championship",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.587Z"
+    "lastChecked": "2026-09-18T04:52:50.563Z"
   },
   "mma/mvp": {
     "sport": "mma",
@@ -2501,7 +2501,7 @@
     "name": "MVP",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.572Z"
+    "lastChecked": "2026-09-18T04:52:50.547Z"
   },
   "mma/ofc": {
     "sport": "mma",
@@ -2509,7 +2509,7 @@
     "name": "One Fighting Championship",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.591Z"
+    "lastChecked": "2026-09-18T04:52:50.584Z"
   },
   "mma/other": {
     "sport": "mma",
@@ -2517,7 +2517,7 @@
     "name": "Other",
     "status": "DORMANT",
     "maxEventDate": "2026-09-10",
-    "lastChecked": "2026-09-17T21:29:36.621Z"
+    "lastChecked": "2026-09-18T04:52:50.636Z"
   },
   "mma/pancrase": {
     "sport": "mma",
@@ -2525,7 +2525,7 @@
     "name": "Pancrase",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.639Z"
+    "lastChecked": "2026-09-18T04:52:50.594Z"
   },
   "mma/pfl": {
     "sport": "mma",
@@ -2533,7 +2533,7 @@
     "name": "Professional Fighters League",
     "status": "DORMANT",
     "maxEventDate": "2026-08-07",
-    "lastChecked": "2026-09-17T21:29:36.554Z"
+    "lastChecked": "2026-09-18T04:52:50.589Z"
   },
   "mma/pride": {
     "sport": "mma",
@@ -2541,7 +2541,7 @@
     "name": "PRIDE Fighting Championships",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.758Z"
+    "lastChecked": "2026-09-18T04:52:50.628Z"
   },
   "mma/proelite": {
     "sport": "mma",
@@ -2549,7 +2549,7 @@
     "name": "ProElite",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.731Z"
+    "lastChecked": "2026-09-18T04:52:50.632Z"
   },
   "mma/rfa": {
     "sport": "mma",
@@ -2557,7 +2557,7 @@
     "name": "Resurrection Fighting Alliance",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.737Z"
+    "lastChecked": "2026-09-18T04:52:50.667Z"
   },
   "mma/rizin": {
     "sport": "mma",
@@ -2565,7 +2565,7 @@
     "name": "Rizin Fight Federation",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.803Z"
+    "lastChecked": "2026-09-18T04:52:50.643Z"
   },
   "mma/roc": {
     "sport": "mma",
@@ -2573,7 +2573,7 @@
     "name": "Ring of Combat",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.773Z"
+    "lastChecked": "2026-09-18T04:52:50.629Z"
   },
   "mma/sfl": {
     "sport": "mma",
@@ -2581,7 +2581,7 @@
     "name": "Super Fight League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.759Z"
+    "lastChecked": "2026-09-18T04:52:50.632Z"
   },
   "mma/shark-fights": {
     "sport": "mma",
@@ -2589,7 +2589,7 @@
     "name": "Shark Fights",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.764Z"
+    "lastChecked": "2026-09-18T04:52:50.638Z"
   },
   "mma/shooto-brazil": {
     "sport": "mma",
@@ -2597,7 +2597,7 @@
     "name": "Shooto Brazil",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.822Z"
+    "lastChecked": "2026-09-18T04:52:50.675Z"
   },
   "mma/shooto-japan": {
     "sport": "mma",
@@ -2605,7 +2605,7 @@
     "name": "Shooto Japan",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.904Z"
+    "lastChecked": "2026-09-18T04:52:50.683Z"
   },
   "mma/shoxc": {
     "sport": "mma",
@@ -2613,7 +2613,7 @@
     "name": "ShoXC: Showtime Xtreme Combat",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.798Z"
+    "lastChecked": "2026-09-18T04:52:50.682Z"
   },
   "mma/strikeforce": {
     "sport": "mma",
@@ -2621,7 +2621,7 @@
     "name": "Strikeforce",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.895Z"
+    "lastChecked": "2026-09-18T04:52:50.701Z"
   },
   "mma/tfc": {
     "sport": "mma",
@@ -2629,7 +2629,7 @@
     "name": "Titan Fighting Championships",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.823Z"
+    "lastChecked": "2026-09-18T04:52:50.736Z"
   },
   "mma/tpf": {
     "sport": "mma",
@@ -2637,15 +2637,15 @@
     "name": "Tachi Palace Fights",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.962Z"
+    "lastChecked": "2026-09-18T04:52:50.726Z"
   },
   "mma/ufc": {
     "sport": "mma",
     "slug": "ufc",
     "name": "Ultimate Fighting Championship",
-    "status": "DORMANT",
-    "maxEventDate": "2026-09-15",
-    "lastChecked": "2026-09-17T21:29:36.781Z"
+    "status": "ACTIVE",
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:50.760Z"
   },
   "mma/vfc": {
     "sport": "mma",
@@ -2653,7 +2653,7 @@
     "name": "Victory Fighting Championship",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.973Z"
+    "lastChecked": "2026-09-18T04:52:50.735Z"
   },
   "mma/wec": {
     "sport": "mma",
@@ -2661,7 +2661,7 @@
     "name": "World Extreme Cagefighting",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.174Z"
+    "lastChecked": "2026-09-18T04:52:50.745Z"
   },
   "mma/xfc": {
     "sport": "mma",
@@ -2669,7 +2669,7 @@
     "name": "Xtreme Fighting Championships",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:36.971Z"
+    "lastChecked": "2026-09-18T04:52:50.729Z"
   },
   "racing/f1": {
     "sport": "racing",
@@ -2677,7 +2677,7 @@
     "name": "Formula 1",
     "status": "DORMANT",
     "maxEventDate": "2026-09-11",
-    "lastChecked": "2026-09-17T21:29:36.827Z"
+    "lastChecked": "2026-09-18T04:52:50.740Z"
   },
   "racing/irl": {
     "sport": "racing",
@@ -2685,15 +2685,15 @@
     "name": "IndyCar Series",
     "status": "DORMANT",
     "maxEventDate": "2026-08-09",
-    "lastChecked": "2026-09-17T21:29:36.964Z"
+    "lastChecked": "2026-09-18T04:52:50.758Z"
   },
   "racing/nascar-premier": {
     "sport": "racing",
     "slug": "nascar-premier",
     "name": "NASCAR Cup Series",
-    "status": "DORMANT",
-    "maxEventDate": "2026-09-13",
-    "lastChecked": "2026-09-17T21:29:36.898Z"
+    "status": "ACTIVE",
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:50.779Z"
   },
   "racing/nascar-secondary": {
     "sport": "racing",
@@ -2701,7 +2701,7 @@
     "name": "NASCAR O'Reilly Auto Parts Series",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:37.113Z"
+    "lastChecked": "2026-09-18T04:52:50.785Z"
   },
   "racing/nascar-truck": {
     "sport": "racing",
@@ -2709,7 +2709,7 @@
     "name": "NASCAR Truck Series",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:37.004Z"
+    "lastChecked": "2026-09-18T04:52:50.805Z"
   },
   "golf/champions-tour": {
     "sport": "golf",
@@ -2717,7 +2717,7 @@
     "name": "PGA TOUR Champions",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:37.160Z"
+    "lastChecked": "2026-09-18T04:52:50.834Z"
   },
   "golf/eur": {
     "sport": "golf",
@@ -2725,7 +2725,7 @@
     "name": "DP World Tour",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-17",
-    "lastChecked": "2026-09-17T21:29:37.009Z"
+    "lastChecked": "2026-09-18T04:52:50.862Z"
   },
   "golf/liv": {
     "sport": "golf",
@@ -2733,7 +2733,7 @@
     "name": "LIV Golf Invitational Series",
     "status": "DORMANT",
     "maxEventDate": "2026-08-06",
-    "lastChecked": "2026-09-17T21:29:37.133Z"
+    "lastChecked": "2026-09-18T04:52:50.822Z"
   },
   "golf/lpga": {
     "sport": "golf",
@@ -2741,7 +2741,7 @@
     "name": "Ladies Pro Golf Association",
     "status": "DORMANT",
     "maxEventDate": "2026-09-11",
-    "lastChecked": "2026-09-17T21:29:36.999Z"
+    "lastChecked": "2026-09-18T04:52:50.841Z"
   },
   "golf/mens-olympics-golf": {
     "sport": "golf",
@@ -2749,7 +2749,7 @@
     "name": "Olympic Golf - Men",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.123Z"
+    "lastChecked": "2026-09-18T04:52:50.835Z"
   },
   "golf/ntw": {
     "sport": "golf",
@@ -2757,7 +2757,7 @@
     "name": "Korn Ferry Tour",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-17",
-    "lastChecked": "2026-09-17T21:29:37.116Z"
+    "lastChecked": "2026-09-18T04:52:50.896Z"
   },
   "golf/pga": {
     "sport": "golf",
@@ -2765,7 +2765,7 @@
     "name": "PGA TOUR",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-17",
-    "lastChecked": "2026-09-17T21:29:37.095Z"
+    "lastChecked": "2026-09-18T04:52:50.903Z"
   },
   "golf/tgl": {
     "sport": "golf",
@@ -2773,7 +2773,7 @@
     "name": "TGL",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.154Z"
+    "lastChecked": "2026-09-18T04:52:50.843Z"
   },
   "golf/womens-olympics-golf": {
     "sport": "golf",
@@ -2781,7 +2781,7 @@
     "name": "Olympic Golf - Women",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.173Z"
+    "lastChecked": "2026-09-18T04:52:50.953Z"
   },
   "tennis/atp": {
     "sport": "tennis",
@@ -2789,7 +2789,7 @@
     "name": "ATP",
     "status": "DORMANT",
     "maxEventDate": "2026-08-24",
-    "lastChecked": "2026-09-17T21:29:37.073Z"
+    "lastChecked": "2026-09-18T04:52:50.847Z"
   },
   "tennis/wta": {
     "sport": "tennis",
@@ -2797,7 +2797,7 @@
     "name": "WTA",
     "status": "ACTIVE",
     "maxEventDate": "2026-09-14",
-    "lastChecked": "2026-09-17T21:29:37.105Z"
+    "lastChecked": "2026-09-18T04:52:50.916Z"
   },
   "rugby/268565": {
     "sport": "rugby",
@@ -2805,7 +2805,7 @@
     "name": "British and Irish Lions Tour",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.172Z"
+    "lastChecked": "2026-09-18T04:52:50.984Z"
   },
   "rugby/164205": {
     "sport": "rugby",
@@ -2813,7 +2813,7 @@
     "name": "Rugby World Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.285Z"
+    "lastChecked": "2026-09-18T04:52:50.959Z"
   },
   "rugby/180659": {
     "sport": "rugby",
@@ -2821,7 +2821,7 @@
     "name": "Six Nations",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.201Z"
+    "lastChecked": "2026-09-18T04:52:50.936Z"
   },
   "rugby/244293": {
     "sport": "rugby",
@@ -2829,7 +2829,7 @@
     "name": "The Rugby Championship",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.324Z"
+    "lastChecked": "2026-09-18T04:52:50.965Z"
   },
   "rugby/271937": {
     "sport": "rugby",
@@ -2837,7 +2837,7 @@
     "name": "European Rugby Champions Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.276Z"
+    "lastChecked": "2026-09-18T04:52:50.961Z"
   },
   "rugby/272073": {
     "sport": "rugby",
@@ -2845,7 +2845,7 @@
     "name": "European Rugby Challenge Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.261Z"
+    "lastChecked": "2026-09-18T04:52:50.955Z"
   },
   "rugby/267979": {
     "sport": "rugby",
@@ -2853,7 +2853,7 @@
     "name": "Gallagher Prem",
     "status": "DORMANT",
     "maxEventDate": "2026-06-20",
-    "lastChecked": "2026-09-17T21:29:37.333Z"
+    "lastChecked": "2026-09-18T04:52:50.952Z"
   },
   "rugby/270557": {
     "sport": "rugby",
@@ -2861,15 +2861,15 @@
     "name": "United Rugby Championship",
     "status": "DORMANT",
     "maxEventDate": "2026-06-19",
-    "lastChecked": "2026-09-17T21:29:37.316Z"
+    "lastChecked": "2026-09-18T04:52:50.989Z"
   },
   "rugby/270559": {
     "sport": "rugby",
     "slug": "270559",
     "name": "French Top 14",
-    "status": "DORMANT",
-    "maxEventDate": "2026-09-13",
-    "lastChecked": "2026-09-17T21:29:37.308Z"
+    "status": "ACTIVE",
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:51.009Z"
   },
   "rugby/2009": {
     "sport": "rugby",
@@ -2877,7 +2877,7 @@
     "name": "URBA Primera A",
     "status": "DORMANT",
     "maxEventDate": "2026-07-18",
-    "lastChecked": "2026-09-17T21:29:37.321Z"
+    "lastChecked": "2026-09-18T04:52:51.016Z"
   },
   "rugby/17567": {
     "sport": "rugby",
@@ -2885,7 +2885,7 @@
     "name": "Nations Championship",
     "status": "DORMANT",
     "maxEventDate": "2026-07-18",
-    "lastChecked": "2026-09-17T21:29:37.509Z"
+    "lastChecked": "2026-09-18T04:52:51.071Z"
   },
   "rugby/242041": {
     "sport": "rugby",
@@ -2893,7 +2893,7 @@
     "name": "Super Rugby Pacific",
     "status": "DORMANT",
     "maxEventDate": "2026-06-20",
-    "lastChecked": "2026-09-17T21:29:37.343Z"
+    "lastChecked": "2026-09-18T04:52:51.036Z"
   },
   "rugby/289271": {
     "sport": "rugby",
@@ -2901,7 +2901,7 @@
     "name": "Super Rugby Aotearoa",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.393Z"
+    "lastChecked": "2026-09-18T04:52:51.087Z"
   },
   "rugby/289272": {
     "sport": "rugby",
@@ -2909,7 +2909,7 @@
     "name": "Super Rugby AU",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.376Z"
+    "lastChecked": "2026-09-18T04:52:51.052Z"
   },
   "rugby/289277": {
     "sport": "rugby",
@@ -2917,7 +2917,7 @@
     "name": "Super Rugby Trans-Tasman",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.425Z"
+    "lastChecked": "2026-09-18T04:52:51.059Z"
   },
   "rugby/289279": {
     "sport": "rugby",
@@ -2925,7 +2925,7 @@
     "name": "URBA Top 14",
     "status": "DORMANT",
     "maxEventDate": "2026-09-12",
-    "lastChecked": "2026-09-17T21:29:37.458Z"
+    "lastChecked": "2026-09-18T04:52:51.081Z"
   },
   "rugby/270555": {
     "sport": "rugby",
@@ -2933,15 +2933,15 @@
     "name": "Currie Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.686Z"
+    "lastChecked": "2026-09-18T04:52:51.057Z"
   },
   "rugby/270563": {
     "sport": "rugby",
     "slug": "270563",
     "name": "Mitre 10 Cup",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-19",
-    "lastChecked": "2026-09-17T21:29:37.532Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:51.266Z"
   },
   "rugby/236461": {
     "sport": "rugby",
@@ -2949,7 +2949,7 @@
     "name": "Anglo-Welsh Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.533Z"
+    "lastChecked": "2026-09-18T04:52:51.094Z"
   },
   "rugby/289274": {
     "sport": "rugby",
@@ -2957,7 +2957,7 @@
     "name": "2020 Tri Nations",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.469Z"
+    "lastChecked": "2026-09-18T04:52:51.159Z"
   },
   "rugby/282": {
     "sport": "rugby",
@@ -2965,7 +2965,7 @@
     "name": "Olympic Men's 7s",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.504Z"
+    "lastChecked": "2026-09-18T04:52:51.101Z"
   },
   "rugby/283": {
     "sport": "rugby",
@@ -2973,7 +2973,7 @@
     "name": "Olympic Women's Rugby Sevens",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.524Z"
+    "lastChecked": "2026-09-18T04:52:51.133Z"
   },
   "rugby/289237": {
     "sport": "rugby",
@@ -2981,7 +2981,7 @@
     "name": "Women's Rugby World Cup",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.520Z"
+    "lastChecked": "2026-09-18T04:52:51.150Z"
   },
   "rugby/289262": {
     "sport": "rugby",
@@ -2989,23 +2989,23 @@
     "name": "Major League Rugby",
     "status": "DORMANT",
     "maxEventDate": "2026-06-22",
-    "lastChecked": "2026-09-17T21:29:37.552Z"
+    "lastChecked": "2026-09-18T04:52:51.150Z"
   },
   "rugby/289234": {
     "sport": "rugby",
     "slug": "289234",
     "name": "International Test Match",
-    "status": "DORMANT",
-    "maxEventDate": "2026-09-12",
-    "lastChecked": "2026-09-17T21:29:37.541Z"
+    "status": "ACTIVE",
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:51.181Z"
   },
   "australian-football/afl": {
     "sport": "australian-football",
     "slug": "afl",
     "name": "AFL",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:37.539Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:51.144Z"
   },
   "lacrosse/mens-college-lacrosse": {
     "sport": "lacrosse",
@@ -3013,7 +3013,7 @@
     "name": "NCAA Men's Lacrosse",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.617Z"
+    "lastChecked": "2026-09-18T04:52:51.160Z"
   },
   "lacrosse/nll": {
     "sport": "lacrosse",
@@ -3021,7 +3021,7 @@
     "name": "National Lacrosse League",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.629Z"
+    "lastChecked": "2026-09-18T04:52:51.188Z"
   },
   "lacrosse/pll": {
     "sport": "lacrosse",
@@ -3029,7 +3029,7 @@
     "name": "Premier Lacrosse League",
     "status": "DORMANT",
     "maxEventDate": "2026-08-09",
-    "lastChecked": "2026-09-17T21:29:37.644Z"
+    "lastChecked": "2026-09-18T04:52:51.281Z"
   },
   "lacrosse/womens-college-lacrosse": {
     "sport": "lacrosse",
@@ -3037,7 +3037,7 @@
     "name": "NCAA Women's Lacrosse",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.740Z"
+    "lastChecked": "2026-09-18T04:52:51.215Z"
   },
   "volleyball/mens-college-volleyball": {
     "sport": "volleyball",
@@ -3045,15 +3045,15 @@
     "name": "NCAA Men's Volleyball",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.673Z"
+    "lastChecked": "2026-09-18T04:52:51.187Z"
   },
   "volleyball/womens-college-volleyball": {
     "sport": "volleyball",
     "slug": "womens-college-volleyball",
     "name": "NCAA Women's Volleyball",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-19",
-    "lastChecked": "2026-09-17T21:29:37.682Z"
+    "maxEventDate": "2026-09-20",
+    "lastChecked": "2026-09-18T04:52:51.253Z"
   },
   "water-polo/mens-college-water-polo": {
     "sport": "water-polo",
@@ -3061,7 +3061,7 @@
     "name": "NCAA Men's Water Polo",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.761Z"
+    "lastChecked": "2026-09-18T04:52:51.229Z"
   },
   "water-polo/womens-college-water-polo": {
     "sport": "water-polo",
@@ -3069,23 +3069,23 @@
     "name": "NCAA Women's Water Polo",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.720Z"
+    "lastChecked": "2026-09-18T04:52:51.239Z"
   },
   "field-hockey/womens-college-field-hockey": {
     "sport": "field-hockey",
     "slug": "womens-college-field-hockey",
     "name": "NCAA Women's Field Hockey",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:37.711Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:51.294Z"
   },
   "rugby-league/3": {
     "sport": "rugby-league",
     "slug": "3",
     "name": "Rugby League",
-    "status": "DORMANT",
-    "maxEventDate": "2026-09-13",
-    "lastChecked": "2026-09-17T21:29:37.651Z"
+    "status": "ACTIVE",
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:51.262Z"
   },
   "soccer/ir1.1.promotion.relegation": {
     "sport": "soccer",
@@ -3093,7 +3093,7 @@
     "name": "Irish Premier Division Promotion/Relegation Playoffs",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.774Z"
+    "lastChecked": "2026-09-18T04:52:51.273Z"
   },
   "soccer/uefa.wchampions_qual": {
     "sport": "soccer",
@@ -3101,7 +3101,7 @@
     "name": "UEFA Women's Champions League Qualifying",
     "status": "DORMANT",
     "maxEventDate": "2026-08-08",
-    "lastChecked": "2026-09-17T21:29:37.865Z"
+    "lastChecked": "2026-09-18T04:52:51.296Z"
   },
   "soccer/bra.4": {
     "sport": "soccer",
@@ -3109,7 +3109,7 @@
     "name": "Brazilian Serie D",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.832Z"
+    "lastChecked": "2026-09-18T04:52:51.295Z"
   },
   "mma/one": {
     "sport": "mma",
@@ -3117,7 +3117,7 @@
     "name": null,
     "status": "UNKNOWN",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.988Z"
+    "lastChecked": "2026-09-18T04:52:51.349Z"
   },
   "soccer/afc.cup_qual": {
     "sport": "soccer",
@@ -3125,7 +3125,7 @@
     "name": "AFC Champions League Two Qualifying",
     "status": "DORMANT",
     "maxEventDate": "2026-08-12",
-    "lastChecked": "2026-09-17T21:29:37.797Z"
+    "lastChecked": "2026-09-18T04:52:51.296Z"
   },
   "soccer/sco.tennents_qual": {
     "sport": "soccer",
@@ -3133,15 +3133,15 @@
     "name": "Scottish Cup Qualifying",
     "status": "DORMANT",
     "maxEventDate": "2026-09-12",
-    "lastChecked": "2026-09-17T21:29:37.871Z"
+    "lastChecked": "2026-09-18T04:52:51.319Z"
   },
   "soccer/eng.fa_qual": {
     "sport": "soccer",
     "slug": "eng.fa_qual",
     "name": "English FA Cup Qualifying",
     "status": "ACTIVE",
-    "maxEventDate": "2026-09-18",
-    "lastChecked": "2026-09-17T21:29:37.862Z"
+    "maxEventDate": "2026-09-19",
+    "lastChecked": "2026-09-18T04:52:51.343Z"
   },
   "soccer/afc.champions_qual": {
     "sport": "soccer",
@@ -3149,6 +3149,6 @@
     "name": "AFC Champions League Elite Qualifying",
     "status": "DORMANT",
     "maxEventDate": null,
-    "lastChecked": "2026-09-17T21:29:37.849Z"
+    "lastChecked": "2026-09-18T04:52:51.383Z"
   }
 }
