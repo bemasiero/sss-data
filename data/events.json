@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T11:26:58.521Z",
+  "generatedAt": "2026-09-18T16:32:25.658Z",
   "window": [
     "2026-09-17",
     "2026-09-18",
@@ -15,68 +15,6 @@
           "id": "401872932",
           "start": "2026-09-18T00:15:00.000Z",
           "state": "post"
-        }
-      ]
-    },
-    "basketball/wnba": {
-      "sport": "basketball",
-      "slug": "wnba",
-      "name": "Women's National Basketball Association",
-      "events": [
-        {
-          "id": "401857190",
-          "start": "2026-09-17T23:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401857191",
-          "start": "2026-09-18T00:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401857192",
-          "start": "2026-09-18T00:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401857193",
-          "start": "2026-09-18T02:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401857194",
-          "start": "2026-09-18T02:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401857195",
-          "start": "2026-09-18T23:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401857196",
-          "start": "2026-09-18T23:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401857197",
-          "start": "2026-09-19T02:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401857198",
-          "start": "2026-09-19T17:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401857199",
-          "start": "2026-09-19T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401857200",
-          "start": "2026-09-20T01:00:00.000Z",
-          "state": "pre"
         }
       ]
     },
@@ -462,6 +400,68 @@
         }
       ]
     },
+    "basketball/wnba": {
+      "sport": "basketball",
+      "slug": "wnba",
+      "name": "Women's National Basketball Association",
+      "events": [
+        {
+          "id": "401857190",
+          "start": "2026-09-17T23:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401857191",
+          "start": "2026-09-18T00:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401857192",
+          "start": "2026-09-18T00:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401857193",
+          "start": "2026-09-18T02:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401857194",
+          "start": "2026-09-18T02:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401857195",
+          "start": "2026-09-18T23:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401857196",
+          "start": "2026-09-18T23:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401857197",
+          "start": "2026-09-19T02:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401857198",
+          "start": "2026-09-19T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401857199",
+          "start": "2026-09-19T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401857200",
+          "start": "2026-09-20T01:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "basketball/nbl": {
       "sport": "basketball",
       "slug": "nbl",
@@ -475,48 +475,6 @@
         {
           "id": "401875243",
           "start": "2026-09-19T11:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "hockey/nhl": {
-      "sport": "hockey",
-      "slug": "nhl",
-      "name": "National Hockey League",
-      "events": [
-        {
-          "id": "401881922",
-          "start": "2026-09-19T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401881923",
-          "start": "2026-09-19T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401886427",
-          "start": "2026-09-19T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878099",
-          "start": "2026-09-20T00:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401886258",
-          "start": "2026-09-20T00:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401879412",
-          "start": "2026-09-20T01:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401879652",
-          "start": "2026-09-20T01:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -643,7 +601,7 @@
         },
         {
           "id": "401816996",
-          "start": "2026-09-19T02:10:00.000Z",
+          "start": "2026-09-19T02:15:00.000Z",
           "state": "pre"
         },
         {
@@ -723,39 +681,44 @@
         }
       ]
     },
-    "soccer/eng.1": {
-      "sport": "soccer",
-      "slug": "eng.1",
-      "name": "English Premier League",
+    "hockey/nhl": {
+      "sport": "hockey",
+      "slug": "nhl",
+      "name": "National Hockey League",
       "events": [
         {
-          "id": "401879275",
-          "start": "2026-09-18T19:00:00.000Z",
+          "id": "401881922",
+          "start": "2026-09-19T23:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401879269",
-          "start": "2026-09-19T11:30:00.000Z",
+          "id": "401881923",
+          "start": "2026-09-19T23:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401879274",
-          "start": "2026-09-19T14:00:00.000Z",
+          "id": "401886427",
+          "start": "2026-09-19T23:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401878778",
-          "start": "2026-09-19T14:00:00.000Z",
+          "id": "401878099",
+          "start": "2026-09-20T00:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401879271",
-          "start": "2026-09-19T14:00:00.000Z",
+          "id": "401886258",
+          "start": "2026-09-20T00:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401879270",
-          "start": "2026-09-19T16:30:00.000Z",
+          "id": "401879412",
+          "start": "2026-09-20T01:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401879652",
+          "start": "2026-09-20T01:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -799,6 +762,80 @@
         }
       ]
     },
+    "soccer/ger.1": {
+      "sport": "soccer",
+      "slug": "ger.1",
+      "name": "German Bundesliga",
+      "events": [
+        {
+          "id": "401884790",
+          "start": "2026-09-18T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401884786",
+          "start": "2026-09-19T13:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401884787",
+          "start": "2026-09-19T13:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401884785",
+          "start": "2026-09-19T13:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401884784",
+          "start": "2026-09-19T13:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401884789",
+          "start": "2026-09-19T16:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/eng.1": {
+      "sport": "soccer",
+      "slug": "eng.1",
+      "name": "English Premier League",
+      "events": [
+        {
+          "id": "401879275",
+          "start": "2026-09-18T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401879269",
+          "start": "2026-09-19T11:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401879274",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401878778",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401879271",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401879270",
+          "start": "2026-09-19T16:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/esp.1": {
       "sport": "soccer",
       "slug": "esp.1",
@@ -837,43 +874,6 @@
         {
           "id": "401882859",
           "start": "2026-09-19T19:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/ger.1": {
-      "sport": "soccer",
-      "slug": "ger.1",
-      "name": "German Bundesliga",
-      "events": [
-        {
-          "id": "401884790",
-          "start": "2026-09-18T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401884786",
-          "start": "2026-09-19T13:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401884787",
-          "start": "2026-09-19T13:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401884785",
-          "start": "2026-09-19T13:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401884784",
-          "start": "2026-09-19T13:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401884789",
-          "start": "2026-09-19T16:30:00.000Z",
           "state": "pre"
         }
       ]
@@ -951,6 +951,33 @@
         {
           "id": "761828",
           "start": "2026-09-20T02:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/usa.nwsl": {
+      "sport": "soccer",
+      "slug": "usa.nwsl",
+      "name": "NWSL",
+      "events": [
+        {
+          "id": "401854003",
+          "start": "2026-09-19T02:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401854004",
+          "start": "2026-09-19T20:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401854005",
+          "start": "2026-09-19T22:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401854085",
+          "start": "2026-09-20T00:45:00.000Z",
           "state": "pre"
         }
       ]
@@ -1044,55 +1071,6 @@
         }
       ]
     },
-    "soccer/fifa.friendly": {
-      "sport": "soccer",
-      "slug": "fifa.friendly",
-      "name": "International Friendly",
-      "events": [
-        {
-          "id": "401922314",
-          "start": "2026-09-18T02:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401922313",
-          "start": "2026-09-18T07:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/ita.1": {
-      "sport": "soccer",
-      "slug": "ita.1",
-      "name": "Italian Serie A",
-      "events": [
-        {
-          "id": "401874756",
-          "start": "2026-09-18T18:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401874767",
-          "start": "2026-09-19T13:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401874964",
-          "start": "2026-09-19T13:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401874753",
-          "start": "2026-09-19T16:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401874956",
-          "start": "2026-09-19T18:45:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/fra.1": {
       "sport": "soccer",
       "slug": "fra.1",
@@ -1130,29 +1108,78 @@
         }
       ]
     },
-    "soccer/usa.nwsl": {
+    "soccer/fifa.friendly": {
       "sport": "soccer",
-      "slug": "usa.nwsl",
-      "name": "NWSL",
+      "slug": "fifa.friendly",
+      "name": "International Friendly",
       "events": [
         {
-          "id": "401854003",
-          "start": "2026-09-19T02:00:00.000Z",
+          "id": "401922314",
+          "start": "2026-09-18T02:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401922313",
+          "start": "2026-09-18T07:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "soccer/ita.1": {
+      "sport": "soccer",
+      "slug": "ita.1",
+      "name": "Italian Serie A",
+      "events": [
+        {
+          "id": "401874756",
+          "start": "2026-09-18T18:45:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401854004",
-          "start": "2026-09-19T20:00:00.000Z",
+          "id": "401874767",
+          "start": "2026-09-19T13:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401854005",
-          "start": "2026-09-19T22:30:00.000Z",
+          "id": "401874964",
+          "start": "2026-09-19T13:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401854085",
-          "start": "2026-09-20T00:45:00.000Z",
+          "id": "401874753",
+          "start": "2026-09-19T16:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401874956",
+          "start": "2026-09-19T18:45:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/por.1": {
+      "sport": "soccer",
+      "slug": "por.1",
+      "name": "Portuguese Primeira Liga",
+      "events": [
+        {
+          "id": "401885434",
+          "start": "2026-09-19T14:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401885435",
+          "start": "2026-09-19T14:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401885438",
+          "start": "2026-09-19T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401885431",
+          "start": "2026-09-19T19:30:00.000Z",
           "state": "pre"
         }
       ]
@@ -1241,6 +1268,18 @@
         }
       ]
     },
+    "soccer/conmebol.libertadores": {
+      "sport": "soccer",
+      "slug": "conmebol.libertadores",
+      "name": "CONMEBOL Libertadores",
+      "events": [
+        {
+          "id": "401912526",
+          "start": "2026-09-18T00:30:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
     "soccer/ned.1": {
       "sport": "soccer",
       "slug": "ned.1",
@@ -1273,45 +1312,6 @@
         }
       ]
     },
-    "soccer/conmebol.libertadores": {
-      "sport": "soccer",
-      "slug": "conmebol.libertadores",
-      "name": "CONMEBOL Libertadores",
-      "events": [
-        {
-          "id": "401912526",
-          "start": "2026-09-18T00:30:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
-    "soccer/por.1": {
-      "sport": "soccer",
-      "slug": "por.1",
-      "name": "Portuguese Primeira Liga",
-      "events": [
-        {
-          "id": "401885434",
-          "start": "2026-09-19T14:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401885435",
-          "start": "2026-09-19T14:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401885438",
-          "start": "2026-09-19T17:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401885431",
-          "start": "2026-09-19T19:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/fifa.friendly.w": {
       "sport": "soccer",
       "slug": "fifa.friendly.w",
@@ -1320,11 +1320,43 @@
         {
           "id": "401922338",
           "start": "2026-09-17T04:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401922319",
           "start": "2026-09-17T07:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "soccer/esp.w.1": {
+      "sport": "soccer",
+      "slug": "esp.w.1",
+      "name": "Spanish Liga F",
+      "events": [
+        {
+          "id": "401882516",
+          "start": "2026-09-18T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401882510",
+          "start": "2026-09-19T10:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401882512",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401882515",
+          "start": "2026-09-19T16:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401882509",
+          "start": "2026-09-19T18:30:00.000Z",
           "state": "pre"
         }
       ]
@@ -1366,38 +1398,6 @@
         }
       ]
     },
-    "soccer/esp.w.1": {
-      "sport": "soccer",
-      "slug": "esp.w.1",
-      "name": "Spanish Liga F",
-      "events": [
-        {
-          "id": "401882516",
-          "start": "2026-09-18T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401882510",
-          "start": "2026-09-19T10:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401882512",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401882515",
-          "start": "2026-09-19T16:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401882509",
-          "start": "2026-09-19T18:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/usa.w.usl.1": {
       "sport": "soccer",
       "slug": "usa.w.usl.1",
@@ -1416,6 +1416,38 @@
         {
           "id": "401878635",
           "start": "2026-09-19T23:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/sco.1": {
+      "sport": "soccer",
+      "slug": "sco.1",
+      "name": "Scottish Premiership",
+      "events": [
+        {
+          "id": "401878380",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401878379",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401878377",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401878376",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401878378",
+          "start": "2026-09-19T16:45:00.000Z",
           "state": "pre"
         }
       ]
@@ -1556,38 +1588,6 @@
         }
       ]
     },
-    "soccer/sco.1": {
-      "sport": "soccer",
-      "slug": "sco.1",
-      "name": "Scottish Premiership",
-      "events": [
-        {
-          "id": "401878380",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878379",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878377",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878376",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878378",
-          "start": "2026-09-19T16:45:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/global.u20.intercontinental_cup": {
       "sport": "soccer",
       "slug": "global.u20.intercontinental_cup",
@@ -1657,48 +1657,6 @@
         }
       ]
     },
-    "soccer/mex.2": {
-      "sport": "soccer",
-      "slug": "mex.2",
-      "name": "Mexican Liga de Expansión MX",
-      "events": [
-        {
-          "id": "401886370",
-          "start": "2026-09-18T01:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401887410",
-          "start": "2026-09-19T01:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401886369",
-          "start": "2026-09-19T01:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401886368",
-          "start": "2026-09-19T03:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401886366",
-          "start": "2026-09-20T01:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401886365",
-          "start": "2026-09-20T01:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401886364",
-          "start": "2026-09-20T01:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/usa.usl.l1": {
       "sport": "soccer",
       "slug": "usa.usl.l1",
@@ -1741,6 +1699,92 @@
         }
       ]
     },
+    "soccer/mex.2": {
+      "sport": "soccer",
+      "slug": "mex.2",
+      "name": "Mexican Liga de Expansión MX",
+      "events": [
+        {
+          "id": "401886370",
+          "start": "2026-09-18T01:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401887410",
+          "start": "2026-09-19T01:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401886369",
+          "start": "2026-09-19T01:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401886368",
+          "start": "2026-09-19T03:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401886366",
+          "start": "2026-09-20T01:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401886365",
+          "start": "2026-09-20T01:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401886364",
+          "start": "2026-09-20T01:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/can.w.nsl": {
+      "sport": "soccer",
+      "slug": "can.w.nsl",
+      "name": "Northern Super League",
+      "events": [
+        {
+          "id": "401859946",
+          "start": "2026-09-19T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401859947",
+          "start": "2026-09-19T21:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/rus.1": {
+      "sport": "soccer",
+      "slug": "rus.1",
+      "name": "Russian Premier League",
+      "events": [
+        {
+          "id": "401879851",
+          "start": "2026-09-17T13:15:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401879848",
+          "start": "2026-09-17T15:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401879853",
+          "start": "2026-09-17T15:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401879854",
+          "start": "2026-09-17T17:45:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
     "soccer/fifa.intercontinental_cup": {
       "sport": "soccer",
       "slug": "fifa.intercontinental_cup",
@@ -1749,38 +1793,6 @@
         {
           "id": "401913270",
           "start": "2026-09-19T13:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/bel.1": {
-      "sport": "soccer",
-      "slug": "bel.1",
-      "name": "Belgian Pro League",
-      "events": [
-        {
-          "id": "401878987",
-          "start": "2026-09-18T18:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878986",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878985",
-          "start": "2026-09-19T16:15:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878984",
-          "start": "2026-09-19T18:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878983",
-          "start": "2026-09-19T18:45:00.000Z",
           "state": "pre"
         }
       ]
@@ -1822,66 +1834,71 @@
         }
       ]
     },
-    "soccer/rus.1": {
+    "soccer/bel.1": {
       "sport": "soccer",
-      "slug": "rus.1",
-      "name": "Russian Premier League",
+      "slug": "bel.1",
+      "name": "Belgian Pro League",
       "events": [
         {
-          "id": "401879851",
-          "start": "2026-09-17T13:15:00.000Z",
-          "state": "post"
+          "id": "401878987",
+          "start": "2026-09-18T18:45:00.000Z",
+          "state": "pre"
         },
         {
-          "id": "401879848",
-          "start": "2026-09-17T15:30:00.000Z",
-          "state": "post"
+          "id": "401878986",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
         },
         {
-          "id": "401879853",
-          "start": "2026-09-17T15:30:00.000Z",
-          "state": "post"
+          "id": "401878985",
+          "start": "2026-09-19T16:15:00.000Z",
+          "state": "pre"
         },
         {
-          "id": "401879854",
-          "start": "2026-09-17T17:45:00.000Z",
-          "state": "post"
+          "id": "401878984",
+          "start": "2026-09-19T18:45:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401878983",
+          "start": "2026-09-19T18:45:00.000Z",
+          "state": "pre"
         }
       ]
     },
-    "soccer/ger.2": {
+    "soccer/ita.2": {
       "sport": "soccer",
-      "slug": "ger.2",
-      "name": "German 2. Bundesliga",
+      "slug": "ita.2",
+      "name": "Italian Serie B",
       "events": [
         {
-          "id": "401885103",
-          "start": "2026-09-18T16:30:00.000Z",
+          "id": "401899614",
+          "start": "2026-09-18T18:30:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401885110",
-          "start": "2026-09-18T16:30:00.000Z",
+          "id": "401899617",
+          "start": "2026-09-19T13:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401885105",
-          "start": "2026-09-19T11:00:00.000Z",
+          "id": "401899616",
+          "start": "2026-09-19T13:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401885108",
-          "start": "2026-09-19T11:00:00.000Z",
+          "id": "401899611",
+          "start": "2026-09-19T13:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401885107",
-          "start": "2026-09-19T11:00:00.000Z",
+          "id": "401899610",
+          "start": "2026-09-19T15:15:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401885106",
-          "start": "2026-09-19T18:30:00.000Z",
+          "id": "401899618",
+          "start": "2026-09-19T17:30:00.000Z",
           "state": "pre"
         }
       ]
@@ -1938,6 +1955,43 @@
         }
       ]
     },
+    "soccer/ger.2": {
+      "sport": "soccer",
+      "slug": "ger.2",
+      "name": "German 2. Bundesliga",
+      "events": [
+        {
+          "id": "401885103",
+          "start": "2026-09-18T16:30:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "401885110",
+          "start": "2026-09-18T16:30:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "401885105",
+          "start": "2026-09-19T11:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401885108",
+          "start": "2026-09-19T11:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401885107",
+          "start": "2026-09-19T11:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401885106",
+          "start": "2026-09-19T18:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/gre.1": {
       "sport": "soccer",
       "slug": "gre.1",
@@ -1963,23 +2017,28 @@
         {
           "id": "401861443",
           "start": "2026-09-18T11:35:00.000Z",
-          "state": "pre"
+          "state": "post"
         }
       ]
     },
-    "soccer/can.w.nsl": {
+    "soccer/aut.1": {
       "sport": "soccer",
-      "slug": "can.w.nsl",
-      "name": "Northern Super League",
+      "slug": "aut.1",
+      "name": "Austrian Bundesliga",
       "events": [
         {
-          "id": "401859946",
-          "start": "2026-09-19T18:00:00.000Z",
+          "id": "401881784",
+          "start": "2026-09-18T17:30:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401859947",
-          "start": "2026-09-19T21:00:00.000Z",
+          "id": "401881780",
+          "start": "2026-09-19T15:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401881781",
+          "start": "2026-09-19T17:30:00.000Z",
           "state": "pre"
         }
       ]
@@ -2016,90 +2075,33 @@
         }
       ]
     },
-    "soccer/aut.1": {
+    "soccer/sco.2": {
       "sport": "soccer",
-      "slug": "aut.1",
-      "name": "Austrian Bundesliga",
+      "slug": "sco.2",
+      "name": "Scottish Championship",
       "events": [
         {
-          "id": "401881784",
-          "start": "2026-09-18T17:30:00.000Z",
+          "id": "401878563",
+          "start": "2026-09-18T18:30:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401881780",
-          "start": "2026-09-19T15:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401881781",
-          "start": "2026-09-19T17:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/eng.3": {
-      "sport": "soccer",
-      "slug": "eng.3",
-      "name": "English League One",
-      "events": [
-        {
-          "id": "401880850",
-          "start": "2026-09-17T19:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401880849",
-          "start": "2026-09-19T11:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401880846",
-          "start": "2026-09-19T11:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401880848",
+          "id": "401878566",
           "start": "2026-09-19T14:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401880847",
+          "id": "401878565",
           "start": "2026-09-19T14:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401880845",
+          "id": "401878564",
           "start": "2026-09-19T14:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401880844",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401880843",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401880842",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401880841",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401880840",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401880839",
+          "id": "401878562",
           "start": "2026-09-19T14:00:00.000Z",
           "state": "pre"
         }
@@ -2172,141 +2174,6 @@
         }
       ]
     },
-    "soccer/sco.2": {
-      "sport": "soccer",
-      "slug": "sco.2",
-      "name": "Scottish Championship",
-      "events": [
-        {
-          "id": "401878563",
-          "start": "2026-09-18T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878566",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878565",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878564",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878562",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/swe.1": {
-      "sport": "soccer",
-      "slug": "swe.1",
-      "name": "Swedish Allsvenskan",
-      "events": [
-        {
-          "id": "401873990",
-          "start": "2026-09-19T13:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401874081",
-          "start": "2026-09-19T13:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401874085",
-          "start": "2026-09-19T15:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/ned.w.1": {
-      "sport": "soccer",
-      "slug": "ned.w.1",
-      "name": "Dutch Vrouwen Eredivisie",
-      "events": [
-        {
-          "id": "401882163",
-          "start": "2026-09-19T12:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401882162",
-          "start": "2026-09-19T14:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401882161",
-          "start": "2026-09-19T14:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/ita.2": {
-      "sport": "soccer",
-      "slug": "ita.2",
-      "name": "Italian Serie B",
-      "events": [
-        {
-          "id": "401899614",
-          "start": "2026-09-18T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401899617",
-          "start": "2026-09-19T13:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401899616",
-          "start": "2026-09-19T13:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401899611",
-          "start": "2026-09-19T13:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401899610",
-          "start": "2026-09-19T15:15:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401899618",
-          "start": "2026-09-19T17:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/nor.1": {
-      "sport": "soccer",
-      "slug": "nor.1",
-      "name": "Norwegian Eliteserien",
-      "events": [
-        {
-          "id": "401873932",
-          "start": "2026-09-18T17:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401873922",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401873903",
-          "start": "2026-09-19T16:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/ned.2": {
       "sport": "soccer",
       "slug": "ned.2",
@@ -2359,6 +2226,184 @@
         }
       ]
     },
+    "soccer/eng.5": {
+      "sport": "soccer",
+      "slug": "eng.5",
+      "name": "English National League",
+      "events": [
+        {
+          "id": "401889300",
+          "start": "2026-09-18T18:45:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401889299",
+          "start": "2026-09-19T11:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401889298",
+          "start": "2026-09-19T11:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401889297",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401889296",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401889295",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401889294",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401889293",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401889292",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401889291",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401889290",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401889426",
+          "start": "2026-09-19T16:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/eng.3": {
+      "sport": "soccer",
+      "slug": "eng.3",
+      "name": "English League One",
+      "events": [
+        {
+          "id": "401880850",
+          "start": "2026-09-17T19:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401880849",
+          "start": "2026-09-19T11:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401880846",
+          "start": "2026-09-19T11:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401880848",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401880847",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401880845",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401880844",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401880843",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401880842",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401880841",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401880840",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401880839",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/ned.w.1": {
+      "sport": "soccer",
+      "slug": "ned.w.1",
+      "name": "Dutch Vrouwen Eredivisie",
+      "events": [
+        {
+          "id": "401882163",
+          "start": "2026-09-19T12:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401882162",
+          "start": "2026-09-19T14:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401882161",
+          "start": "2026-09-19T14:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/swe.1": {
+      "sport": "soccer",
+      "slug": "swe.1",
+      "name": "Swedish Allsvenskan",
+      "events": [
+        {
+          "id": "401873990",
+          "start": "2026-09-19T13:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401874081",
+          "start": "2026-09-19T13:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401874085",
+          "start": "2026-09-19T15:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/den.1": {
       "sport": "soccer",
       "slug": "den.1",
@@ -2388,39 +2433,24 @@
         }
       ]
     },
-    "soccer/arg.2": {
+    "soccer/nor.1": {
       "sport": "soccer",
-      "slug": "arg.2",
-      "name": "Argentine Nacional B",
+      "slug": "nor.1",
+      "name": "Norwegian Eliteserien",
       "events": [
         {
-          "id": "401844144",
-          "start": "2026-09-19T18:00:00.000Z",
+          "id": "401873932",
+          "start": "2026-09-18T17:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401844147",
-          "start": "2026-09-19T18:30:00.000Z",
+          "id": "401873922",
+          "start": "2026-09-19T14:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401844151",
-          "start": "2026-09-19T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844152",
-          "start": "2026-09-19T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844142",
-          "start": "2026-09-19T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401844153",
-          "start": "2026-09-19T19:00:00.000Z",
+          "id": "401873903",
+          "start": "2026-09-19T16:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -2495,6 +2525,43 @@
         {
           "id": "401841243",
           "start": "2026-09-20T00:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/arg.2": {
+      "sport": "soccer",
+      "slug": "arg.2",
+      "name": "Argentine Nacional B",
+      "events": [
+        {
+          "id": "401844144",
+          "start": "2026-09-19T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844147",
+          "start": "2026-09-19T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844151",
+          "start": "2026-09-19T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844152",
+          "start": "2026-09-19T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844142",
+          "start": "2026-09-19T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401844153",
+          "start": "2026-09-19T19:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -2610,55 +2677,6 @@
         }
       ]
     },
-    "soccer/par.1": {
-      "sport": "soccer",
-      "slug": "par.1",
-      "name": "Paraguayan Primera División",
-      "events": [
-        {
-          "id": "401888593",
-          "start": "2026-09-18T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401888666",
-          "start": "2026-09-18T21:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401888595",
-          "start": "2026-09-19T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401888596",
-          "start": "2026-09-19T21:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/uru.1": {
-      "sport": "soccer",
-      "slug": "uru.1",
-      "name": "Liga AUF Uruguaya",
-      "events": [
-        {
-          "id": "401921405",
-          "start": "2026-09-19T15:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401921402",
-          "start": "2026-09-19T18:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401921344",
-          "start": "2026-09-19T21:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/per.1": {
       "sport": "soccer",
       "slug": "per.1",
@@ -2696,6 +2714,33 @@
         }
       ]
     },
+    "soccer/par.1": {
+      "sport": "soccer",
+      "slug": "par.1",
+      "name": "Paraguayan Primera División",
+      "events": [
+        {
+          "id": "401888593",
+          "start": "2026-09-18T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401888666",
+          "start": "2026-09-18T21:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401888595",
+          "start": "2026-09-19T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401888596",
+          "start": "2026-09-19T21:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/ecu.1": {
       "sport": "soccer",
       "slug": "ecu.1",
@@ -2714,28 +2759,6 @@
         {
           "id": "401921387",
           "start": "2026-09-20T00:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/bol.1": {
-      "sport": "soccer",
-      "slug": "bol.1",
-      "name": "Bolivian Liga Profesional",
-      "events": [
-        {
-          "id": "401906475",
-          "start": "2026-09-17T22:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401906474",
-          "start": "2026-09-18T00:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401906473",
-          "start": "2026-09-18T23:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -2787,20 +2810,79 @@
         }
       ]
     },
-    "soccer/concacaf.central.american.cup": {
+    "soccer/ven.1": {
       "sport": "soccer",
-      "slug": "concacaf.central.american.cup",
-      "name": "Concacaf Central American Cup",
+      "slug": "ven.1",
+      "name": "Venezuelan Primera División",
       "events": [
         {
-          "id": "401914715",
+          "id": "401903332",
+          "start": "2026-09-19T19:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401903331",
+          "start": "2026-09-19T20:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401903319",
+          "start": "2026-09-19T20:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401903318",
+          "start": "2026-09-19T22:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401903320",
+          "start": "2026-09-20T00:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/bol.1": {
+      "sport": "soccer",
+      "slug": "bol.1",
+      "name": "Bolivian Liga Profesional",
+      "events": [
+        {
+          "id": "401906475",
+          "start": "2026-09-17T22:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401906474",
           "start": "2026-09-18T00:30:00.000Z",
           "state": "post"
         },
         {
-          "id": "401914714",
-          "start": "2026-09-18T03:15:00.000Z",
-          "state": "post"
+          "id": "401906473",
+          "start": "2026-09-18T23:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/uru.1": {
+      "sport": "soccer",
+      "slug": "uru.1",
+      "name": "Liga AUF Uruguaya",
+      "events": [
+        {
+          "id": "401921405",
+          "start": "2026-09-19T15:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401921402",
+          "start": "2026-09-19T18:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401921344",
+          "start": "2026-09-19T21:30:00.000Z",
+          "state": "pre"
         }
       ]
     },
@@ -2822,67 +2904,6 @@
         {
           "id": "401907935",
           "start": "2026-09-20T00:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/gua.1": {
-      "sport": "soccer",
-      "slug": "gua.1",
-      "name": "Guatemalan Liga Nacional",
-      "events": [
-        {
-          "id": "401879560",
-          "start": "2026-09-19T02:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401879559",
-          "start": "2026-09-19T21:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/crc.1": {
-      "sport": "soccer",
-      "slug": "crc.1",
-      "name": "Costa Rican Primera Division",
-      "events": [
-        {
-          "id": "401876849",
-          "start": "2026-09-19T02:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401876848",
-          "start": "2026-09-19T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401876850",
-          "start": "2026-09-20T02:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/slv.1": {
-      "sport": "soccer",
-      "slug": "slv.1",
-      "name": "Salvadoran Primera Division",
-      "events": [
-        {
-          "id": "401899788",
-          "start": "2026-09-19T00:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401899734",
-          "start": "2026-09-19T21:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401899669",
-          "start": "2026-09-19T23:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -2914,6 +2935,84 @@
         }
       ]
     },
+    "soccer/crc.1": {
+      "sport": "soccer",
+      "slug": "crc.1",
+      "name": "Costa Rican Primera Division",
+      "events": [
+        {
+          "id": "401876849",
+          "start": "2026-09-19T02:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401876848",
+          "start": "2026-09-19T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401876850",
+          "start": "2026-09-20T02:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/gua.1": {
+      "sport": "soccer",
+      "slug": "gua.1",
+      "name": "Guatemalan Liga Nacional",
+      "events": [
+        {
+          "id": "401879560",
+          "start": "2026-09-19T02:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401879559",
+          "start": "2026-09-19T21:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/slv.1": {
+      "sport": "soccer",
+      "slug": "slv.1",
+      "name": "Salvadoran Primera Division",
+      "events": [
+        {
+          "id": "401899788",
+          "start": "2026-09-19T00:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401899734",
+          "start": "2026-09-19T21:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401899669",
+          "start": "2026-09-19T23:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/concacaf.central.american.cup": {
+      "sport": "soccer",
+      "slug": "concacaf.central.american.cup",
+      "name": "Concacaf Central American Cup",
+      "events": [
+        {
+          "id": "401914715",
+          "start": "2026-09-18T00:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401914714",
+          "start": "2026-09-18T03:15:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
     "soccer/caf.confed": {
       "sport": "soccer",
       "slug": "caf.confed",
@@ -2922,33 +3021,6 @@
         {
           "id": "401909441",
           "start": "2026-09-19T16:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/rsa.1": {
-      "sport": "soccer",
-      "slug": "rsa.1",
-      "name": "South African Premiership",
-      "events": [
-        {
-          "id": "401902040",
-          "start": "2026-09-17T17:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401902039",
-          "start": "2026-09-19T13:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401902036",
-          "start": "2026-09-19T15:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401902035",
-          "start": "2026-09-19T18:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -3386,6 +3458,33 @@
         {
           "id": "401900553",
           "start": "2026-09-20T02:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/rsa.1": {
+      "sport": "soccer",
+      "slug": "rsa.1",
+      "name": "South African Premiership",
+      "events": [
+        {
+          "id": "401902040",
+          "start": "2026-09-17T17:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401902039",
+          "start": "2026-09-19T13:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401902036",
+          "start": "2026-09-19T15:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401902035",
+          "start": "2026-09-19T18:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -4022,73 +4121,6 @@
         }
       ]
     },
-    "soccer/eng.5": {
-      "sport": "soccer",
-      "slug": "eng.5",
-      "name": "English National League",
-      "events": [
-        {
-          "id": "401889300",
-          "start": "2026-09-18T18:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401889299",
-          "start": "2026-09-19T11:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401889298",
-          "start": "2026-09-19T11:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401889297",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401889296",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401889295",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401889294",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401889293",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401889292",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401889291",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401889290",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401889426",
-          "start": "2026-09-19T16:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "mma/ufc": {
       "sport": "mma",
       "slug": "ufc",
@@ -4098,6 +4130,42 @@
           "id": "600060963",
           "start": "2026-09-19T21:00:00.000Z",
           "state": "pre"
+        }
+      ]
+    },
+    "racing/nascar-premier": {
+      "sport": "racing",
+      "slug": "nascar-premier",
+      "name": "NASCAR Cup Series",
+      "events": [
+        {
+          "id": "202609190016",
+          "start": "2026-09-19T23:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "racing/nascar-secondary": {
+      "sport": "racing",
+      "slug": "nascar-secondary",
+      "name": "NASCAR O'Reilly Auto Parts Series",
+      "events": [
+        {
+          "id": "202609180309",
+          "start": "2026-09-18T23:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "golf/champions-tour": {
+      "sport": "golf",
+      "slug": "champions-tour",
+      "name": "PGA TOUR Champions",
+      "events": [
+        {
+          "id": "401832075",
+          "start": "2026-09-18T04:00:00.000Z",
+          "state": "in"
         }
       ]
     },
@@ -4125,6 +4193,18 @@
         }
       ]
     },
+    "golf/ntw": {
+      "sport": "golf",
+      "slug": "ntw",
+      "name": "Korn Ferry Tour",
+      "events": [
+        {
+          "id": "401837449",
+          "start": "2026-09-17T04:00:00.000Z",
+          "state": "in"
+        }
+      ]
+    },
     "golf/pga": {
       "sport": "golf",
       "slug": "pga",
@@ -4134,42 +4214,6 @@
           "id": "401850914",
           "start": "2026-09-17T04:00:00.000Z",
           "state": "in"
-        }
-      ]
-    },
-    "golf/champions-tour": {
-      "sport": "golf",
-      "slug": "champions-tour",
-      "name": "PGA TOUR Champions",
-      "events": [
-        {
-          "id": "401832075",
-          "start": "2026-09-18T04:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "racing/nascar-premier": {
-      "sport": "racing",
-      "slug": "nascar-premier",
-      "name": "NASCAR Cup Series",
-      "events": [
-        {
-          "id": "202609190016",
-          "start": "2026-09-19T23:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "golf/ntw": {
-      "sport": "golf",
-      "slug": "ntw",
-      "name": "Korn Ferry Tour",
-      "events": [
-        {
-          "id": "401837449",
-          "start": "2026-09-17T04:00:00.000Z",
-          "state": "post"
         }
       ]
     },
@@ -4186,7 +4230,7 @@
         {
           "id": "1005-2026",
           "start": "2026-09-12T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "871-2026",
@@ -4201,7 +4245,7 @@
         {
           "id": "786-2026",
           "start": "2026-09-14T04:00:00.000Z",
-          "state": "in"
+          "state": "pre"
         },
         {
           "id": "811-2026",
@@ -4211,18 +4255,6 @@
         {
           "id": "1009-2026",
           "start": "2026-09-18T04:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "racing/nascar-secondary": {
-      "sport": "racing",
-      "slug": "nascar-secondary",
-      "name": "NASCAR O'Reilly Auto Parts Series",
-      "events": [
-        {
-          "id": "202609180309",
-          "start": "2026-09-18T23:30:00.000Z",
           "state": "pre"
         }
       ]
@@ -4306,23 +4338,6 @@
         }
       ]
     },
-    "australian-football/afl": {
-      "sport": "australian-football",
-      "slug": "afl",
-      "name": "AFL",
-      "events": [
-        {
-          "id": "1133710",
-          "start": "2026-09-18T09:40:00.000Z",
-          "state": "in"
-        },
-        {
-          "id": "1133709",
-          "start": "2026-09-19T07:15:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "rugby/289234": {
       "sport": "rugby",
       "slug": "289234",
@@ -4335,613 +4350,19 @@
         }
       ]
     },
-    "field-hockey/womens-college-field-hockey": {
-      "sport": "field-hockey",
-      "slug": "womens-college-field-hockey",
-      "name": "NCAA Women's Field Hockey",
+    "australian-football/afl": {
+      "sport": "australian-football",
+      "slug": "afl",
+      "name": "AFL",
       "events": [
         {
-          "id": "401884371",
-          "start": "2026-09-17T21:00:00.000Z",
+          "id": "1133710",
+          "start": "2026-09-18T09:40:00.000Z",
           "state": "post"
         },
         {
-          "id": "401897140",
-          "start": "2026-09-17T21:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401884043",
-          "start": "2026-09-18T01:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401897300",
-          "start": "2026-09-18T15:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401897144",
-          "start": "2026-09-18T15:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401887702",
-          "start": "2026-09-18T16:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401884292",
-          "start": "2026-09-18T17:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401897309",
-          "start": "2026-09-18T17:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401896888",
-          "start": "2026-09-18T17:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401887853",
-          "start": "2026-09-18T17:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401897154",
-          "start": "2026-09-18T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401884127",
-          "start": "2026-09-18T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401896904",
-          "start": "2026-09-18T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401897291",
-          "start": "2026-09-18T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401883718",
-          "start": "2026-09-18T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401883868",
-          "start": "2026-09-18T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401890218",
-          "start": "2026-09-18T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401884305",
-          "start": "2026-09-18T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401891920",
-          "start": "2026-09-18T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401890373",
-          "start": "2026-09-18T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401896244",
-          "start": "2026-09-18T20:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401884056",
-          "start": "2026-09-18T20:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401884382",
-          "start": "2026-09-18T20:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401883340",
-          "start": "2026-09-18T20:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401890350",
-          "start": "2026-09-18T20:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401883629",
-          "start": "2026-09-18T20:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401891955",
-          "start": "2026-09-18T20:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401887715",
-          "start": "2026-09-18T21:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401899971",
-          "start": "2026-09-18T21:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401883664",
-          "start": "2026-09-18T21:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401885717",
-          "start": "2026-09-18T22:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401883998",
-          "start": "2026-09-18T22:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401896875",
-          "start": "2026-09-18T22:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401884346",
-          "start": "2026-09-18T22:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401891886",
-          "start": "2026-09-18T22:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401897328",
-          "start": "2026-09-19T15:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401884101",
-          "start": "2026-09-19T16:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401884014",
-          "start": "2026-09-19T21:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "rugby-league/3": {
-      "sport": "rugby-league",
-      "slug": "3",
-      "name": "Rugby League",
-      "events": [
-        {
-          "id": "604756",
-          "start": "2026-09-19T09:50:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/eng.fa_qual": {
-      "sport": "soccer",
-      "slug": "eng.fa_qual",
-      "name": "English FA Cup Qualifying",
-      "events": [
-        {
-          "id": "401917298",
-          "start": "2026-09-18T18:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917311",
-          "start": "2026-09-18T18:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917284",
-          "start": "2026-09-19T11:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917295",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917300",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917340",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917302",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917315",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917209",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917303",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917275",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917290",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917310",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917353",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917336",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917276",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917207",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917285",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917211",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917331",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917328",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917325",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917291",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917343",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917355",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917324",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917326",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917339",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917342",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917322",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917212",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917320",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917286",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917277",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917312",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917292",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917299",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917304",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917305",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917301",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917330",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917287",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917281",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917317",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917289",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917296",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917318",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917309",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917274",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917210",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917344",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917283",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917335",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917278",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917332",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917341",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917294",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917282",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917314",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917333",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917337",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917323",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917308",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917279",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917316",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917297",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917338",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917334",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917354",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917306",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917357",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917358",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917327",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917307",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917208",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917280",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917356",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917313",
-          "start": "2026-09-19T14:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401917329",
-          "start": "2026-09-19T14:00:00.000Z",
+          "id": "1133709",
+          "start": "2026-09-19T07:15:00.000Z",
           "state": "pre"
         }
       ]
@@ -5259,122 +4680,122 @@
         {
           "id": "401885733",
           "start": "2026-09-18T14:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401896425",
           "start": "2026-09-18T14:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401899027",
           "start": "2026-09-18T14:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401899194",
           "start": "2026-09-18T14:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401900472",
           "start": "2026-09-18T14:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401885992",
           "start": "2026-09-18T15:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401887938",
           "start": "2026-09-18T15:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401890773",
           "start": "2026-09-18T15:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401896477",
-          "start": "2026-09-18T15:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401896986",
-          "start": "2026-09-18T15:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401897692",
           "start": "2026-09-18T15:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401897706",
           "start": "2026-09-18T15:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401902183",
           "start": "2026-09-18T15:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401903035",
-          "start": "2026-09-18T15:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401903281",
           "start": "2026-09-18T15:00:00.000Z",
-          "state": "pre"
+          "state": "in"
+        },
+        {
+          "id": "401896477",
+          "start": "2026-09-18T15:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401903035",
+          "start": "2026-09-18T15:00:00.000Z",
+          "state": "post"
         },
         {
           "id": "401903158",
           "start": "2026-09-18T15:30:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401887590",
           "start": "2026-09-18T16:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401883442",
           "start": "2026-09-18T16:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401884424",
           "start": "2026-09-18T16:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401885764",
           "start": "2026-09-18T16:00:00.000Z",
-          "state": "pre"
+          "state": "in"
+        },
+        {
+          "id": "401896986",
+          "start": "2026-09-18T16:00:00.000Z",
+          "state": "in"
         },
         {
           "id": "401897883",
           "start": "2026-09-18T16:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401899960",
           "start": "2026-09-18T16:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401900985",
           "start": "2026-09-18T16:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401901635",
           "start": "2026-09-18T16:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401896544",
@@ -6844,6 +6265,617 @@
         {
           "id": "401888457",
           "start": "2026-09-20T02:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "field-hockey/womens-college-field-hockey": {
+      "sport": "field-hockey",
+      "slug": "womens-college-field-hockey",
+      "name": "NCAA Women's Field Hockey",
+      "events": [
+        {
+          "id": "401884371",
+          "start": "2026-09-17T21:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401897140",
+          "start": "2026-09-17T21:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401884043",
+          "start": "2026-09-18T01:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401897300",
+          "start": "2026-09-18T15:00:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "401897144",
+          "start": "2026-09-18T15:00:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "401887702",
+          "start": "2026-09-18T16:00:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "401884292",
+          "start": "2026-09-18T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401897309",
+          "start": "2026-09-18T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401896888",
+          "start": "2026-09-18T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401887853",
+          "start": "2026-09-18T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401897154",
+          "start": "2026-09-18T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401884127",
+          "start": "2026-09-18T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401896904",
+          "start": "2026-09-18T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401897291",
+          "start": "2026-09-18T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401883718",
+          "start": "2026-09-18T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401883868",
+          "start": "2026-09-18T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401890218",
+          "start": "2026-09-18T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401884305",
+          "start": "2026-09-18T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401891920",
+          "start": "2026-09-18T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401890373",
+          "start": "2026-09-18T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401896244",
+          "start": "2026-09-18T20:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401884056",
+          "start": "2026-09-18T20:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401884382",
+          "start": "2026-09-18T20:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401883340",
+          "start": "2026-09-18T20:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401890350",
+          "start": "2026-09-18T20:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401883629",
+          "start": "2026-09-18T20:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401891955",
+          "start": "2026-09-18T20:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401887715",
+          "start": "2026-09-18T21:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401899971",
+          "start": "2026-09-18T21:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401883664",
+          "start": "2026-09-18T21:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401885717",
+          "start": "2026-09-18T22:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401883998",
+          "start": "2026-09-18T22:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401896875",
+          "start": "2026-09-18T22:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401884346",
+          "start": "2026-09-18T22:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401891886",
+          "start": "2026-09-18T22:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401897328",
+          "start": "2026-09-19T15:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401884101",
+          "start": "2026-09-19T16:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401884014",
+          "start": "2026-09-19T21:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "rugby-league/3": {
+      "sport": "rugby-league",
+      "slug": "3",
+      "name": "Rugby League",
+      "events": [
+        {
+          "id": "604756",
+          "start": "2026-09-19T09:50:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/eng.fa_qual": {
+      "sport": "soccer",
+      "slug": "eng.fa_qual",
+      "name": "English FA Cup Qualifying",
+      "events": [
+        {
+          "id": "401917298",
+          "start": "2026-09-18T18:45:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917311",
+          "start": "2026-09-18T18:45:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917284",
+          "start": "2026-09-19T11:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917295",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917300",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917340",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917302",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917315",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917209",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917303",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917275",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917290",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917310",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917353",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917336",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917276",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917207",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917285",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917211",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917331",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917328",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917325",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917291",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917343",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917355",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917324",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917326",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917339",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917342",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917322",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917212",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917320",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917286",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917277",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917312",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917292",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917299",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917304",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917305",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917301",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917330",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917287",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917281",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917317",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917289",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917296",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917318",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917309",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917274",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917210",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917344",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917283",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917335",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917278",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917332",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917341",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917294",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917282",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917314",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917333",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917337",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917323",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917308",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917279",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917316",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917297",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917338",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917334",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917354",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917306",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917357",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917358",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917327",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917307",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917208",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917280",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917356",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917313",
+          "start": "2026-09-19T14:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401917329",
+          "start": "2026-09-19T14:00:00.000Z",
           "state": "pre"
         }
       ]
