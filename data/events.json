@@ -1,11 +1,60 @@
 {
-  "generatedAt": "2026-10-28T05:55:02.249Z",
+  "generatedAt": "2026-10-28T13:12:16.709Z",
   "window": [
     "2026-10-27",
     "2026-10-28",
     "2026-10-29"
   ],
   "leagues": {
+    "football/nfl": {
+      "sport": "football",
+      "slug": "nfl",
+      "name": "National Football League",
+      "events": [
+        {
+          "id": "401873023",
+          "start": "2026-10-30T00:15:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "football/college-football": {
+      "sport": "football",
+      "slug": "college-football",
+      "name": "NCAA - Football",
+      "events": [
+        {
+          "id": "401871071",
+          "start": "2026-10-27T23:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401871072",
+          "start": "2026-10-28T00:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401871058",
+          "start": "2026-10-28T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401871057",
+          "start": "2026-10-29T00:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401862812",
+          "start": "2026-10-29T23:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401869963",
+          "start": "2026-10-29T23:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "basketball/nba": {
       "sport": "basketball",
       "slug": "nba",
@@ -29,7 +78,7 @@
         {
           "id": "401909880",
           "start": "2026-10-28T03:00:00.000Z",
-          "state": "in"
+          "state": "post"
         },
         {
           "id": "401909881",
@@ -108,55 +157,6 @@
         }
       ]
     },
-    "football/nfl": {
-      "sport": "football",
-      "slug": "nfl",
-      "name": "National Football League",
-      "events": [
-        {
-          "id": "401873023",
-          "start": "2026-10-30T00:15:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "football/college-football": {
-      "sport": "football",
-      "slug": "college-football",
-      "name": "NCAA - Football",
-      "events": [
-        {
-          "id": "401871071",
-          "start": "2026-10-27T23:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401871072",
-          "start": "2026-10-28T00:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401871058",
-          "start": "2026-10-28T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401871057",
-          "start": "2026-10-29T00:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401862812",
-          "start": "2026-10-29T23:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401869963",
-          "start": "2026-10-29T23:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "basketball/wnba": {
       "sport": "basketball",
       "slug": "wnba",
@@ -165,6 +165,23 @@
         {
           "id": "401918310",
           "start": "2026-10-29T16:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "basketball/nbl": {
+      "sport": "basketball",
+      "slug": "nbl",
+      "name": "National Basketball League",
+      "events": [
+        {
+          "id": "401875292",
+          "start": "2026-10-28T10:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401875280",
+          "start": "2026-10-29T09:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -182,23 +199,6 @@
         {
           "id": "401908046",
           "start": "2026-10-29T00:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "basketball/nbl": {
-      "sport": "basketball",
-      "slug": "nbl",
-      "name": "National Basketball League",
-      "events": [
-        {
-          "id": "401875292",
-          "start": "2026-10-28T10:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401875280",
-          "start": "2026-10-29T09:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -340,19 +340,71 @@
         }
       ]
     },
-    "hockey/mens-college-hockey": {
+    "hockey/womens-college-hockey": {
       "sport": "hockey",
-      "slug": "mens-college-hockey",
-      "name": "NCAA Men's Ice Hockey",
+      "slug": "womens-college-hockey",
+      "name": "NCAA Women's Hockey",
       "events": [
         {
-          "id": "401904771",
-          "start": "2026-10-29T20:00:00.000Z",
+          "id": "401912347",
+          "start": "2026-10-29T21:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401905028",
+          "id": "401913611",
           "start": "2026-10-29T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401904106",
+          "start": "2026-10-30T00:15:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/eng.league_cup": {
+      "sport": "soccer",
+      "slug": "eng.league_cup",
+      "name": "English Carabao Cup",
+      "events": [
+        {
+          "id": "401921833",
+          "start": "2026-10-27T19:45:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401921835",
+          "start": "2026-10-27T20:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401921834",
+          "start": "2026-10-28T19:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401921840",
+          "start": "2026-10-28T19:45:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401921841",
+          "start": "2026-10-28T19:45:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401921843",
+          "start": "2026-10-28T19:45:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401921842",
+          "start": "2026-10-28T20:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401921844",
+          "start": "2026-10-29T19:45:00.000Z",
           "state": "pre"
         }
       ]
@@ -721,28 +773,6 @@
         }
       ]
     },
-    "hockey/womens-college-hockey": {
-      "sport": "hockey",
-      "slug": "womens-college-hockey",
-      "name": "NCAA Women's Hockey",
-      "events": [
-        {
-          "id": "401912347",
-          "start": "2026-10-29T21:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401913611",
-          "start": "2026-10-29T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401904106",
-          "start": "2026-10-30T00:15:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/ger.dfb_pokal": {
       "sport": "soccer",
       "slug": "ger.dfb_pokal",
@@ -826,6 +856,23 @@
         {
           "id": "401917034",
           "start": "2026-10-28T19:45:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "hockey/mens-college-hockey": {
+      "sport": "hockey",
+      "slug": "mens-college-hockey",
+      "name": "NCAA Men's Ice Hockey",
+      "events": [
+        {
+          "id": "401904771",
+          "start": "2026-10-29T20:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401905028",
+          "start": "2026-10-29T23:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -939,53 +986,6 @@
         }
       ]
     },
-    "soccer/eng.league_cup": {
-      "sport": "soccer",
-      "slug": "eng.league_cup",
-      "name": "English Carabao Cup",
-      "events": [
-        {
-          "id": "401921833",
-          "start": "2026-10-27T19:45:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401921835",
-          "start": "2026-10-27T20:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401921834",
-          "start": "2026-10-28T19:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401921840",
-          "start": "2026-10-28T19:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401921841",
-          "start": "2026-10-28T19:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401921843",
-          "start": "2026-10-28T19:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401921842",
-          "start": "2026-10-28T20:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401921844",
-          "start": "2026-10-29T19:45:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/mex.1": {
       "sport": "soccer",
       "slug": "mex.1",
@@ -1064,6 +1064,18 @@
           "id": "401923297",
           "start": "2026-10-28T19:30:00.000Z",
           "state": "pre"
+        }
+      ]
+    },
+    "soccer/sco.tennents": {
+      "sport": "soccer",
+      "slug": "sco.tennents",
+      "name": "Scottish Cup",
+      "events": [
+        {
+          "id": "401928436",
+          "start": "2026-10-27T19:45:00.000Z",
+          "state": "post"
         }
       ]
     },
@@ -1204,112 +1216,6 @@
         }
       ]
     },
-    "soccer/sco.tennents": {
-      "sport": "soccer",
-      "slug": "sco.tennents",
-      "name": "Scottish Cup",
-      "events": [
-        {
-          "id": "401928436",
-          "start": "2026-10-27T19:45:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
-    "soccer/sco.1": {
-      "sport": "soccer",
-      "slug": "sco.1",
-      "name": "Scottish Premiership",
-      "events": [
-        {
-          "id": "401878356",
-          "start": "2026-10-28T19:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878355",
-          "start": "2026-10-28T19:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878354",
-          "start": "2026-10-28T19:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878352",
-          "start": "2026-10-28T19:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878351",
-          "start": "2026-10-28T19:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401878353",
-          "start": "2026-10-28T20:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/afc.champions": {
-      "sport": "soccer",
-      "slug": "afc.champions",
-      "name": "AFC Champions League Elite",
-      "events": [
-        {
-          "id": "401912636",
-          "start": "2026-10-27T10:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401912638",
-          "start": "2026-10-27T10:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401912637",
-          "start": "2026-10-27T10:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401912639",
-          "start": "2026-10-27T10:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401912621",
-          "start": "2026-10-27T12:15:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401912635",
-          "start": "2026-10-27T12:15:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401912634",
-          "start": "2026-10-27T16:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401912620",
-          "start": "2026-10-27T18:15:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401912632",
-          "start": "2026-10-28T10:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401912633",
-          "start": "2026-10-28T10:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/afc.cup": {
       "sport": "soccer",
       "slug": "afc.cup",
@@ -1328,12 +1234,12 @@
         {
           "id": "401912785",
           "start": "2026-10-28T12:15:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401912784",
           "start": "2026-10-28T12:15:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401912783",
@@ -1393,6 +1299,100 @@
         {
           "id": "401912774",
           "start": "2026-10-29T12:15:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/afc.champions": {
+      "sport": "soccer",
+      "slug": "afc.champions",
+      "name": "AFC Champions League Elite",
+      "events": [
+        {
+          "id": "401912636",
+          "start": "2026-10-27T10:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401912638",
+          "start": "2026-10-27T10:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401912637",
+          "start": "2026-10-27T10:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401912639",
+          "start": "2026-10-27T10:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401912621",
+          "start": "2026-10-27T12:15:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401912635",
+          "start": "2026-10-27T12:15:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401912634",
+          "start": "2026-10-27T16:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401912620",
+          "start": "2026-10-27T18:15:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401912632",
+          "start": "2026-10-28T10:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401912633",
+          "start": "2026-10-28T10:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "soccer/sco.1": {
+      "sport": "soccer",
+      "slug": "sco.1",
+      "name": "Scottish Premiership",
+      "events": [
+        {
+          "id": "401878356",
+          "start": "2026-10-28T19:45:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401878355",
+          "start": "2026-10-28T19:45:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401878354",
+          "start": "2026-10-28T19:45:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401878352",
+          "start": "2026-10-28T19:45:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401878351",
+          "start": "2026-10-28T19:45:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401878353",
+          "start": "2026-10-28T20:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -1519,22 +1519,22 @@
       "name": "FIFA Under-17 Women's World Cup",
       "events": [
         {
+          "id": "401916254",
+          "start": "2026-10-28T15:00:00.000Z",
+          "state": "pre"
+        },
+        {
           "id": "401916251",
           "start": "2026-10-28T15:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401916270",
-          "start": "2026-10-28T15:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401916254",
+          "id": "401916259",
           "start": "2026-10-28T18:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401916259",
+          "id": "401916270",
           "start": "2026-10-28T18:00:00.000Z",
           "state": "pre"
         },
@@ -1698,18 +1698,6 @@
         }
       ]
     },
-    "soccer/sco.2": {
-      "sport": "soccer",
-      "slug": "sco.2",
-      "name": "Scottish Championship",
-      "events": [
-        {
-          "id": "401878552",
-          "start": "2026-10-27T19:45:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "soccer/swe.1": {
       "sport": "soccer",
       "slug": "swe.1",
@@ -1757,14 +1745,14 @@
         }
       ]
     },
-    "soccer/arg.1": {
+    "soccer/sco.2": {
       "sport": "soccer",
-      "slug": "arg.1",
-      "name": "Argentine Liga Profesional de Fútbol",
+      "slug": "sco.2",
+      "name": "Scottish Championship",
       "events": [
         {
-          "id": "401841642",
-          "start": "2026-10-27T22:00:00.000Z",
+          "id": "401878552",
+          "start": "2026-10-27T19:45:00.000Z",
           "state": "post"
         }
       ]
@@ -1778,6 +1766,18 @@
           "id": "401926287",
           "start": "2026-10-29T00:15:00.000Z",
           "state": "pre"
+        }
+      ]
+    },
+    "soccer/arg.1": {
+      "sport": "soccer",
+      "slug": "arg.1",
+      "name": "Argentine Liga Profesional de Fútbol",
+      "events": [
+        {
+          "id": "401841642",
+          "start": "2026-10-27T22:00:00.000Z",
+          "state": "post"
         }
       ]
     },
@@ -1936,60 +1936,6 @@
         }
       ]
     },
-    "soccer/ven.1": {
-      "sport": "soccer",
-      "slug": "ven.1",
-      "name": "Venezuelan Primera División",
-      "events": [
-        {
-          "id": "401931015",
-          "start": "2026-10-27T21:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401930974",
-          "start": "2026-10-27T23:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401930993",
-          "start": "2026-10-28T23:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401930969",
-          "start": "2026-10-28T23:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/concacaf.central.american.cup": {
-      "sport": "soccer",
-      "slug": "concacaf.central.american.cup",
-      "name": "Concacaf Central American Cup",
-      "events": [
-        {
-          "id": "401922484",
-          "start": "2026-10-28T02:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401922483",
-          "start": "2026-10-29T00:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401922482",
-          "start": "2026-10-29T03:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401922481",
-          "start": "2026-10-30T02:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/gua.1": {
       "sport": "soccer",
       "slug": "gua.1",
@@ -2027,6 +1973,33 @@
         }
       ]
     },
+    "soccer/concacaf.central.american.cup": {
+      "sport": "soccer",
+      "slug": "concacaf.central.american.cup",
+      "name": "Concacaf Central American Cup",
+      "events": [
+        {
+          "id": "401922484",
+          "start": "2026-10-28T02:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401922483",
+          "start": "2026-10-29T00:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401922482",
+          "start": "2026-10-29T03:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401922481",
+          "start": "2026-10-30T02:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "soccer/ind.1": {
       "sport": "soccer",
       "slug": "ind.1",
@@ -2035,6 +2008,33 @@
         {
           "id": "401925423",
           "start": "2026-10-28T14:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "soccer/ven.1": {
+      "sport": "soccer",
+      "slug": "ven.1",
+      "name": "Venezuelan Primera División",
+      "events": [
+        {
+          "id": "401931015",
+          "start": "2026-10-27T21:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401930974",
+          "start": "2026-10-27T23:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401930993",
+          "start": "2026-10-28T23:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401930969",
+          "start": "2026-10-28T23:30:00.000Z",
           "state": "pre"
         }
       ]
@@ -2555,23 +2555,6 @@
         }
       ]
     },
-    "tennis/atp": {
-      "sport": "tennis",
-      "slug": "atp",
-      "name": "ATP",
-      "events": [
-        {
-          "id": "10-2026",
-          "start": "2026-10-24T04:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "23-2026",
-          "start": "2026-10-24T04:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "golf/pga": {
       "sport": "golf",
       "slug": "pga",
@@ -2597,12 +2580,12 @@
         {
           "id": "232-2026",
           "start": "2026-10-23T04:00:00.000Z",
-          "state": "in"
+          "state": "pre"
         },
         {
           "id": "264-2026",
           "start": "2026-10-23T04:00:00.000Z",
-          "state": "in"
+          "state": "pre"
         },
         {
           "id": "1080-2026",
@@ -2612,7 +2595,7 @@
         {
           "id": "1081-2026",
           "start": "2026-10-25T04:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "1034-2026",
@@ -2621,40 +2604,20 @@
         }
       ]
     },
-    "field-hockey/womens-college-field-hockey": {
-      "sport": "field-hockey",
-      "slug": "womens-college-field-hockey",
-      "name": "NCAA Women's Field Hockey",
+    "tennis/atp": {
+      "sport": "tennis",
+      "slug": "atp",
+      "name": "ATP",
       "events": [
         {
-          "id": "401883817",
-          "start": "2026-10-27T22:00:00.000Z",
-          "state": "post"
+          "id": "10-2026",
+          "start": "2026-10-24T04:00:00.000Z",
+          "state": "in"
         },
         {
-          "id": "401883622",
-          "start": "2026-10-29T17:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401883638",
-          "start": "2026-10-29T18:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401897072",
-          "start": "2026-10-29T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401896895",
-          "start": "2026-10-29T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401884051",
-          "start": "2026-10-30T01:00:00.000Z",
-          "state": "pre"
+          "id": "23-2026",
+          "start": "2026-10-24T04:00:00.000Z",
+          "state": "in"
         }
       ]
     },
@@ -3031,6 +2994,43 @@
         {
           "id": "401891107",
           "start": "2026-10-30T02:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "field-hockey/womens-college-field-hockey": {
+      "sport": "field-hockey",
+      "slug": "womens-college-field-hockey",
+      "name": "NCAA Women's Field Hockey",
+      "events": [
+        {
+          "id": "401883817",
+          "start": "2026-10-27T22:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401883622",
+          "start": "2026-10-29T17:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401883638",
+          "start": "2026-10-29T18:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401897072",
+          "start": "2026-10-29T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401896895",
+          "start": "2026-10-29T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401884051",
+          "start": "2026-10-30T01:00:00.000Z",
           "state": "pre"
         }
       ]
