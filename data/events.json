@@ -1,38 +1,11 @@
 {
-  "generatedAt": "2026-11-16T06:46:51.680Z",
+  "generatedAt": "2026-11-16T22:18:13.919Z",
   "window": [
     "2026-11-15",
     "2026-11-16",
     "2026-11-17"
   ],
   "leagues": {
-    "football/college-football": {
-      "sport": "football",
-      "slug": "college-football",
-      "name": "NCAA - Football",
-      "events": [
-        {
-          "id": "401856887",
-          "start": "2026-11-15T18:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401866465",
-          "start": "2026-11-17T23:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401866464",
-          "start": "2026-11-18T00:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401866466",
-          "start": "2026-11-18T00:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "football/nfl": {
       "sport": "football",
       "slug": "nfl",
@@ -105,104 +78,29 @@
         }
       ]
     },
-    "basketball/mens-college-basketball": {
-      "sport": "basketball",
-      "slug": "mens-college-basketball",
-      "name": "NCAA Men's Basketball",
+    "football/college-football": {
+      "sport": "football",
+      "slug": "college-football",
+      "name": "NCAA - Football",
       "events": [
         {
-          "id": "401918949",
+          "id": "401856887",
           "start": "2026-11-15T18:00:00.000Z",
           "state": "post"
         },
         {
-          "id": "401926063",
-          "start": "2026-11-15T18:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401918453",
-          "start": "2026-11-15T19:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401906866",
-          "start": "2026-11-15T20:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401920681",
-          "start": "2026-11-16T00:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401926772",
-          "start": "2026-11-16T00:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401921804",
-          "start": "2026-11-17T00:00:00.000Z",
+          "id": "401866465",
+          "start": "2026-11-17T23:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401924265",
-          "start": "2026-11-17T03:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401920511",
-          "start": "2026-11-17T19:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401906773",
-          "start": "2026-11-17T21:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401909566",
+          "id": "401866464",
           "start": "2026-11-18T00:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401921722",
+          "id": "401866466",
           "start": "2026-11-18T00:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401906761",
-          "start": "2026-11-18T00:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401916289",
-          "start": "2026-11-18T00:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401921826",
-          "start": "2026-11-18T01:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401906851",
-          "start": "2026-11-18T02:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401920426",
-          "start": "2026-11-18T02:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401909787",
-          "start": "2026-11-18T02:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401925879",
-          "start": "2026-11-18T04:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -324,6 +222,103 @@
         }
       ]
     },
+    "basketball/mens-college-basketball": {
+      "sport": "basketball",
+      "slug": "mens-college-basketball",
+      "name": "NCAA Men's Basketball",
+      "events": [
+        {
+          "id": "401918949",
+          "start": "2026-11-15T18:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401926063",
+          "start": "2026-11-15T18:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401918453",
+          "start": "2026-11-15T19:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401906866",
+          "start": "2026-11-15T20:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401920681",
+          "start": "2026-11-16T00:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401926772",
+          "start": "2026-11-16T00:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401924265",
+          "start": "2026-11-17T03:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401920511",
+          "start": "2026-11-17T19:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401906773",
+          "start": "2026-11-17T21:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401909566",
+          "start": "2026-11-18T00:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401921722",
+          "start": "2026-11-18T00:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401906761",
+          "start": "2026-11-18T00:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401916289",
+          "start": "2026-11-18T00:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401921826",
+          "start": "2026-11-18T01:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401906851",
+          "start": "2026-11-18T02:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401920426",
+          "start": "2026-11-18T02:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401909787",
+          "start": "2026-11-18T02:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401925879",
+          "start": "2026-11-18T04:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "basketball/nba-development": {
       "sport": "basketball",
       "slug": "nba-development",
@@ -362,17 +357,17 @@
         {
           "id": "401914557",
           "start": "2026-11-16T17:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401914559",
           "start": "2026-11-16T19:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401914558",
           "start": "2026-11-16T22:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401914560",
@@ -408,6 +403,18 @@
           "id": "401914566",
           "start": "2026-11-18T01:00:00.000Z",
           "state": "pre"
+        }
+      ]
+    },
+    "basketball/nbl": {
+      "sport": "basketball",
+      "slug": "nbl",
+      "name": "National Basketball League",
+      "events": [
+        {
+          "id": "401875300",
+          "start": "2026-11-15T06:00:00.000Z",
+          "state": "post"
         }
       ]
     },
@@ -515,18 +522,6 @@
           "id": "401903557",
           "start": "2026-11-18T03:30:00.000Z",
           "state": "pre"
-        }
-      ]
-    },
-    "basketball/nbl": {
-      "sport": "basketball",
-      "slug": "nbl",
-      "name": "National Basketball League",
-      "events": [
-        {
-          "id": "401875300",
-          "start": "2026-11-15T06:00:00.000Z",
-          "state": "post"
         }
       ]
     },
@@ -669,7 +664,7 @@
         {
           "id": "401914292",
           "start": "2026-11-16T18:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401933879",
@@ -1005,52 +1000,52 @@
         {
           "id": "401861180",
           "start": "2026-11-16T15:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401861181",
           "start": "2026-11-16T15:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401861183",
           "start": "2026-11-16T17:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401861182",
           "start": "2026-11-16T17:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401861184",
           "start": "2026-11-16T17:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401861185",
           "start": "2026-11-16T19:45:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401861179",
           "start": "2026-11-16T19:45:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401861188",
           "start": "2026-11-16T19:45:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401861187",
           "start": "2026-11-16T19:45:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401861186",
           "start": "2026-11-16T19:45:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401861196",
@@ -1091,38 +1086,6 @@
           "id": "401861189",
           "start": "2026-11-17T19:45:00.000Z",
           "state": "pre"
-        }
-      ]
-    },
-    "soccer/esp.w.1": {
-      "sport": "soccer",
-      "slug": "esp.w.1",
-      "name": "Spanish Liga F",
-      "events": [
-        {
-          "id": "401882457",
-          "start": "2026-11-15T11:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401882455",
-          "start": "2026-11-15T11:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401882454",
-          "start": "2026-11-15T15:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401882459",
-          "start": "2026-11-15T17:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401882453",
-          "start": "2026-11-15T17:15:00.000Z",
-          "state": "post"
         }
       ]
     },
@@ -1248,6 +1211,38 @@
         }
       ]
     },
+    "soccer/esp.w.1": {
+      "sport": "soccer",
+      "slug": "esp.w.1",
+      "name": "Spanish Liga F",
+      "events": [
+        {
+          "id": "401882457",
+          "start": "2026-11-15T11:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401882455",
+          "start": "2026-11-15T11:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401882454",
+          "start": "2026-11-15T15:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401882459",
+          "start": "2026-11-15T17:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401882453",
+          "start": "2026-11-15T17:15:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
     "soccer/usa.w.usl.1": {
       "sport": "soccer",
       "slug": "usa.w.usl.1",
@@ -1273,17 +1268,17 @@
         {
           "id": "401929707",
           "start": "2026-11-16T19:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401929771",
           "start": "2026-11-16T19:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401929708",
           "start": "2026-11-16T19:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401929706",
@@ -1355,32 +1350,32 @@
         {
           "id": "401927170",
           "start": "2026-11-16T13:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401927135",
           "start": "2026-11-16T13:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401927173",
-          "start": "2026-11-16T13:00:00.000Z",
-          "state": "pre"
+          "start": "2026-11-16T14:00:00.000Z",
+          "state": "post"
         },
         {
           "id": "401927177",
           "start": "2026-11-16T15:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401927172",
           "start": "2026-11-16T16:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401927176",
-          "start": "2026-11-16T17:00:00.000Z",
-          "state": "pre"
+          "start": "2026-11-16T16:00:00.000Z",
+          "state": "post"
         },
         {
           "id": "401927169",
@@ -1526,7 +1521,7 @@
         {
           "id": "401883305",
           "start": "2026-11-16T19:30:00.000Z",
-          "state": "pre"
+          "state": "post"
         }
       ]
     },
@@ -1570,7 +1565,7 @@
         {
           "id": "401929697",
           "start": "2026-11-16T17:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401929695",
@@ -1614,27 +1609,27 @@
         {
           "id": "401934216",
           "start": "2026-11-16T11:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401934235",
           "start": "2026-11-16T15:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401934135",
           "start": "2026-11-16T17:15:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401933456",
           "start": "2026-11-16T18:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401930175",
           "start": "2026-11-16T19:30:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401934336",
@@ -1751,23 +1746,6 @@
         }
       ]
     },
-    "soccer/col.copa": {
-      "sport": "soccer",
-      "slug": "col.copa",
-      "name": "Copa Colombia",
-      "events": [
-        {
-          "id": "401933183",
-          "start": "2026-11-17T23:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401933121",
-          "start": "2026-11-18T01:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/per.1": {
       "sport": "soccer",
       "slug": "per.1",
@@ -1786,33 +1764,50 @@
         {
           "id": "401886134",
           "start": "2026-11-16T18:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401886121",
           "start": "2026-11-16T20:15:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401886119",
           "start": "2026-11-16T20:15:00.000Z",
+          "state": "in"
+        }
+      ]
+    },
+    "soccer/col.copa": {
+      "sport": "soccer",
+      "slug": "col.copa",
+      "name": "Copa Colombia",
+      "events": [
+        {
+          "id": "401933183",
+          "start": "2026-11-17T23:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401933121",
+          "start": "2026-11-18T01:30:00.000Z",
           "state": "pre"
         }
       ]
     },
-    "soccer/bol.copa": {
+    "soccer/gua.1": {
       "sport": "soccer",
-      "slug": "bol.copa",
-      "name": "Copa Bolivia",
+      "slug": "gua.1",
+      "name": "Guatemalan Liga Nacional",
       "events": [
         {
-          "id": "401930228",
-          "start": "2026-11-15T19:00:00.000Z",
+          "id": "401879641",
+          "start": "2026-11-15T21:00:00.000Z",
           "state": "post"
         },
         {
-          "id": "401930229",
-          "start": "2026-11-15T21:30:00.000Z",
+          "id": "401879611",
+          "start": "2026-11-15T23:05:00.000Z",
           "state": "post"
         }
       ]
@@ -1834,19 +1829,19 @@
         }
       ]
     },
-    "soccer/gua.1": {
+    "soccer/bol.copa": {
       "sport": "soccer",
-      "slug": "gua.1",
-      "name": "Guatemalan Liga Nacional",
+      "slug": "bol.copa",
+      "name": "Copa Bolivia",
       "events": [
         {
-          "id": "401879641",
-          "start": "2026-11-15T21:00:00.000Z",
+          "id": "401930228",
+          "start": "2026-11-15T19:00:00.000Z",
           "state": "post"
         },
         {
-          "id": "401879611",
-          "start": "2026-11-15T23:05:00.000Z",
+          "id": "401930229",
+          "start": "2026-11-15T21:30:00.000Z",
           "state": "post"
         }
       ]
@@ -1999,6 +1994,18 @@
         }
       ]
     },
+    "golf/lpga": {
+      "sport": "golf",
+      "slug": "lpga",
+      "name": "Ladies Pro Golf Association",
+      "events": [
+        {
+          "id": "401835176",
+          "start": "2026-11-12T05:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
     "golf/eur": {
       "sport": "golf",
       "slug": "eur",
@@ -2023,27 +2030,15 @@
         }
       ]
     },
-    "golf/lpga": {
+    "golf/pga": {
       "sport": "golf",
-      "slug": "lpga",
-      "name": "Ladies Pro Golf Association",
+      "slug": "pga",
+      "name": "PGA Tour",
       "events": [
         {
-          "id": "401835176",
+          "id": "401850980",
           "start": "2026-11-12T05:00:00.000Z",
           "state": "post"
-        }
-      ]
-    },
-    "tennis/atp": {
-      "sport": "tennis",
-      "slug": "atp",
-      "name": "ATP",
-      "events": [
-        {
-          "id": "339-2026",
-          "start": "2026-11-15T05:00:00.000Z",
-          "state": "pre"
         }
       ]
     },
@@ -2065,19 +2060,19 @@
         {
           "id": "904-2026",
           "start": "2026-11-15T05:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         }
       ]
     },
-    "golf/pga": {
-      "sport": "golf",
-      "slug": "pga",
-      "name": "PGA Tour",
+    "tennis/atp": {
+      "sport": "tennis",
+      "slug": "atp",
+      "name": "ATP",
       "events": [
         {
-          "id": "401850980",
-          "start": "2026-11-12T05:00:00.000Z",
-          "state": "post"
+          "id": "339-2026",
+          "start": "2026-11-15T05:00:00.000Z",
+          "state": "pre"
         }
       ]
     },
