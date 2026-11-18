@@ -1,11 +1,60 @@
 {
-  "generatedAt": "2026-11-18T07:41:57.862Z",
+  "generatedAt": "2026-11-18T20:41:30.257Z",
   "window": [
     "2026-11-17",
     "2026-11-18",
     "2026-11-19"
   ],
   "leagues": {
+    "football/nfl": {
+      "sport": "football",
+      "slug": "nfl",
+      "name": "National Football League",
+      "events": [
+        {
+          "id": "401873066",
+          "start": "2026-11-20T01:15:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "football/college-football": {
+      "sport": "football",
+      "slug": "college-football",
+      "name": "NCAA - Football",
+      "events": [
+        {
+          "id": "401866465",
+          "start": "2026-11-17T23:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401866464",
+          "start": "2026-11-18T00:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401866466",
+          "start": "2026-11-18T00:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401866467",
+          "start": "2026-11-19T00:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401866469",
+          "start": "2026-11-19T00:30:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401862830",
+          "start": "2026-11-20T00:30:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
     "basketball/nba": {
       "sport": "basketball",
       "slug": "nba",
@@ -114,18 +163,6 @@
         {
           "id": "401910022",
           "start": "2026-11-20T01:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "football/nfl": {
-      "sport": "football",
-      "slug": "nfl",
-      "name": "National Football League",
-      "events": [
-        {
-          "id": "401873066",
-          "start": "2026-11-20T01:15:00.000Z",
           "state": "pre"
         }
       ]
@@ -252,43 +289,6 @@
         }
       ]
     },
-    "football/college-football": {
-      "sport": "football",
-      "slug": "college-football",
-      "name": "NCAA - Football",
-      "events": [
-        {
-          "id": "401866465",
-          "start": "2026-11-17T23:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401866464",
-          "start": "2026-11-18T00:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401866466",
-          "start": "2026-11-18T00:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401866467",
-          "start": "2026-11-19T00:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401866469",
-          "start": "2026-11-19T00:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401862830",
-          "start": "2026-11-20T00:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "basketball/nba-development": {
       "sport": "basketball",
       "slug": "nba-development",
@@ -322,7 +322,7 @@
         {
           "id": "401914567",
           "start": "2026-11-18T16:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401914569",
@@ -357,6 +357,23 @@
         {
           "id": "401914574",
           "start": "2026-11-20T03:00:00.000Z",
+          "state": "pre"
+        }
+      ]
+    },
+    "basketball/nbl": {
+      "sport": "basketball",
+      "slug": "nbl",
+      "name": "National Basketball League",
+      "events": [
+        {
+          "id": "401875306",
+          "start": "2026-11-18T06:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401875305",
+          "start": "2026-11-19T08:30:00.000Z",
           "state": "pre"
         }
       ]
@@ -478,19 +495,29 @@
         }
       ]
     },
-    "basketball/nbl": {
-      "sport": "basketball",
-      "slug": "nbl",
-      "name": "National Basketball League",
+    "hockey/mens-college-hockey": {
+      "sport": "hockey",
+      "slug": "mens-college-hockey",
+      "name": "NCAA Men's Ice Hockey",
       "events": [
         {
-          "id": "401875306",
-          "start": "2026-11-18T06:30:00.000Z",
-          "state": "in"
+          "id": "401904713",
+          "start": "2026-11-19T00:00:00.000Z",
+          "state": "pre"
         },
         {
-          "id": "401875305",
-          "start": "2026-11-19T08:30:00.000Z",
+          "id": "401904775",
+          "start": "2026-11-19T23:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401904962",
+          "start": "2026-11-20T00:00:00.000Z",
+          "state": "pre"
+        },
+        {
+          "id": "401913587",
+          "start": "2026-11-20T00:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -632,30 +659,40 @@
         }
       ]
     },
-    "hockey/mens-college-hockey": {
-      "sport": "hockey",
-      "slug": "mens-college-hockey",
-      "name": "NCAA Men's Ice Hockey",
+    "soccer/esp.copa_del_rey": {
+      "sport": "soccer",
+      "slug": "esp.copa_del_rey",
+      "name": "Spanish Copa del Rey",
       "events": [
         {
-          "id": "401904713",
-          "start": "2026-11-19T00:00:00.000Z",
-          "state": "pre"
+          "id": "401928518",
+          "start": "2026-11-18T18:00:00.000Z",
+          "state": "post"
         },
         {
-          "id": "401904775",
-          "start": "2026-11-19T23:00:00.000Z",
-          "state": "pre"
+          "id": "401928497",
+          "start": "2026-11-18T18:00:00.000Z",
+          "state": "post"
         },
         {
-          "id": "401904962",
-          "start": "2026-11-20T00:00:00.000Z",
-          "state": "pre"
+          "id": "401928505",
+          "start": "2026-11-18T19:00:00.000Z",
+          "state": "in"
         },
         {
-          "id": "401913587",
-          "start": "2026-11-20T00:00:00.000Z",
-          "state": "pre"
+          "id": "401928532",
+          "start": "2026-11-18T19:00:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "401928524",
+          "start": "2026-11-18T19:30:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "401928500",
+          "start": "2026-11-18T19:30:00.000Z",
+          "state": "in"
         }
       ]
     },
@@ -686,39 +723,54 @@
         }
       ]
     },
-    "soccer/esp.copa_del_rey": {
+    "soccer/uefa.wchampions": {
       "sport": "soccer",
-      "slug": "esp.copa_del_rey",
-      "name": "Spanish Copa del Rey",
+      "slug": "uefa.wchampions",
+      "name": "UEFA Women's Champions League",
       "events": [
         {
-          "id": "401928518",
-          "start": "2026-11-18T18:00:00.000Z",
+          "id": "401916982",
+          "start": "2026-11-18T17:45:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401916981",
+          "start": "2026-11-18T17:45:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401916980",
+          "start": "2026-11-18T20:00:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "401916979",
+          "start": "2026-11-18T20:00:00.000Z",
+          "state": "in"
+        },
+        {
+          "id": "401916978",
+          "start": "2026-11-19T17:45:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401928497",
-          "start": "2026-11-18T18:00:00.000Z",
+          "id": "401916977",
+          "start": "2026-11-19T17:45:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401928505",
-          "start": "2026-11-18T19:00:00.000Z",
+          "id": "401916976",
+          "start": "2026-11-19T20:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401928532",
-          "start": "2026-11-18T19:00:00.000Z",
+          "id": "401916975",
+          "start": "2026-11-19T20:00:00.000Z",
           "state": "pre"
         },
         {
-          "id": "401928524",
-          "start": "2026-11-18T19:30:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401928500",
-          "start": "2026-11-18T19:30:00.000Z",
+          "id": "401916974",
+          "start": "2026-11-19T20:00:00.000Z",
           "state": "pre"
         }
       ]
@@ -837,58 +889,6 @@
         }
       ]
     },
-    "soccer/uefa.wchampions": {
-      "sport": "soccer",
-      "slug": "uefa.wchampions",
-      "name": "UEFA Women's Champions League",
-      "events": [
-        {
-          "id": "401916982",
-          "start": "2026-11-18T17:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401916981",
-          "start": "2026-11-18T17:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401916980",
-          "start": "2026-11-18T20:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401916979",
-          "start": "2026-11-18T20:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401916978",
-          "start": "2026-11-19T17:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401916977",
-          "start": "2026-11-19T17:45:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401916976",
-          "start": "2026-11-19T20:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401916975",
-          "start": "2026-11-19T20:00:00.000Z",
-          "state": "pre"
-        },
-        {
-          "id": "401916974",
-          "start": "2026-11-19T20:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/uefa.nations": {
       "sport": "soccer",
       "slug": "uefa.nations",
@@ -936,18 +936,6 @@
         }
       ]
     },
-    "soccer/eng.w.fa": {
-      "sport": "soccer",
-      "slug": "eng.w.fa",
-      "name": "English Women's FA Cup",
-      "events": [
-        {
-          "id": "401928690",
-          "start": "2026-11-18T19:45:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/esp.copa_de_la_reina": {
       "sport": "soccer",
       "slug": "esp.copa_de_la_reina",
@@ -956,17 +944,17 @@
         {
           "id": "401928559",
           "start": "2026-11-18T17:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401928558",
           "start": "2026-11-18T18:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401928561",
           "start": "2026-11-18T19:30:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401928541",
@@ -988,27 +976,27 @@
         {
           "id": "401923287",
           "start": "2026-11-18T19:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401923284",
           "start": "2026-11-18T19:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401923286",
           "start": "2026-11-18T19:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401923285",
           "start": "2026-11-18T19:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401923377",
           "start": "2026-11-18T19:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         }
       ]
     },
@@ -1173,72 +1161,6 @@
         }
       ]
     },
-    "soccer/eng.trophy": {
-      "sport": "soccer",
-      "slug": "eng.trophy",
-      "name": "English EFL Trophy",
-      "events": [
-        {
-          "id": "401906326",
-          "start": "2026-11-17T19:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
-    "soccer/fifa.friendly_u21": {
-      "sport": "soccer",
-      "slug": "fifa.friendly_u21",
-      "name": "Under-21 International Friendly",
-      "events": [
-        {
-          "id": "401934336",
-          "start": "2026-11-17T16:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401931797",
-          "start": "2026-11-17T17:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401933436",
-          "start": "2026-11-17T17:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401931799",
-          "start": "2026-11-17T17:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401932217",
-          "start": "2026-11-17T18:00:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
-    "soccer/uefa.euro_u21_qual": {
-      "sport": "soccer",
-      "slug": "uefa.euro_u21_qual",
-      "name": "UEFA European Under-21 Championship Qualifying",
-      "events": [
-        {
-          "id": "401929695",
-          "start": "2026-11-17T16:00:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401929698",
-          "start": "2026-11-17T17:30:00.000Z",
-          "state": "post"
-        },
-        {
-          "id": "401929696",
-          "start": "2026-11-17T17:45:00.000Z",
-          "state": "post"
-        }
-      ]
-    },
     "soccer/fifa.world.u17": {
       "sport": "soccer",
       "slug": "fifa.world.u17",
@@ -1283,6 +1205,72 @@
           "id": "401873516",
           "start": "2026-11-19T16:00:00.000Z",
           "state": "pre"
+        }
+      ]
+    },
+    "soccer/uefa.euro_u21_qual": {
+      "sport": "soccer",
+      "slug": "uefa.euro_u21_qual",
+      "name": "UEFA European Under-21 Championship Qualifying",
+      "events": [
+        {
+          "id": "401929695",
+          "start": "2026-11-17T16:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401929698",
+          "start": "2026-11-17T17:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401929696",
+          "start": "2026-11-17T17:45:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "soccer/fifa.friendly_u21": {
+      "sport": "soccer",
+      "slug": "fifa.friendly_u21",
+      "name": "Under-21 International Friendly",
+      "events": [
+        {
+          "id": "401934336",
+          "start": "2026-11-17T16:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401931797",
+          "start": "2026-11-17T17:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401933436",
+          "start": "2026-11-17T17:00:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401931799",
+          "start": "2026-11-17T17:30:00.000Z",
+          "state": "post"
+        },
+        {
+          "id": "401932217",
+          "start": "2026-11-17T18:00:00.000Z",
+          "state": "post"
+        }
+      ]
+    },
+    "soccer/eng.trophy": {
+      "sport": "soccer",
+      "slug": "eng.trophy",
+      "name": "English EFL Trophy",
+      "events": [
+        {
+          "id": "401906326",
+          "start": "2026-11-17T19:00:00.000Z",
+          "state": "post"
         }
       ]
     },
@@ -1338,30 +1326,6 @@
         }
       ]
     },
-    "soccer/per.1": {
-      "sport": "soccer",
-      "slug": "per.1",
-      "name": "Peruvian Liga 1",
-      "events": [
-        {
-          "id": "401886138",
-          "start": "2026-11-18T20:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
-    "soccer/bol.copa": {
-      "sport": "soccer",
-      "slug": "bol.copa",
-      "name": "Copa Bolivia",
-      "events": [
-        {
-          "id": "401930226",
-          "start": "2026-11-18T23:30:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "soccer/col.copa": {
       "sport": "soccer",
       "slug": "col.copa",
@@ -1379,15 +1343,27 @@
         }
       ]
     },
-    "soccer/afc.saff.championship": {
+    "soccer/per.1": {
       "sport": "soccer",
-      "slug": "afc.saff.championship",
-      "name": "SAFF Championship",
+      "slug": "per.1",
+      "name": "Peruvian Liga 1",
       "events": [
         {
-          "id": "401934455",
-          "start": "2026-11-17T14:00:00.000Z",
-          "state": "post"
+          "id": "401886138",
+          "start": "2026-11-18T20:00:00.000Z",
+          "state": "in"
+        }
+      ]
+    },
+    "soccer/bol.copa": {
+      "sport": "soccer",
+      "slug": "bol.copa",
+      "name": "Copa Bolivia",
+      "events": [
+        {
+          "id": "401930226",
+          "start": "2026-11-18T23:30:00.000Z",
+          "state": "pre"
         }
       ]
     },
@@ -1399,7 +1375,7 @@
         {
           "id": "401930694",
           "start": "2026-11-18T13:00:00.000Z",
-          "state": "pre"
+          "state": "post"
         },
         {
           "id": "401930693",
@@ -1410,6 +1386,18 @@
           "id": "401930692",
           "start": "2026-11-19T13:00:00.000Z",
           "state": "pre"
+        }
+      ]
+    },
+    "soccer/afc.saff.championship": {
+      "sport": "soccer",
+      "slug": "afc.saff.championship",
+      "name": "SAFF Championship",
+      "events": [
+        {
+          "id": "401934455",
+          "start": "2026-11-17T14:00:00.000Z",
+          "state": "post"
         }
       ]
     },
@@ -1524,18 +1512,6 @@
         }
       ]
     },
-    "tennis/atp": {
-      "sport": "tennis",
-      "slug": "atp",
-      "name": "ATP",
-      "events": [
-        {
-          "id": "339-2026",
-          "start": "2026-11-15T05:00:00.000Z",
-          "state": "pre"
-        }
-      ]
-    },
     "golf/pga": {
       "sport": "golf",
       "slug": "pga",
@@ -1550,6 +1526,18 @@
           "id": "401850981",
           "start": "2026-11-19T05:00:00.000Z",
           "state": "pre"
+        }
+      ]
+    },
+    "tennis/atp": {
+      "sport": "tennis",
+      "slug": "atp",
+      "name": "ATP",
+      "events": [
+        {
+          "id": "339-2026",
+          "start": "2026-11-15T05:00:00.000Z",
+          "state": "in"
         }
       ]
     },
@@ -1678,7 +1666,7 @@
         {
           "id": "401901308",
           "start": "2026-11-18T20:00:00.000Z",
-          "state": "pre"
+          "state": "in"
         },
         {
           "id": "401901784",
